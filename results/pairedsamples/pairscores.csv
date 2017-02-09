@@ -1,0 +1,206 @@
+"","NumStudies","NumPositiveCor","NumNegativeCor","NumTotalCor"
+"hippurate",8,8,0,8
+"urate",7,7,0,7
+"pipecolate",7,6,0,6
+"uracil",8,6,0,6
+"urea",7,6,0,6
+"1,5-anhydroglucitol (1,5-ag)",6,5,0,5
+"3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)",5,5,0,5
+"3-hydroxybutyrate (bhba)",5,5,0,5
+"4-androsten-3beta,17beta-diol disulfate 1*",5,5,0,5
+"alanine",8,5,0,5
+"p-cresol sulfate",5,5,0,5
+"phenol sulfate",5,5,0,5
+"phenylacetylglutamine",5,5,0,5
+"phenylalanine",8,5,0,5
+"pyroglutamine*",5,5,0,5
+"threonine",8,5,0,5
+"trans-4-hydroxyproline",7,5,0,5
+"tryptophan betaine",5,5,0,5
+"tyrosine",8,4,1,5
+"2-hydroxybutyrate (ahb)",7,4,0,4
+"5,6-dihydrouracil",6,4,0,4
+"asparagine",8,4,0,4
+"butyrylcarnitine",5,4,0,4
+"catechol sulfate",5,4,0,4
+"docosahexaenoate (dha; 22:6n3)",5,4,0,4
+"eicosapentaenoate (epa; 20:5n3)",5,4,0,4
+"gluconate",6,4,0,4
+"hexanoylcarnitine",6,4,0,4
+"hypoxanthine",8,4,0,4
+"leucine",7,4,0,4
+"lidocaine",5,4,0,4
+"pseudouridine",5,4,0,4
+"serine",8,4,0,4
+"succinate",7,3,1,4
+"thymine",6,4,0,4
+"tryptophan",8,4,0,4
+"1-stearoylglycerophosphoinositol",5,2,1,3
+"2'-deoxyinosine",5,3,0,3
+"3-(4-hydroxyphenyl)lactate",5,3,0,3
+"3-phosphoglycerate",7,3,0,3
+"5-oxoproline",5,3,0,3
+"adenosine",8,3,0,3
+"arginine",7,3,0,3
+"aspartylphenylalanine",5,3,0,3
+"choline",5,3,0,3
+"citrulline",8,3,0,3
+"cortisol",5,3,0,3
+"cysteine",7,3,0,3
+"cytidine",7,2,1,3
+"erythritol",5,3,0,3
+"flavin adenine dinucleotide (fad)",6,3,0,3
+"fumarate",7,2,1,3
+"glutamate",7,3,0,3
+"glutathione, reduced (gsh)",7,3,0,3
+"glycine",7,3,0,3
+"glycylproline",5,3,0,3
+"guanosine",7,3,0,3
+"histidine",8,3,0,3
+"isoleucine",6,3,0,3
+"laurate (12:0)",6,3,0,3
+"lysine",8,3,0,3
+"mannose-6-phosphate",6,3,0,3
+"n1-methyladenosine",6,3,0,3
+"ornithine",7,3,0,3
+"pantothenate",8,3,0,3
+"proline",8,3,0,3
+"scyllo-inositol",5,3,0,3
+"spermidine",7,3,0,3
+"taurine",8,3,0,3
+"valine",8,3,0,3
+"xanthosine",6,3,0,3
+"alpha-ketoglutarate",5,2,1,3
+"1-arachidonoylglycerophosphoethanolamine*",5,2,0,2
+"1-stearoylglycerophosphocholine",5,1,1,2
+"1-stearoylglycerophosphoethanolamine",5,1,1,2
+"2-aminoadipate",7,2,0,2
+"2-aminobutyrate",5,2,0,2
+"2-arachidonoylglycerophosphocholine*",5,0,2,2
+"2-linoleoylglycerophosphocholine*",5,0,2,2
+"2-palmitoylglycerol (2-monopalmitin)",5,2,0,2
+"2-palmitoylglycerophosphocholine*",5,0,2,2
+"3-dehydrocarnitine*",5,2,0,2
+"3-methylhistidine",5,2,0,2
+"4-hydroxybutyrate (ghb)",5,2,0,2
+"4-methyl-2-oxopentanoate",5,2,0,2
+"acetylcarnitine",6,2,0,2
+"adenosine 5'-monophosphate (amp)",5,2,0,2
+"adrenate (22:4n6)",5,2,0,2
+"alpha-tocopherol",5,2,0,2
+"aspartate",8,2,0,2
+"beta-alanine",5,2,0,2
+"cholesterol",6,2,0,2
+"creatine",7,2,0,2
+"creatinine",6,2,0,2
+"deoxycarnitine",5,2,0,2
+"dimethylarginine (sdma + adma)",6,2,0,2
+"docosadienoate (22:2n6)",5,2,0,2
+"docosapentaenoate (n3 dpa; 22:5n3)",5,2,0,2
+"erythronate*",5,2,0,2
+"ethanolamine",5,2,0,2
+"fructose",6,2,0,2
+"fructose-6-phosphate",7,2,0,2
+"gamma-glutamylglutamate",5,2,0,2
+"glucose-6-phosphate (g6p)",6,2,0,2
+"glutamine",7,2,0,2
+"glutathione, oxidized (gssg)",6,2,0,2
+"glycerate",7,2,0,2
+"glycerophosphorylcholine (gpc)",7,2,0,2
+"guanine",7,2,0,2
+"homocysteine",7,2,0,2
+"inosine",7,2,0,2
+"isobutyrylcarnitine",5,2,0,2
+"lactate",7,2,0,2
+"linoleate (18:2n6)",6,2,0,2
+"linolenate [alpha or gamma; (18:3n3 or 6)]",5,2,0,2
+"maltose",5,2,0,2
+"methionine",8,2,0,2
+"n-acetylalanine",6,2,0,2
+"n-acetylglucosamine",6,2,0,2
+"n-acetylmethionine",5,2,0,2
+"n-acetylneuraminate",6,1,1,2
+"putrescine",6,2,0,2
+"spermine",6,2,0,2
+"uridine",7,2,0,2
+"10-heptadecenoate (17:1n7)",5,1,0,1
+"1-oleoylglycerophosphocholine",5,0,1,1
+"1-oleoylglycerophosphoethanolamine",5,1,0,1
+"1-palmitoylglycerophosphocholine",5,0,1,1
+"1-stearoylglycerol (1-monostearin)",5,1,0,1
+"2-methylbutyroylcarnitine",5,1,0,1
+"2-oleoylglycerophosphocholine*",5,0,1,1
+"2-oleoylglycerophosphoethanolamine*",5,1,0,1
+"5-methylthioadenosine (mta)",5,0,1,1
+"6-phosphogluconate",7,1,0,1
+"alanylleucine",5,1,0,1
+"arachidonate (20:4n6)",6,1,0,1
+"ascorbate (vitamin c)",7,1,0,1
+"azelate (nonanedioate)",5,1,0,1
+"betaine",6,1,0,1
+"carnitine",8,1,0,1
+"c-glycosyltryptophan*",5,1,0,1
+"choline phosphate",5,1,0,1
+"citrate",7,1,0,1
+"cytidine 5'-diphosphocholine",5,1,0,1
+"cytidine 5'-monophosphate (5'-cmp)",8,1,0,1
+"dihomo-linoleate (20:2n6)",5,1,0,1
+"docosatrienoate (22:3n3)",5,1,0,1
+"gamma-aminobutyrate (gaba)",6,1,0,1
+"gamma-glutamylglutamine",5,1,0,1
+"glucose",6,1,0,1
+"glycerol",6,1,0,1
+"glycerol 2-phosphate",5,1,0,1
+"glycerol 3-phosphate (g3p)",7,1,0,1
+"glycylleucine",5,1,0,1
+"heme*",5,1,0,1
+"histamine",7,1,0,1
+"inositol 1-phosphate (i1p)",5,1,0,1
+"isovalerylcarnitine",5,1,0,1
+"kynurenine",8,1,0,1
+"malate",7,1,0,1
+"maltotetraose",5,1,0,1
+"maltotriose",5,1,0,1
+"myo-inositol",6,0,1,1
+"myristate (14:0)",6,1,0,1
+"n1-methylguanosine",5,1,0,1
+"n6-acetyllysine",6,1,0,1
+"n-acetylaspartate (naa)",6,1,0,1
+"nicotinamide",7,1,0,1
+"nicotinamide adenine dinucleotide (nad+)",7,1,0,1
+"oleoylcarnitine",5,1,0,1
+"ophthalmate",5,1,0,1
+"palmitate (16:0)",7,1,0,1
+"palmitoleate (16:1n7)",6,1,0,1
+"riboflavin (vitamin b2)",6,1,0,1
+"ribose",6,1,0,1
+"s-adenosylhomocysteine (sah)",7,1,0,1
+"s-adenosylmethionine (sam)",5,1,0,1
+"stearoylcarnitine",5,0,1,1
+"xanthine",8,1,0,1
+"xylitol",5,1,0,1
+"10-nonadecenoate (19:1n9)",5,0,0,0
+"1-linoleoylglycerophosphocholine",5,0,0,0
+"2-arachidonoylglycerophosphoethanolamine*",5,0,0,0
+"2-hydroxypalmitate",5,0,0,0
+"adenine",5,0,0,0
+"cysteine-glutathione disulfide",5,0,0,0
+"cystine",5,0,0,0
+"dihomo-linolenate (20:3n3 or n6)",5,0,0,0
+"eicosenoate (20:1n9 or 11)",5,0,0,0
+"gamma-glutamylleucine",5,0,0,0
+"mannose",6,0,0,0
+"margarate (17:0)",6,0,0,0
+"n-acetyl-aspartyl-glutamate (naag)",5,0,0,0
+"n-acetylserine",5,0,0,0
+"n-acetylthreonine",5,0,0,0
+"oleate (18:1n9)",7,0,0,0
+"phosphate",5,0,0,0
+"phosphoethanolamine",6,0,0,0
+"propionylcarnitine",5,0,0,0
+"sarcosine (n-methylglycine)",5,0,0,0
+"sorbitol",5,0,0,0
+"sphingosine",5,0,0,0
+"stearate (18:0)",5,0,0,0
+"succinylcarnitine",5,0,0,0
+"valerylcarnitine",5,0,0,0

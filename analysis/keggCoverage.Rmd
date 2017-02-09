@@ -1,0 +1,74 @@
+---
+title: "KEGG Coverage Analysis"
+output:
+  html_notebook: default
+---
+
+## Purpose
+
+To see how much of the KEGG pathways are described in the current dataset: 
+
+```{r knitrSetup, include=FALSE}
+library(knitr)
+opts_chunk$set(out.extra='style="display:block; margin: auto"', fig.align="center", tidy=FALSE)
+verbose <- FALSE
+```
+
+# Load Data
+
+```{r loadData}
+# KEGG IDs for pathways
+load(file.path("..", "data", "KEGGpathays.RData"))
+
+# KEGG IDs found in dataset
+kegg <- read.table(file.path("..", "import", "tempdir", "KEGG_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+```
+
+# Number of Pathways in KEGG 
+
+```{r}
+length(cpdmap)
+```
+
+# Get Counts of Compounds in Pathways 
+```{r getCntCmpdsInPathways}
+t1 <- lapply(cpdmap, function(x) {
+  names(x)
+})
+
+t2 <- unlist(t1)
+t3 <- unique(t2)
+
+t4 <- which(kegg$X %in% t3)
+```
+
+# Total KEGG Compounds
+```{r}
+length(t3)
+```
+
+# Total Compounds in Dataset Also in KEGG
+```{r}
+length(t4)
+```
+
+# Fraction of KEGG
+```{r}
+length(t4)/ length(t3)
+```
+
+# Pathways Represented (At least 1 Metabolite)
+```{r}
+tX1 <- lapply(cpdmap, function(x) {
+  any(kegg$X %in% names(x))
+  
+  if(length(which(kegg$X %in% names(x))) >= 3) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+})
+
+length(unname(which(unlist(tX1))))
+```
+

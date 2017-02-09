@@ -1,0 +1,19 @@
+nodeName	formalName
+bcr_patient_barcode	tcga_participant_barcode
+=floor(-as.numeric(days_to_birth)/365.2422)	years_to_birth
+=ifelse( vital_status  %in% "dead" ,1, 0)	vital_status
+days_to_death	days_to_death
+days_to_last_followup	days_to_last_followup
+tumor_tissue_site	tumor_tissue_site
+pathologic_stage	pathologic_stage
+pathologic_t	pathology_T_stage
+pathologic_n	pathology_N_stage
+pathologic_m	pathology_M_stage
+gender	gender
+=ifelse(days_to_initial_pathologic_diagnosis != 0, days_to_initial_pathologic_diagnosis, year_of_initial_pathologic_diagnosis)	date_of_initial_pathologic_diagnosis
+days_to_last_known_alive	days_to_last_known_alive
+radiation_therapy	radiation_therapy
+histological_type	histological_type
+number_of_lymphnodes_positive_by_he	number_of_lymph_nodes
+race	race
+ethnicity	ethnicity

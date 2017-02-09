@@ -1,0 +1,936 @@
+NULL HEADER,NULL HEADER,NULL HEADER,NULL HEADER,NULL HEADER 
+Metabolite 1,1,1,2-propanediol:5
+Metabolite 2,2,1,3-dihydroxyacetone:4,dihydroxyacetone:1
+Metabolite 3,1,1,5-anhydroglucitol (1,5-ag):9
+Metabolite 4,1,10-heptadecenoate (17:1n7):8
+Metabolite 5,1,10-nonadecenoate (19:1n9):8
+Metabolite 6,1,13-hode + 9-hode:7
+Metabolite 7,1,15-methylpalmitate (isobar with 2-methylpalmitate):3
+Metabolite 8,1,16-hydroxypalmitate:1
+Metabolite 9,2,1-arachidonoyl-gpc* (20:4)*:1,1-arachidonoylglycerophosphocholine*:3
+Metabolite 10,2,1-arachidonoyl-gpe* (20:4)*:1,1-arachidonoylglycerophosphoethanolamine*:7
+Metabolite 11,1,1-arachidonoylglycerophosphoinositol*:6
+Metabolite 12,1,1-arachidonylglycerol:2
+Metabolite 13,1,1-docosahexaenoylglycerophosphocholine*:1
+Metabolite 14,1,1-heptadecanoylglycerophosphocholine:4
+Metabolite 15,1,1-heptadecanoylglycerophosphoethanolamine*:3
+Metabolite 16,1,1-linoleoylglycerol (1-monolinolein):3
+Metabolite 17,1,1-linoleoylglycerophosphocholine:7
+Metabolite 18,1,1-linoleoylglycerophosphoethanolamine*:3
+Metabolite 19,1,1-methylimidazoleacetate:4
+Metabolite 20,2,1-myristoyl-gpc (14:0):1,1-myristoylglycerophosphocholine:7
+Metabolite 21,1,1-myristoylglycerophosphoethanolamine:1
+Metabolite 22,2,1-oleoylglycerol (1-monoolein):5,1-oleoylglycerol (18:1):1
+Metabolite 23,2,1-oleoyl-gpc (18:1):1,1-oleoylglycerophosphocholine:7
+Metabolite 24,2,1-oleoyl-gpe (18:1):1,1-oleoylglycerophosphoethanolamine:7
+Metabolite 25,1,1-oleoylglycerophosphoinositol*:4
+Metabolite 26,1,1-oleoylglycerophosphoserine:2
+Metabolite 27,1,1-palmitoleoylglycerophosphocholine*:5
+Metabolite 28,1,1-palmitoleoylglycerophosphoethanolamine*:1
+Metabolite 29,2,1-palmitoylglycerol (1-monopalmitin):6,1-palmitoylglycerol (16:0):1
+Metabolite 30,2,1-palmitoyl-gpc (16:0):1,1-palmitoylglycerophosphocholine:7
+Metabolite 31,2,1-palmitoyl-gpe (16:0):1,1-palmitoylglycerophosphoethanolamine:6
+Metabolite 32,1,1-palmitoylglycerophosphoinositol*:6
+Metabolite 33,1,1-palmitoylplasmenylethanolamine*:5
+Metabolite 34,1,1-pentadecanoylglycerophosphocholine*:3
+Metabolite 35,2,1-stearoylglycerol (1-monostearin):7,1-stearoylglycerol (18:0):1
+Metabolite 36,2,1-stearoyl-gpc (18:0):1,1-stearoylglycerophosphocholine:7
+Metabolite 37,2,1-stearoyl-gpe (18:0):1,1-stearoylglycerophosphoethanolamine:7
+Metabolite 38,1,1-stearoylglycerophosphoinositol:7
+Metabolite 39,2,2-aminoadipate:9,aminoadipic acid:1
+Metabolite 40,1,2-aminobutyrate:8
+Metabolite 41,1,2-arachidonoylglycerophosphocholine*:7
+Metabolite 42,1,2-arachidonoylglycerophosphoethanolamine*:7
+Metabolite 43,1,2'-deoxyadenosine 3'-monophosphate:1
+Metabolite 44,1,2'-deoxycytidine 3'-monophosphate:1
+Metabolite 45,1,2'-deoxyguanosine:7
+Metabolite 46,1,2'-deoxyinosine:8
+Metabolite 47,1,2-docosahexaenoylglycerophosphocholine*:1
+Metabolite 48,1,2-docosahexaenoylglycerophosphoethanolamine*:6
+Metabolite 49,1,2-docosapentaenoylglycerophosphocholine*:1
+Metabolite 50,1,2-docosapentaenoylglycerophosphoethanolamine*:6
+Metabolite 51,1,2-eicosatrienoylglycerophosphocholine*:1
+Metabolite 52,1,2-ethylhexanoate:3
+Metabolite 53,1,2-hydroxyacetaminophen sulfate*:7
+Metabolite 54,2,2-hydroxybutyrate (ahb):9,2-hydroxybutyric acid sodium salt:1
+Metabolite 55,1,2-hydroxyglutarate:6
+Metabolite 56,1,2-hydroxyhippurate (salicylurate):4
+Metabolite 57,1,2-hydroxyisobutyrate:1
+Metabolite 58,1,2-hydroxypalmitate:8
+Metabolite 59,1,2-isopropylmalate:1
+Metabolite 60,1,2-linoleoylglycerol (2-monolinolein):4
+Metabolite 61,1,2-linoleoylglycerophosphocholine*:7
+Metabolite 62,1,2-linoleoylglycerophosphoethanolamine*:5
+Metabolite 63,1,2-methoxyacetaminophen sulfate*:6
+Metabolite 64,3,2-methylbutyroylcarnitine:6,2-methylbutyroylcarnitine (c5):1,2-methylbutyrylcarnitine (c5):1
+Metabolite 65,1,2-myristoylglycerophosphocholine*:3
+Metabolite 66,1,2-oleoylglycerol (2-monoolein):5
+Metabolite 67,1,2-oleoylglycerophosphocholine*:7
+Metabolite 68,1,2-oleoylglycerophosphoethanolamine*:7
+Metabolite 69,1,2-oleoylglycerophosphoserine*:1
+Metabolite 70,1,2-palmitoleoylglycerophosphocholine*:3
+Metabolite 71,2,2-palmitoylglycerol (16:0):1,2-palmitoylglycerol (2-monopalmitin):7
+Metabolite 72,1,2-palmitoylglycerophosphocholine*:7
+Metabolite 73,1,2-palmitoylglycerophosphoethanolamine*:6
+Metabolite 74,1,2-phosphoglycerate:3
+Metabolite 75,2,2-stearoyl-gpc* (18:0)*:1,2-stearoylglycerophosphocholine*:4
+Metabolite 76,1,2-stearoylglycerophosphoethanolamine*:1
+Metabolite 77,2,3-(4-hydroxyphenyl)lactate:7,3-(4-hydroxyphenyl)lactate (hpla):1
+Metabolite 78,1,3-(cystein-s-yl)acetaminophen*:5
+Metabolite 79,1,3-(n-acetyl-l-cystein-s-yl) acetaminophen*:1
+Metabolite 80,1,3,4-dihydroxyphenethyleneglycol:1
+Metabolite 81,1,3-aminoisobutyrate:7
+Metabolite 82,1,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf):8
+Metabolite 83,1,3-dehydrocarnitine*:8
+Metabolite 84,1,3'-dephosphocoenzyme a:4
+Metabolite 85,1,3-hydroxybutyrate (bhba):8
+Metabolite 86,1,3-hydroxydecanoate:2
+Metabolite 87,1,3-hydroxyhippurate:2
+Metabolite 88,1,3-hydroxyoctanoate:1
+Metabolite 89,1,3-indoxyl sulfate:5
+Metabolite 90,1,3-methyl-2-oxovalerate:6
+Metabolite 91,2,3-methylhistidine:5,3-methylhistidine (1-methylhistidine):1
+Metabolite 92,1,3-phosphoglycerate:9
+Metabolite 93,1,3-ureidopropionate:2
+Metabolite 94,1,4-acetamidophenol:5
+Metabolite 95,1,4-acetaminophen sulfate:7
+Metabolite 96,1,4-androsten-3beta,17beta-diol disulfate 1*:8
+Metabolite 97,1,4-guanidinobutanoate:5
+Metabolite 98,1,4-hydroxybutyrate (ghb):7
+Metabolite 99,1,4-hydroxyglutamate:1
+Metabolite 100,1,4-hydroxyhippurate:2
+Metabolite 101,1,4-hydroxyphenylacetate:3
+Metabolite 102,1,4-methyl-2-oxopentanoate:8
+Metabolite 103,1,5,6-dihydrouracil:9
+Metabolite 104,1,5-aminovalerate:4
+Metabolite 105,1,5-hete:1
+Metabolite 106,1,5-methyltetrahydrofolate (5methf):2
+Metabolite 107,1,5-methylthioadenosine (mta):7
+Metabolite 108,1,5-methyluridine (ribothymidine):3
+Metabolite 109,1,5-oxoete:1
+Metabolite 110,1,5-oxoproline:8
+Metabolite 111,1,6-keto prostaglandin f1alpha:3
+Metabolite 112,2,6-phospho-d-gluconate:1,6-phosphogluconate:9
+Metabolite 113,1,6'-sialyllactose:2
+Metabolite 114,2,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca):6,7-hoca:1
+Metabolite 115,1,7-alpha-hydroxycholesterol:3
+Metabolite 116,1,7-beta-hydroxycholesterol:4
+Metabolite 117,3,acetylcarnitine:7,acetylcarnitine (c2):1,acetylcarnitine dl:1
+Metabolite 118,1,ac-ser-asp-lys-pro-oh:3
+Metabolite 119,1,adenine:8
+Metabolite 120,1,adenosine:11
+Metabolite 121,2,2'-amp:1,adenosine 2'-monophosphate (2'-amp):6
+Metabolite 122,2,3'-amp:1,adenosine 3'-monophosphate (3'-amp):6
+Metabolite 123,2,adenosine 5'-monophosphate (amp):7,amp:1
+Metabolite 124,1,adenylosuccinate:4
+Metabolite 125,1,adipate:1
+Metabolite 126,1,adrenate (22:4n6):8
+Metabolite 127,1,agmatine:3
+Metabolite 128,1,alanine:11
+Metabolite 129,1,alanylalanine:3
+Metabolite 130,1,alanylglutamate:1
+Metabolite 131,1,alanylglycine:2
+Metabolite 132,1,alanylisoleucine:2
+Metabolite 133,1,alanylleucine:7
+Metabolite 134,1,alanylmethionine:1
+Metabolite 135,1,alanylphenylalanine:4
+Metabolite 136,1,alanylthreonine:1
+Metabolite 137,1,alanyltryptophan:1
+Metabolite 138,1,alanyltyrosine:4
+Metabolite 139,1,alanylvaline:3
+Metabolite 140,1,allo-threonine:4
+Metabolite 141,1,alpha-glutamylglutamate:2
+Metabolite 142,1,alpha-glutamyltryptophan:1
+Metabolite 143,1,alpha-glutamyltyrosine:2
+Metabolite 144,1,alpha-hydroxyisovalerate:7
+Metabolite 145,2,a-tocopherol:1,alpha-tocopherol:7
+Metabolite 146,1,androsterone sulfate:4
+Metabolite 147,1,anserine:4
+Metabolite 148,1,arabitol:6
+Metabolite 149,1,arabonate:3
+Metabolite 150,1,arachidate (20:0):2
+Metabolite 151,1,arachidonate (20:4n6):9
+Metabolite 152,1,arginine:10
+Metabolite 153,1,argininosuccinate:4
+Metabolite 154,1,arginylleucine:1
+Metabolite 155,1,arginylmethionine:1
+Metabolite 156,1,arginylphenylalanine:1
+Metabolite 157,1,arginyltyrosine:1
+Metabolite 158,1,arginylvaline:1
+Metabolite 159,2,ascorbate (vitamin c):9,ascorbic acid:1
+Metabolite 160,1,asparagine:11
+Metabolite 161,2,aspartate:10,aspartic acid:1
+Metabolite 162,1,aspartate-glutamate:3
+Metabolite 163,1,aspartylleucine:4
+Metabolite 164,1,aspartylphenylalanine:7
+Metabolite 165,1,aspartyltryptophan:1
+Metabolite 166,1,aspartylvaline:1
+Metabolite 167,1,atenolol:2
+Metabolite 168,1,azelate (nonanedioate):7
+Metabolite 169,2,benzoate:3,benzoic acid:1
+Metabolite 170,2,b-alanine:1,beta-alanine:7
+Metabolite 171,1,beta-hydroxypyruvate:1
+Metabolite 172,2,betaine:7,glycine betaine:1
+Metabolite 173,1,beta-tocopherol:2
+Metabolite 174,1,bilirubin (e,e)*:4
+Metabolite 175,1,bilirubin (z,z):2
+Metabolite 176,2,butyrylcarnitine:7,butyrylcarnitine (c4):1
+Metabolite 177,1,caprate (10:0):6
+Metabolite 178,1,caproate (6:0):7
+Metabolite 179,1,caprylate (8:0):6
+Metabolite 180,1,carnitine:11
+Metabolite 181,2,catechol:1,catechol sulfate:6
+Metabolite 182,1,celecoxib:1
+Metabolite 183,1,c-glycosyltryptophan*:8
+Metabolite 184,1,chiro-inositol:4
+Metabolite 185,1,cholate:4
+Metabolite 186,1,cholesterol:9
+Metabolite 187,1,choline:7
+Metabolite 188,2,choline phosphate:7,phosphocholine:1
+Metabolite 189,1,cinnamoylglycine:1
+Metabolite 190,2,aconitate:2,cis-aconitate:2
+Metabolite 191,2,cis-vaccenate (18:1n7):6,vaccenate (18:1n7):1
+Metabolite 192,1,citalopram:2
+Metabolite 193,1,citramalate:1
+Metabolite 194,1,citrate:10
+Metabolite 195,1,citrulline:11
+Metabolite 196,1,codeine:1
+Metabolite 197,1,cortisol:6
+Metabolite 198,1,cortisone:2
+Metabolite 199,1,creatine:10
+Metabolite 200,1,creatinine:9
+Metabolite 201,1,cysteine:10
+Metabolite 202,1,cysteine-glutathione disulfide:8
+Metabolite 203,1,cysteinylglycine:4
+Metabolite 204,1,cystine:8
+Metabolite 205,1,cytidine:10
+Metabolite 206,1,cytidine 5'-diphosphocholine:7
+Metabolite 207,3,cmp:1,cytidine 5'-monophosphate (5'-cmp):7,cytidine monophosphate (cmp):2
+Metabolite 208,1,cytidine-3'-monophosphate (3'-cmp):5
+Metabolite 209,1,cytosine-2',3'-cyclic monophosphate:1
+Metabolite 210,1,deoxycarnitine:8
+Metabolite 211,2,dihomo-linoleate (20:2n6):7,dihomolinoleate (20:2n6):1
+Metabolite 212,2,dihomo-linolenate (20:3n3 or n6):7,dihomolinolenate (20:3n3 or 3n6):1
+Metabolite 213,1,dihydrocholesterol:3
+Metabolite 214,3,assymetric dimethylarginine (adma):2,dimethylarginine (adma + sdma):1,dimethylarginine (sdma + adma):6
+Metabolite 215,1,dimethylglycine:5
+Metabolite 216,1,docosadienoate (22:2n6):8
+Metabolite 217,1,docosahexaenoate (dha; 22:6n3):8
+Metabolite 218,1,docosapentaenoate (n3 dpa; 22:5n3):7
+Metabolite 219,1,docosapentaenoate (n6 dpa; 22:5n6):5
+Metabolite 220,1,docosatrienoate (22:3n3):8
+Metabolite 221,1,dodecanedioate:2
+Metabolite 222,1,eicosapentaenoate (epa; 20:5n3):7
+Metabolite 223,2,eicosenoate (20:1n9 or 11):7,eicosenoate (20:1n9 or 1n11):1
+Metabolite 224,1,epinephrine:1
+Metabolite 225,1,ergothioneine:7
+Metabolite 226,1,erucate (22:1n9):1
+Metabolite 227,1,erythritol:8
+Metabolite 228,1,erythronate*:8
+Metabolite 229,1,ethanolamine:8
+Metabolite 230,2,fad:1,flavin adenine dinucleotide (fad):7
+Metabolite 231,1,fructose:9
+Metabolite 232,1,fructose 1-phosphate:2
+Metabolite 233,2,fructose 6-phosphate:1,fructose-6-phosphate:9
+Metabolite 234,1,fucose:6
+Metabolite 235,2,fumarate:9,fumarate (trans-butenedioate):1
+Metabolite 236,1,gabapentin:1
+Metabolite 237,1,galactose:5
+Metabolite 238,2,4-aminobutyrate:1,gamma-aminobutyrate (gaba):8
+Metabolite 239,2,g-glutamylcysteine:1,gamma-glutamylcysteine:1
+Metabolite 240,1,gamma-glutamylglutamate:8
+Metabolite 241,2,g-glutamylglutamine:1,gamma-glutamylglutamine:7
+Metabolite 242,1,gamma-glutamylisoleucine*:4
+Metabolite 243,1,gamma-glutamylleucine:7
+Metabolite 244,1,gamma-glutamylphenylalanine:5
+Metabolite 245,1,gamma-glutamylvaline:3
+Metabolite 246,1,gamma-tocopherol:6
+Metabolite 247,1,glucarate (saccharate):3
+Metabolite 248,2,d-gluconate:1,gluconate:8
+Metabolite 249,1,glucose:9
+Metabolite 250,2,glucose 1-phosphate:2,glucose-1-phosphate:1
+Metabolite 251,3,glucose 6-phosphate:1,glucose-6-phosphate:1,glucose-6-phosphate (g6p):7
+Metabolite 252,1,glucuronate:2
+Metabolite 253,1,glutamate:10
+Metabolite 254,1,glutamate, gamma-methyl ester:3
+Metabolite 255,1,glutamine:10
+Metabolite 256,1,glutarate (pentanedioate):6
+Metabolite 257,2,glutaroylcarnitine (c5):1,glutarylcarnitine (c5):1
+Metabolite 258,2,glutathione disulfide:1,glutathione, oxidized (gssg):8
+Metabolite 259,3,glutathione:1,glutathione reduced (gsh):1,glutathione, reduced (gsh):8
+Metabolite 260,1,glycerate:10
+Metabolite 261,1,glycerol:9
+Metabolite 262,1,glycerol 2-phosphate:8
+Metabolite 263,3,glycerol 3-phosphate (g3p):8,glycerol-3-phosphate (g3p):1,sn-glycerol-3-phosphate:1
+Metabolite 264,1,glycerophosphoethanolamine:5
+Metabolite 265,2,glycerophosphocholine:1,glycerophosphorylcholine (gpc):9
+Metabolite 266,1,glycine:10
+Metabolite 267,1,glycocholenate sulfate*:4
+Metabolite 268,1,glycolate (hydroxyacetate):5
+Metabolite 269,1,glycolithocholate sulfate*:5
+Metabolite 270,1,glycylglycine:6
+Metabolite 271,1,glycylisoleucine:5
+Metabolite 272,1,glycylleucine:7
+Metabolite 273,1,glycyllysine:1
+Metabolite 274,1,glycylmethionine:1
+Metabolite 275,1,glycylphenylalanine:2
+Metabolite 276,1,glycylproline:7
+Metabolite 277,1,glycylthreonine:1
+Metabolite 278,1,glycyltryptophan:2
+Metabolite 279,1,glycyltyrosine:2
+Metabolite 280,1,glycylvaline:5
+Metabolite 281,2,guanidinoacetate:3,guanidoacetic acid:1
+Metabolite 282,1,guanine:10
+Metabolite 283,1,guanosine:10
+Metabolite 284,1,guanosine 5'- monophosphate (5'-gmp):3
+Metabolite 285,1,gulono-1,4-lactone:1
+Metabolite 286,2,heme:1,heme*:7
+Metabolite 287,3,hexanoylcarnitine:7,hexanoylcarnitine (c6 ac):1,hexanoylcarnitine (c6):1
+Metabolite 288,3,hippurate:8,hippurate (benzoylglycine):1,hippuric acid:2
+Metabolite 289,1,histamine:10
+Metabolite 290,1,histidine:11
+Metabolite 291,1,histidylleucine:3
+Metabolite 292,1,histidylmethionine:1
+Metabolite 293,1,histidylphenylalanine:1
+Metabolite 294,1,histidyltryptophan:1
+Metabolite 295,1,histidyltyrosine:1
+Metabolite 296,1,homocysteine:8
+Metabolite 297,1,homoserine:2
+Metabolite 298,1,homostachydrine*:1
+Metabolite 299,1,hydantoin-5-propionic acid:1
+Metabolite 300,1,hydrochlorothiazide:2
+Metabolite 301,1,hypotaurine:7
+Metabolite 302,1,hypoxanthine:11
+Metabolite 303,1,imidazole propionate:1
+Metabolite 304,1,indoleacetate:1
+Metabolite 305,1,indolelactate:4
+Metabolite 306,1,inosine:10
+Metabolite 307,1,inositol 1-phosphate (i1p):8
+Metabolite 308,1,isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate:3
+Metabolite 309,1,isobar: ribulose 5-phosphate, xylulose 5-phosphate:6
+Metabolite 310,1,isobutyrylcarnitine:7
+Metabolite 311,1,isoleucine:9
+Metabolite 312,1,isoleucylalanine:3
+Metabolite 313,1,isoleucylarginine:1
+Metabolite 314,1,isoleucylglutamate:3
+Metabolite 315,1,isoleucylglycine:2
+Metabolite 316,1,isoleucylhistidine:1
+Metabolite 317,1,isoleucylisoleucine:4
+Metabolite 318,1,isoleucylmethionine:2
+Metabolite 319,1,isoleucylphenylalanine:2
+Metabolite 320,1,isoleucylserine:3
+Metabolite 321,1,isoleucyltryptophan:1
+Metabolite 322,1,isoleucyltyrosine:2
+Metabolite 323,1,isoleucylvaline:1
+Metabolite 324,2,isovalerylcarnitine:7,isovalerylcarnitine (c5):1
+Metabolite 325,1,kynurenine:11
+Metabolite 326,1,lactate:10
+Metabolite 327,2,laurate (12:0):8,lauric acid:1
+Metabolite 328,1,laurylcarnitine:3
+Metabolite 329,1,leucine:10
+Metabolite 330,1,leucylalanine:3
+Metabolite 331,1,leucylarginine:1
+Metabolite 332,1,leucylasparagine:1
+Metabolite 333,1,leucylglutamate:4
+Metabolite 334,1,leucylglycine:3
+Metabolite 335,1,leucylhistidine:1
+Metabolite 336,1,leucylleucine:4
+Metabolite 337,1,leucylmethionine:2
+Metabolite 338,1,leucylphenylalanine:2
+Metabolite 339,1,leucylserine:3
+Metabolite 340,1,leucyltryptophan:1
+Metabolite 341,1,leucyltyrosine:1
+Metabolite 342,1,lidocaine:8
+Metabolite 343,1,linoleate (18:2n6):9
+Metabolite 344,2,linolenate (18:3n3 or 3n6):1,linolenate [alpha or gamma; (18:3n3 or 6)]:7
+Metabolite 345,1,lipitor:1
+Metabolite 346,1,l-urobilin:1
+Metabolite 347,1,lysine:11
+Metabolite 348,1,lysylleucine:1
+Metabolite 349,1,lysyllysine:1
+Metabolite 350,1,lysylmethionine:1
+Metabolite 351,1,lysyltyrosine:1
+Metabolite 352,1,malate:10
+Metabolite 353,1,malonylcarnitine:2
+Metabolite 354,1,maltohexaose:2
+Metabolite 355,1,maltopentaose:4
+Metabolite 356,1,maltose:8
+Metabolite 357,1,maltotetraose:8
+Metabolite 358,1,maltotriose:8
+Metabolite 359,1,mannose:9
+Metabolite 360,2,mannose 6-phosphate:1,mannose-6-phosphate:8
+Metabolite 361,2,heptadecanoate (margarate; 17:0):1,margarate (17:0):8
+Metabolite 362,1,metformin:1
+Metabolite 363,1,methionine:11
+Metabolite 364,1,methionylalanine:1
+Metabolite 365,1,methionylasparagine:1
+Metabolite 366,1,methionylaspartate:1
+Metabolite 367,1,methionylglutamate:1
+Metabolite 368,1,methionylglycine:1
+Metabolite 369,1,methionylleucine:2
+Metabolite 370,1,methionylphenylalanine:1
+Metabolite 371,1,methyl-alpha-glucopyranoside:4
+Metabolite 372,2,3-methylglutaroylcarnitine (c6):1,methylglutaroylcarnitine:4
+Metabolite 373,1,methylphosphate:7
+Metabolite 374,1,metoprolol:6
+Metabolite 375,1,metoprolol acid metabolite*:6
+Metabolite 376,1,myo-inositol:9
+Metabolite 377,1,myristate (14:0):9
+Metabolite 378,1,myristoleate (14:1n5):7
+Metabolite 379,1,myristoylcarnitine:2
+Metabolite 380,1,n1-methyl-2-pyridone-5-carboxamide:1
+Metabolite 381,2,1-methyladenosine:2,n1-methyladenosine:7
+Metabolite 382,1,n1-methylguanosine:6
+Metabolite 383,1,n2,n2-dimethylguanosine:5
+Metabolite 384,1,n2-acetyllysine:1
+Metabolite 385,1,n2-methylguanosine:3
+Metabolite 386,2,acetyllysine:1,n6-acetyllysine:8
+Metabolite 387,1,n6-carbamoylthreonyladenosine:2
+Metabolite 388,1,n-6-trimethyllysine:2
+Metabolite 389,2,n-acetyl-l-alanine:1,n-acetylalanine:8
+Metabolite 390,1,n-acetylarginine:1
+Metabolite 391,1,n-acetylasparagine:1
+Metabolite 392,1,n-acetylaspartate (naa):9
+Metabolite 393,1,n-acetyl-aspartyl-glutamate (naag):8
+Metabolite 394,1,n-acetylglucosamine:6
+Metabolite 395,1,n-acetylglucosamine 6-phosphate:6
+Metabolite 396,1,n-acetylglutamine:1
+Metabolite 397,1,n-acetylglycine:5
+Metabolite 398,1,n-acetylisoleucine:3
+Metabolite 399,1,n-acetylleucine:1
+Metabolite 400,1,n-acetylmethionine:8
+Metabolite 401,1,n-acetylneuraminate:9
+Metabolite 402,2,n-acetyl-l-ornithine:1,n-acetylornithine:3
+Metabolite 403,1,n-acetylphenylalanine:1
+Metabolite 404,1,n-acetylserine:8
+Metabolite 405,1,n-acetylthreonine:7
+Metabolite 406,1,n-acetyltryptophan:6
+Metabolite 407,1,n-acetyltyrosine:1
+Metabolite 408,2,n-acetyl valine:1,n-acetylvaline:1
+Metabolite 409,1,naproxen:2
+Metabolite 410,1,nervonate (24:1n9):1
+Metabolite 411,1,nicotinamide:10
+Metabolite 412,2,nad+:2,nicotinamide adenine dinucleotide (nad+):8
+Metabolite 413,2,nadh:1,nicotinamide adenine dinucleotide reduced (nadh):3
+Metabolite 414,1,nicotinamide ribonucleotide (nmn):6
+Metabolite 415,1,nicotinamide riboside*:3
+Metabolite 416,1,nicotinate:2
+Metabolite 417,1,nicotinate adenine dinucleotide (naad+):1
+Metabolite 418,1,n-methylglutamate:1
+Metabolite 419,1,octanoylcarnitine:5
+Metabolite 420,2,oleate (18:1n9):9,oleic acid:1
+Metabolite 421,2,oleoylcarnitine:7,oleoylcarnitine (c18):1
+Metabolite 422,1,ophthalmate:8
+Metabolite 423,1,ornithine:10
+Metabolite 424,1,p-acetamidophenylglucuronide:7
+Metabolite 425,2,palmitate (16:0):9,palmitic acid:1
+Metabolite 426,1,palmitoleate (16:1n7):9
+Metabolite 427,1,palmitoyl sphingomyelin:6
+Metabolite 428,1,palmitoylcarnitine:6
+Metabolite 429,3,pantothenate:9,pantothenate (vitamin b5):1,pantothenic acid:1
+Metabolite 430,1,paroxetine:1
+Metabolite 431,1,p-cresol sulfate:8
+Metabolite 432,1,pelargonate (9:0):6
+Metabolite 433,1,penicillin g:3
+Metabolite 434,1,pentadecanoate (15:0):5
+Metabolite 435,1,phenol red:3
+Metabolite 436,1,phenol sulfate:8
+Metabolite 437,1,phenylacetylglutamine:8
+Metabolite 438,1,phenylalanine:11
+Metabolite 439,1,phenylalanylalanine:1
+Metabolite 440,1,phenylalanylarginine:1
+Metabolite 441,1,phenylalanylaspartate:1
+Metabolite 442,1,phenylalanylglutamate:1
+Metabolite 443,1,phenylalanylglycine:1
+Metabolite 444,2,phenylalanylleucine:1,phenylalanylleucine*:1
+Metabolite 445,1,phenylalanylmethionine:1
+Metabolite 446,1,phenylalanylphenylalanine:2
+Metabolite 447,1,phenylalanylproline:1
+Metabolite 448,1,phenylalanylserine:3
+Metabolite 449,1,phenylalanyltryptophan:1
+Metabolite 450,1,phenylalanyltyrosine:1
+Metabolite 451,1,phenylalanylvaline:1
+Metabolite 452,1,phosphate:8
+Metabolite 453,3,phosphoenolpyruvate:1,phosphoenolpyruvate (pep:1,phosphoenolpyruvate (pep):4
+Metabolite 454,2,phosphoethanolamine:8,phosphoethanolamine (pe):1
+Metabolite 455,1,phytosphingosine:3
+Metabolite 456,2,pipecolate:9,pipecolic acid:1
+Metabolite 457,1,piperine:3
+Metabolite 458,1,pivaloylcarnitine:1
+Metabolite 459,1,pregnanediol-3-glucuronide:2
+Metabolite 460,1,pregnen-diol disulfate*:5
+Metabolite 461,2,pro-hydroxy-pro:5,prolylhydroxyproline:1
+Metabolite 462,1,proline:11
+Metabolite 463,1,prolylglycine:2
+Metabolite 464,1,prolylmethionine:1
+Metabolite 465,2,propionylcarnitine:7,propionylcarnitine (c3):1
+Metabolite 466,1,prostaglandin a2:2
+Metabolite 467,1,prostaglandin e2:3
+Metabolite 468,1,pseudouridine:8
+Metabolite 469,1,putrescine:9
+Metabolite 470,1,pyridoxal:2
+Metabolite 471,1,pyridoxate:6
+Metabolite 472,1,pyroglutamine*:8
+Metabolite 473,1,pyrophosphate (ppi):6
+Metabolite 474,1,quebrachitol:2
+Metabolite 475,1,quinate:3
+Metabolite 476,1,quinidine:1
+Metabolite 477,1,quinolinate:5
+Metabolite 478,1,ranitidine:4
+Metabolite 479,1,ribitol:7
+Metabolite 480,1,riboflavin (vitamin b2):7
+Metabolite 481,1,ribose:9
+Metabolite 482,1,ribulose:7
+Metabolite 483,1,saccharopine:2
+Metabolite 484,2,s-adenosyl-l-homocysteine:1,s-adenosylhomocysteine (sah):9
+Metabolite 485,3,s-adenosyl-l-methionine:1,s-adenosylmethionine:1,s-adenosylmethionine (sam):3
+Metabolite 486,1,salicylate:3
+Metabolite 487,2,sarcosine:1,sarcosine (n-methylglycine):7
+Metabolite 488,1,scyllo-inositol:8
+Metabolite 489,1,sedoheptulose-7-phosphate:4
+Metabolite 490,1,serine:11
+Metabolite 491,1,serylisoleucine*:1
+Metabolite 492,1,serylleucine:4
+Metabolite 493,1,serylphenyalanine:3
+Metabolite 494,1,serylvaline:1
+Metabolite 495,2,methylcysteine:1,s-methylcysteine:4
+Metabolite 496,1,sorbitol:8
+Metabolite 497,1,sorbitol 6-phosphate:1
+Metabolite 498,1,spermidine:10
+Metabolite 499,1,spermine:8
+Metabolite 500,1,sphinganine:7
+Metabolite 501,1,sphingosine:8
+Metabolite 502,1,squalene:5
+Metabolite 503,1,stachydrine:7
+Metabolite 504,1,stearate (18:0):8
+Metabolite 505,1,stearidonate (18:4n3):4
+Metabolite 506,2,stearoylcarnitine:7,stearoylcarnitine (c18):1
+Metabolite 507,1,streptomycin:1
+Metabolite 508,1,succinate:10
+Metabolite 509,1,succinylcarnitine:7
+Metabolite 510,1,tartarate:2
+Metabolite 511,1,taurine:11
+Metabolite 512,1,testosterone:1
+Metabolite 513,1,theobromine:3
+Metabolite 514,1,threitol:3
+Metabolite 515,1,threonate:4
+Metabolite 516,1,threonine:11
+Metabolite 517,1,threonylglutamate:1
+Metabolite 518,1,threonylleucine:3
+Metabolite 519,1,threonylmethionine:1
+Metabolite 520,1,threonylphenylalanine:5
+Metabolite 521,1,threonylvaline:1
+Metabolite 522,1,thymidine:2
+Metabolite 523,1,thymine:10
+Metabolite 524,2,hydroxyproline:3,trans-4-hydroxyproline:6
+Metabolite 525,1,trans-urocanate:1
+Metabolite 526,1,triethyleneglycol:4
+Metabolite 527,1,trigonelline (n'-methylnicotinate):1
+Metabolite 528,1,tryptophan:11
+Metabolite 529,1,tryptophan betaine:8
+Metabolite 530,1,tryptophylasparagine:1
+Metabolite 531,1,tryptophylglutamate:1
+Metabolite 532,1,tryptophylleucine:1
+Metabolite 533,1,tyrosine:11
+Metabolite 534,1,tyrosylalanine:1
+Metabolite 535,1,tyrosylglutamine:1
+Metabolite 536,1,tyrosylglycine:1
+Metabolite 537,1,tyrosylhistidine:1
+Metabolite 538,1,tyrosylleucine:2
+Metabolite 539,1,tyrosyllysine:1
+Metabolite 540,1,tyrosylphenylalanine:1
+Metabolite 541,1,tyrosyltyrosine:1
+Metabolite 542,1,tyrosylvaline:1
+Metabolite 543,1,undecanedioate:5
+Metabolite 544,1,uracil:11
+Metabolite 545,2,urate:9,uric acid:1
+Metabolite 546,1,urea:10
+Metabolite 547,1,uridine:10
+Metabolite 548,1,uridine monophosphate (5' or 3'):3
+Metabolite 549,2,valerylcarnitine:7,valerylcarnitine (c5):1
+Metabolite 550,1,valine:11
+Metabolite 551,1,valylalanine:1
+Metabolite 552,1,valylarginine:1
+Metabolite 553,1,valylasparagine:2
+Metabolite 554,1,valylaspartate:2
+Metabolite 555,1,valylglutamate:1
+Metabolite 556,1,valylglutamine:1
+Metabolite 557,1,valylglycine:2
+Metabolite 558,1,valylhistidine:1
+Metabolite 559,1,valylisoleucine:2
+Metabolite 560,1,valylleucine:2
+Metabolite 561,1,valyllysine:1
+Metabolite 562,1,valylmethionine:2
+Metabolite 563,1,valylphenylalanine:3
+Metabolite 564,1,valylserine:3
+Metabolite 565,1,valyltryptophan:2
+Metabolite 566,1,valyltyrosine:2
+Metabolite 567,1,valylvaline:3
+Metabolite 568,1,vanillylmandelate (vma):2
+Metabolite 569,1,venlafaxine:2
+Metabolite 570,1,vgahageygaealer*:4
+Metabolite 571,1,xanthine:11
+Metabolite 572,1,xanthosine:9
+Metabolite 573,1,xylitol:8
+Metabolite 574,1,xylonate:4
+Metabolite 575,1,xylose:2
+Metabolite 576,1,xylulose:7
+Metabolite 577,1,1,7-dimethylxanthine:1
+Metabolite 578,1,1-methyl-l-tryptophan:1
+Metabolite 579,1,2-hydroxy caprylic acid:1
+Metabolite 580,1,3-deoxyguanosine:1
+Metabolite 581,1,3-hydroxy-2-methylvalerate:1
+Metabolite 582,1,3-hydroxy-3-methyl-glutaric acid:1
+Metabolite 583,1,3-hydroxykynurenine:1
+Metabolite 584,1,4-hydroxy phenyllacticacid:1
+Metabolite 585,1,5-hydroxyindoleaceticacid:1
+Metabolite 586,1,5-hydroxytryptophan:2
+Metabolite 587,1,allose:1
+Metabolite 588,1,alpha-hydroxyisobutyric acid:1
+Metabolite 589,1,aminobutyric acid:1
+Metabolite 590,1,b-hydroxyisovaleric acid:1
+Metabolite 591,1,caffeine:5
+Metabolite 592,1,cinnamic acid:1
+Metabolite 593,1,citramalic acid:1
+Metabolite 594,1,coumarin:1
+Metabolite 595,1,dl-3-phenyllactic acid:1
+Metabolite 596,1,dl-indole-3-lactic acid (3-indolelactic acid):1
+Metabolite 597,1,glutamine or lysine or glutamic acid:1
+Metabolite 598,1,glyceraldehyde-3-phosphate:1
+Metabolite 599,1,isobutyryl carnitine:1
+Metabolite 600,1,ketoleucine:1
+Metabolite 601,1,kynurenic acid:1
+Metabolite 602,1,n12-acetylthermospermidine:1
+Metabolite 603,1,n1-acetylspermine:1
+Metabolite 604,1,nonanedioic acid:1
+Metabolite 605,1,norepinephrine (noradrenaline):1
+Metabolite 606,1,o-succinyl-l-homoserine:1
+Metabolite 607,1,phthalic acid mono-2-ethylhexyl ester:1
+Metabolite 608,1,pyroglutamic acid:1
+Metabolite 609,1,suberic acid:1
+Metabolite 610,1,theophylline:1
+Metabolite 611,1,trans-4 hydroxytamoxifen:1
+Metabolite 612,1,urocanic acid:1
+Metabolite 613,1,vidarabine:1
+Metabolite 614,2,1-methylnicotinamide:1,methylnicotinamide:1
+Metabolite 615,1,2'-o-methylguanosine:2
+Metabolite 616,1,2-hydroxystearate:4
+Metabolite 617,1,2-methylmalonyl carnitine:2
+Metabolite 618,1,2-palmitoleoylglycerophosphoethanolamine*:3
+Metabolite 619,1,3-methyl-2-oxobutyrate:2
+Metabolite 620,1,3-phenylpropionate (hydrocinnamate):1
+Metabolite 621,1,4-hydroxyphenylpyruvate:5
+Metabolite 622,1,4-octenedioate:1
+Metabolite 623,1,5alpha-pregnan-3beta,20alpha-diol disulfate:2
+Metabolite 624,1,adenosine 5'diphosphoribose:4
+Metabolite 625,1,adsgegdfxaegggvr*:1
+Metabolite 626,1,alanylhistidine:1
+Metabolite 627,2,a-ketoglutarate:2,alpha-ketoglutarate:4
+Metabolite 628,1,andro steroid monosulfate 1*:1
+Metabolite 629,1,andro steroid monosulfate 2*:2
+Metabolite 630,1,behenate (22:0):2
+Metabolite 631,1,conjugated linoleate (18:2n7; 9z,11e):1
+Metabolite 632,1,cystathionine:5
+Metabolite 633,1,dehydroisoandrosterone sulfate (dhea-s):3
+Metabolite 634,1,desmethylnaproxen sulfate*:2
+Metabolite 635,1,epiandrosterone sulfate:2
+Metabolite 636,1,fluoxitine:1
+Metabolite 637,1,folate:1
+Metabolite 638,1,gamma-glutamylalanine:3
+Metabolite 639,1,gamma-glutamylmethionine*:1
+Metabolite 640,1,gamma-glutamyltyrosine:5
+Metabolite 641,1,glycochenodeoxycholate:5
+Metabolite 642,2,glycocholate:5,glycocholate (gca):1
+Metabolite 643,1,glycodeoxycholate:3
+Metabolite 644,1,homocarnosine:3
+Metabolite 645,1,hydroxyisovaleroyl carnitine:3
+Metabolite 646,1,ibuprofen:1
+Metabolite 647,1,isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate:5
+Metabolite 648,1,malonate (propanedioate):1
+Metabolite 649,1,mannitol:7
+Metabolite 650,1,methionine sulfoxide:3
+Metabolite 651,1,methyl-4-hydroxybenzoate:2
+Metabolite 652,1,n-acetylmannosamine:1
+Metabolite 653,1,n-ethylglycinexylidide*:6
+Metabolite 654,1,n-formylmethionine:3
+Metabolite 655,1,phenylacetylglycine:3
+Metabolite 656,1,phenyllactate (pla):4
+Metabolite 657,1,phenylpyruvate:3
+Metabolite 658,1,pregn steroid monosulfate*:3
+Metabolite 659,1,pyridoxine (vitamin b6):1
+Metabolite 660,1,pyroglutamylvaline:3
+Metabolite 661,1,pyruvate:6
+Metabolite 662,1,sebacate (decanedioate):5
+Metabolite 663,2,sphingomyelin:1,stearoyl sphingomyelin:5
+Metabolite 664,1,suberylglycine:1
+Metabolite 665,1,taurochenodeoxycholate:4
+Metabolite 666,1,taurocholate:4
+Metabolite 667,1,taurolithocholate 3-sulfate:2
+Metabolite 668,1,thymol sulfate:2
+Metabolite 669,2,udp-d-glucuronate:1,udp-glucuronate:3
+Metabolite 670,1,ursodeoxycholate:1
+Metabolite 671,1,1-eicosatrienoylglycerophosphocholine*:1
+Metabolite 672,1,1-octadecanol:2
+Metabolite 673,1,13-methylmyristic acid:2
+Metabolite 674,1,2-arachidonoylglycerophosphoinositol*:1
+Metabolite 675,1,2-oleoylglycerophosphoinositol*:1
+Metabolite 676,1,3-phosphoglycerate (isobar with 2-phosphoglycerate):1
+Metabolite 677,1,4-acetamidobutanoate:4
+Metabolite 678,1,4-ethylphenylsulfate:1
+Metabolite 679,1,4-nitrophenol:1
+Metabolite 680,1,acetyl coa:1
+Metabolite 681,1,adenosine 3',5'-cyclic monophosphate (camp):1
+Metabolite 682,2,adenosine 5'-diphosphate (adp):2,adp:1
+Metabolite 683,1,aica ribonucleotide:1
+Metabolite 684,1,beta-hydroxyisovalerate:4
+Metabolite 685,1,carnosine:2
+Metabolite 686,1,cis-urocanate:1
+Metabolite 687,1,coenzyme a:2
+Metabolite 688,1,coproporphyrin i:1
+Metabolite 689,1,cytidine-5'-diphosphoethanolamine:1
+Metabolite 690,1,delta-tocopherol:2
+Metabolite 691,1,deoxycholate:2
+Metabolite 692,1,gamma-glutamylmethionine:2
+Metabolite 693,1,glutaroyl carnitine:3
+Metabolite 694,1,heptaethylene glycol:2
+Metabolite 695,1,heptanoate (7:0):5
+Metabolite 696,1,hexaethylene glycol:2
+Metabolite 697,1,inosine 5'-monophosphate (imp):1
+Metabolite 698,1,isobar: udp-acetylglucosamine, udp-acetylgalactosamine:1
+Metabolite 699,1,isoleucylglutamine:2
+Metabolite 700,1,lathosterol:1
+Metabolite 701,1,mead acid (20:3n9):2
+Metabolite 702,1,methionylthreonine:1
+Metabolite 703,1,methionylvaline:1
+Metabolite 704,1,nonadecanoate (19:0):5
+Metabolite 705,1,paraxanthine:4
+Metabolite 706,1,pentaethylene glycol:2
+Metabolite 707,1,phenolphthalein beta-d-glucuronide:1
+Metabolite 708,1,pseudoephedrine:1
+Metabolite 709,1,s-lactoylglutathione:2
+Metabolite 710,1,s-methylglutathione:1
+Metabolite 711,1,tetraethylene glycol:3
+Metabolite 712,1,thiamin diphosphate:1
+Metabolite 713,1,thymidine 5'-monophosphate:1
+Metabolite 714,2,tiglyl carnitine:3,tiglyl carnitine (c5):1
+Metabolite 715,1,udp-glucose (isobar with udp-galactose):1
+Metabolite 716,1,uridine 5'-triphosphate (utp):1
+Metabolite 717,1,valerate:1
+Metabolite 718,1,1-arachidonoyl-gpi* (20:4)*:1
+Metabolite 719,1,1-palmitoleoyl-gpc* (16:1)*:1
+Metabolite 720,1,1-palmitoyl-gpi* (16:0)*:1
+Metabolite 721,1,1-stearoyl-gpi (18:0):1
+Metabolite 722,1,2-arachidonoyl-gpc* (20:4)*:1
+Metabolite 723,1,2-arachidonoyl-gpe* (20:4)*:1
+Metabolite 724,1,2-docosahexaenoyl-gpc* (22:6)*:1
+Metabolite 725,1,2-linoleoyl-gpc* (18:2)*:1
+Metabolite 726,1,2-myristoyl-gpc* (14:0)*:1
+Metabolite 727,1,2-myristoylglycerophosphoethanolamine*:1
+Metabolite 728,1,2-oleoyl-gpc* (18:1)*:1
+Metabolite 729,1,2-oleoyl-gpe* (18:1)*:1
+Metabolite 730,1,2-palmitoleoyl-gpc* (16:1)*:1
+Metabolite 731,1,2-palmitoleoyl-gpe* (16:1)*:1
+Metabolite 732,1,2-palmitoyl-gpc* (16:0)*:1
+Metabolite 733,1,2-palmitoyl-gpe* (16:0)*:1
+Metabolite 734,1,3-phosphoserine:1
+Metabolite 735,1,acetylphosphate:2
+Metabolite 736,1,arabinose:2
+Metabolite 737,1,betaine aldehyde:1
+Metabolite 738,1,carbamazepine 10,11-epoxide*:1
+Metabolite 739,1,carbamazepine*:1
+Metabolite 740,1,cysteine sulfinic acid:2
+Metabolite 741,1,cdp-choline:2
+Metabolite 742,1,dehydroascorbate:2
+Metabolite 743,2,dihydroxyacetone phosphate:1,dihydroxyacetone phosphate (dhap):1
+Metabolite 744,1,dimethylallyl pyrophosphate (dmapp):1
+Metabolite 745,1,diphenhydramine:2
+Metabolite 746,1,docosapentaenoate (dpa; 22:5n3):1
+Metabolite 747,1,galactosylsphingosine:1
+Metabolite 748,1,hydroxyisovaleroylcarnitine (c5):1
+Metabolite 749,1,isobar: 2-propylpentanoic acid, 2-ethylhexanoic acid:2
+Metabolite 750,1,isobutyrylcarnitine (c4):1
+Metabolite 751,1,levulinate (4-oxovalerate):1
+Metabolite 752,1,methyl palmitate (15 or 2):2
+Metabolite 753,2,n-acetyl-glutamate:1,n-acetylglutamate:2
+Metabolite 754,1,n-acetylhistidine:1
+Metabolite 755,1,palmitoyl ethanolamide:1
+Metabolite 756,1,palmitoylcarnitine (c16):1
+Metabolite 757,1,ribose 5-phosphate:3
+Metabolite 758,1,succinylcarnitine (c4):1
+Metabolite 759,1,sucrose:1
+Metabolite 760,1,triethanolamine:1
+Metabolite 761,1,trizma acetate:2
+Metabolite 762,1,undecanoate (11:0):4
+Metabolite 763,1,1,2-dipalmitoylglycerol:2
+Metabolite 764,1,4-androsten-3beta,17beta-diol disulfate 2*:1
+Metabolite 765,1,5-dodecenoate (12:1n7):2
+Metabolite 766,1,alpha-hydroxyisocaproate:1
+Metabolite 767,1,biliverdin:3
+Metabolite 768,1,galactitol (dulcitol):1
+Metabolite 769,1,lignocerate (24:0):1
+Metabolite 770,1,meprobamate*:1
+Metabolite 771,1,n-acetylputrescine:2
+Metabolite 772,1,o-cresol sulfate:1
+Metabolite 773,1,ofloxacin:2
+Metabolite 774,1,orotate:1
+Metabolite 775,1,oxamate:1
+Metabolite 776,1,phenylacetate:1
+Metabolite 777,1,progesterone:1
+Metabolite 778,1,saccharin:1
+Metabolite 779,1,taurocholenate sulfate*:3
+Metabolite 780,1,thromboxane b2:2
+Metabolite 781,1,tricosanoate (23:0):1
+Metabolite 782,1,2-aminooctanoic acid:1
+Metabolite 783,1,2-dehydro-d-gluconate:1
+Metabolite 784,1,acetyl-coa:1
+Metabolite 785,1,adenosine 5'-phosphosulfate:1
+Metabolite 786,1,adp-d-glucose:1
+Metabolite 787,1,allantoin:1
+Metabolite 788,1,anthranilate:1
+Metabolite 789,2,adenosine 5'-triphosphate (atp):1,atp:1
+Metabolite 790,1,cdp:1
+Metabolite 791,1,cdp-ethanolamine:1
+Metabolite 792,1,cholesteryl sulfate:1
+Metabolite 793,1,creatine phosphate:1
+Metabolite 794,1,cyclic-amp:1
+Metabolite 795,1,cytidine_act:1
+Metabolite 796,1,d-glucono-delta-lactone-6-phosphate:1
+Metabolite 797,1,d-glucuronic acid-potential:1
+Metabolite 798,1,d-glyceraldehdye-3-phosphate:1
+Metabolite 799,1,d-mannose/l-sorbose-potential-1:1
+Metabolite 800,1,d-sedoheptulose-1/7-phosphate:1
+Metabolite 801,1,dgdp:1
+Metabolite 802,1,dgtp:1
+Metabolite 803,1,dtmp:1
+Metabolite 804,1,fructose-1,6-bisphosphate:1
+Metabolite 805,1,gdp:1
+Metabolite 806,2,gmp:1,guanosine 5'- monophosphate (gmp):1
+Metabolite 807,1,idp:1
+Metabolite 808,1,imp:1
+Metabolite 809,1,indole:1
+Metabolite 810,1,isocitrate:2
+Metabolite 811,1,leucine/isoleucine:1
+Metabolite 812,1,n-acetyl-glucosamine-1-phosphate:1
+Metabolite 813,1,nadp+:1
+Metabolite 814,1,shikimate-3-phosphate:1
+Metabolite 815,1,trehalose/sucrose:1
+Metabolite 816,2,udp:1,uridine 5'-diphosphate (udp):1
+Metabolite 817,1,udp-d-glucose:1
+Metabolite 818,2,udp-n-acetyl-glucosamine:1,udp-n-acetylglucosamine:1
+Metabolite 819,2,ump:1,uridine 5'-monophosphate (ump):1
+Metabolite 820,1,utp:1
+Metabolite 821,1,1-heptadecanoylglycerol (1-monoheptadecanoin):1
+Metabolite 822,1,1-myristoylglycerol (1-monomyristin):2
+Metabolite 823,1,1-pentadecanoylglycerol (1-monopentadecanoin):2
+Metabolite 824,1,17-methylstearate:2
+Metabolite 825,1,2'-deoxycytidine:1
+Metabolite 826,1,2'-deoxycytidine 5'-monophosphate:1
+Metabolite 827,1,2-myristoylglycerol (2-monomyristin):2
+Metabolite 828,1,2-stearoylglycerol (2-monostearin):1
+Metabolite 829,1,2-stearoylglycerophosphoinositol*:1
+Metabolite 830,1,5-hydroxyindoleacetate:2
+Metabolite 831,1,9,10-hydroxyoctadec-12(z)-enoic acid:2
+Metabolite 832,1,adenosine-2',3'-cyclic monophosphate:1
+Metabolite 833,1,chenodeoxycholate:1
+Metabolite 834,1,decanoylcarnitine:2
+Metabolite 835,1,dexpanthenol:2
+Metabolite 836,1,gamma-glutamylthreonine*:2
+Metabolite 837,1,glycoursodeoxycholate:2
+Metabolite 838,1,hexadecanedioate:2
+Metabolite 839,1,homovanillate sulfate:1
+Metabolite 840,1,isoleucylleucine:2
+Metabolite 841,1,ketamine:2
+Metabolite 842,1,kynurenate:2
+Metabolite 843,1,lactobionate:1
+Metabolite 844,1,leucylisoleucine:1
+Metabolite 845,1,n(1)-acetylspermine:1
+Metabolite 846,1,n-acetylcysteine:1
+Metabolite 847,1,palmitate, methyl ester:2
+Metabolite 848,1,prolylleucine:1
+Metabolite 849,1,raffinose:1
+Metabolite 850,1,stearamide:2
+Metabolite 851,1,taurodeoxycholate:2
+Metabolite 852,1,tauroursodeoxycholate:1
+Metabolite 853,1,tetradecanedioate:2
+Metabolite 854,1,thymidine 3'-monophosphate:1
+Metabolite 855,1,1-docosahexaenoylglycerol (1-monodocosahexaenoin):1
+Metabolite 856,1,1-methylhistamine:1
+Metabolite 857,1,1-stearoylglycerophosphoglycerol:1
+Metabolite 858,1,2-ethylhexanoate (isobar with 2-propylpentanoate):1
+Metabolite 859,1,8-hydroxyoctanoate:1
+Metabolite 860,1,alpha-glutamylvaline:1
+Metabolite 861,1,guanosine 3'-monophosphate (3'-gmp):1
+Metabolite 862,1,isovalerylglycine:1
+Metabolite 863,1,methyl stearate:1
+Metabolite 864,1,prostaglandin d2:1
+Metabolite 865,1,1-methyladenosine (1ma):1
+Metabolite 866,1,2'-deoxyuridine-5'-triphosphate (dutp):1
+Metabolite 867,1,3,4-dihydroxyphenylethyleneglycol (dopeg):1
+Metabolite 868,1,3-methyl-2-oxopentanoate:1
+Metabolite 869,1,5,6-dihydrothymine:1
+Metabolite 870,1,5-hydroxyindoleacetate (5-hia):1
+Metabolite 871,1,5-sulfosalicylate:1
+Metabolite 872,1,acetylcarnitine (alc; c2 ac):1
+Metabolite 873,1,b-aminoisobutyrate:1
+Metabolite 874,1,b-hydroxybutyrate (bhba):1
+Metabolite 875,1,bicine:1
+Metabolite 876,1,biotin:1
+Metabolite 877,1,bradykinin:1
+Metabolite 878,1,bradykinin hydroxyproline:1
+Metabolite 879,1,cadaverine:1
+Metabolite 880,1,ciliatine (2-aminoethylphosphonate):1
+Metabolite 881,1,dehydroepiandrosterone sulfate (dhea-s):1
+Metabolite 882,1,deoxyuridine:1
+Metabolite 883,1,dihydroxyacetonephosphate (dhap):1
+Metabolite 884,1,dimethylbenzimidazole:1
+Metabolite 885,1,ethylmalonate:1
+Metabolite 886,1,histidinol:1
+Metabolite 887,1,homoserine lactone:1
+Metabolite 888,1,hydroxyphenylpyruvate:1
+Metabolite 889,1,imidazolelactate:1
+Metabolite 890,1,indoxylsulfate:1
+Metabolite 891,1,inositol-1-phosphate (i1p):1
+Metabolite 892,1,isobar 1 includes mannose, fructose, glucose, galactose:1
+Metabolite 893,1,isobar 17 includes arginine, n-alpha-acetyl-ornithine:1
+Metabolite 894,1,isobar 18 includes d-fructose 1-phosphate, beta-d-fructose 6-phosphate:1
+Metabolite 895,1,isobar 19 includes d-saccharic acid,1,5-anhydro-d-glucitol:1
+Metabolite 896,1,isobar 2 includes 2-aminoisobutyric acid,3-amino-isobutyrate:1
+Metabolite 897,1,isobar 21 includes gamma-aminobutyryl-l-histidine, l-anserine:1
+Metabolite 898,1,isobar 22 includes glutamic acid, o-acetyl-l-serine:1
+Metabolite 899,1,isobar 24 includes l-arabitol, adonitol:1
+Metabolite 900,1,isobar 28 includes l-threonine, l-allothreonine, l-homoserine:1
+Metabolite 901,1,isobar 29 includes r,s-hydroorotic acid, 5,6-dihydroorotic acid:1
+Metabolite 902,1,isobar 3 includes inositol 1-phosphate, mannose 6-phosphate:1
+Metabolite 903,1,isobar 30 includes maltotetraose, stachyose:1
+Metabolite 904,1,isobar 31 includes 1-kestose,maltotriose, melezitose:1
+Metabolite 905,1,isobar 32 includes n-acetyl-d-glucosamine, n-acetyl-d-mannosamin:1
+Metabolite 906,1,isobar 35 includes d-arabinose 5-phosphate, d-ribulose 5-phosphate:1
+Metabolite 907,1,isobar 4 includes gluconic acid, dl-arabinose, d-ribose, l-xylose:1
+Metabolite 908,1,isobar 40 includes maltotetraose, stachyose:1
+Metabolite 909,1,isobar 6 includes valine, betaine:1
+Metabolite 910,1,isobar glycochenodeoxycholic acid/glycodeoxycholic acid:1
+Metabolite 911,1,methylglutarate:1
+Metabolite 912,1,n-acetylgalactosamine:1
+Metabolite 913,1,n-acetylglucosaminylamine:1
+Metabolite 914,1,n-carbamoylaspartate:1
+Metabolite 915,1,octadecanoic acid:1
+Metabolite 916,1,orotidine-5'-phosphate:1
+Metabolite 917,1,orthophosphate (pi):1
+Metabolite 918,1,oxalate (ethanedioate):1
+Metabolite 919,1,oxoproline:1
+Metabolite 920,1,phosphoserine:1
+Metabolite 921,1,p-hydroxyphenylacetate (hpa):1
+Metabolite 922,1,p-hydroxyphenyllactate (hpla):1
+Metabolite 923,1,picolinate:1
+Metabolite 924,1,pyridoxamine:1
+Metabolite 925,1,suberate (octanedioate):1
+Metabolite 926,1,sucrose/maltose:1
+Metabolite 927,1,thyroxine:1
+Metabolite 928,1,topiramate:1
+Metabolite 929,1,trans-2, 3, 4-trimethoxycinnamate:1
+Metabolite 930,1,udp-n-acetylmuraminate (udp-murnac):1
+Metabolite 931,1,1-eicosadienoylglycerophosphocholine*:1
+Metabolite 932,1,1,7-dimethylurate:1
+Metabolite 933,1,4-vinylphenol sulfate:1
+Metabolite 934,1,acetylcholine:1
+Metabolite 935,1,serotonin (5ht):1

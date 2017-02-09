@@ -1,0 +1,936 @@
+"","KIRC","BLCA","BRCA","BRCATang","LGG","OV","PAAD","PAADHussain1","PAADHussain2","PRAD","PRADLODA"
+"Metabolite 1","1,2-propanediol",NA,NA,"1,2-propanediol","1,2-propanediol","1,2-propanediol",NA,NA,"1,2-propanediol",NA,NA
+"Metabolite 2","1,3-dihydroxyacetone",NA,"1,3-dihydroxyacetone",NA,"dihydroxyacetone",NA,NA,"1,3-dihydroxyacetone","1,3-dihydroxyacetone",NA,NA
+"Metabolite 3","1,5-anhydroglucitol (1,5-ag)",NA,"1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)",NA,"1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)","1,5-anhydroglucitol (1,5-ag)"
+"Metabolite 4","10-heptadecenoate (17:1n7)",NA,"10-heptadecenoate (17:1n7)","10-heptadecenoate (17:1n7)","10-heptadecenoate (17:1n7)","10-heptadecenoate (17:1n7)",NA,"10-heptadecenoate (17:1n7)","10-heptadecenoate (17:1n7)",NA,"10-heptadecenoate (17:1n7)"
+"Metabolite 5","10-nonadecenoate (19:1n9)",NA,"10-nonadecenoate (19:1n9)","10-nonadecenoate (19:1n9)","10-nonadecenoate (19:1n9)","10-nonadecenoate (19:1n9)",NA,"10-nonadecenoate (19:1n9)","10-nonadecenoate (19:1n9)",NA,"10-nonadecenoate (19:1n9)"
+"Metabolite 6","13-hode + 9-hode",NA,NA,"13-hode + 9-hode","13-hode + 9-hode","13-hode + 9-hode",NA,"13-hode + 9-hode","13-hode + 9-hode",NA,"13-hode + 9-hode"
+"Metabolite 7","15-methylpalmitate (isobar with 2-methylpalmitate)",NA,NA,"15-methylpalmitate (isobar with 2-methylpalmitate)",NA,NA,NA,NA,"15-methylpalmitate (isobar with 2-methylpalmitate)",NA,NA
+"Metabolite 8","16-hydroxypalmitate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 9","1-arachidonoylglycerophosphocholine*",NA,NA,"1-arachidonoylglycerophosphocholine*","1-arachidonoyl-gpc* (20:4)*",NA,NA,"1-arachidonoylglycerophosphocholine*",NA,NA,NA
+"Metabolite 10","1-arachidonoylglycerophosphoethanolamine*",NA,"1-arachidonoylglycerophosphoethanolamine*","1-arachidonoylglycerophosphoethanolamine*","1-arachidonoyl-gpe* (20:4)*","1-arachidonoylglycerophosphoethanolamine*",NA,"1-arachidonoylglycerophosphoethanolamine*","1-arachidonoylglycerophosphoethanolamine*",NA,"1-arachidonoylglycerophosphoethanolamine*"
+"Metabolite 11","1-arachidonoylglycerophosphoinositol*",NA,"1-arachidonoylglycerophosphoinositol*","1-arachidonoylglycerophosphoinositol*",NA,"1-arachidonoylglycerophosphoinositol*",NA,NA,"1-arachidonoylglycerophosphoinositol*",NA,"1-arachidonoylglycerophosphoinositol*"
+"Metabolite 12","1-arachidonylglycerol",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1-arachidonylglycerol"
+"Metabolite 13","1-docosahexaenoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 14","1-heptadecanoylglycerophosphocholine",NA,NA,"1-heptadecanoylglycerophosphocholine",NA,NA,NA,"1-heptadecanoylglycerophosphocholine","1-heptadecanoylglycerophosphocholine",NA,NA
+"Metabolite 15","1-heptadecanoylglycerophosphoethanolamine*",NA,NA,NA,NA,NA,NA,NA,"1-heptadecanoylglycerophosphoethanolamine*",NA,"1-heptadecanoylglycerophosphoethanolamine*"
+"Metabolite 16","1-linoleoylglycerol (1-monolinolein)",NA,NA,"1-linoleoylglycerol (1-monolinolein)",NA,NA,NA,NA,NA,NA,"1-linoleoylglycerol (1-monolinolein)"
+"Metabolite 17","1-linoleoylglycerophosphocholine",NA,"1-linoleoylglycerophosphocholine","1-linoleoylglycerophosphocholine",NA,"1-linoleoylglycerophosphocholine",NA,"1-linoleoylglycerophosphocholine","1-linoleoylglycerophosphocholine",NA,"1-linoleoylglycerophosphocholine"
+"Metabolite 18","1-linoleoylglycerophosphoethanolamine*",NA,NA,"1-linoleoylglycerophosphoethanolamine*",NA,NA,NA,NA,NA,NA,"1-linoleoylglycerophosphoethanolamine*"
+"Metabolite 19","1-methylimidazoleacetate",NA,"1-methylimidazoleacetate",NA,NA,"1-methylimidazoleacetate",NA,"1-methylimidazoleacetate",NA,NA,NA
+"Metabolite 20","1-myristoylglycerophosphocholine",NA,"1-myristoylglycerophosphocholine","1-myristoylglycerophosphocholine","1-myristoyl-gpc (14:0)","1-myristoylglycerophosphocholine",NA,"1-myristoylglycerophosphocholine","1-myristoylglycerophosphocholine",NA,"1-myristoylglycerophosphocholine"
+"Metabolite 21","1-myristoylglycerophosphoethanolamine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 22","1-oleoylglycerol (1-monoolein)",NA,"1-oleoylglycerol (1-monoolein)","1-oleoylglycerol (1-monoolein)","1-oleoylglycerol (18:1)","1-oleoylglycerol (1-monoolein)",NA,"1-oleoylglycerol (1-monoolein)",NA,NA,NA
+"Metabolite 23","1-oleoylglycerophosphocholine",NA,"1-oleoylglycerophosphocholine","1-oleoylglycerophosphocholine","1-oleoyl-gpc (18:1)","1-oleoylglycerophosphocholine",NA,"1-oleoylglycerophosphocholine","1-oleoylglycerophosphocholine",NA,"1-oleoylglycerophosphocholine"
+"Metabolite 24","1-oleoylglycerophosphoethanolamine",NA,"1-oleoylglycerophosphoethanolamine","1-oleoylglycerophosphoethanolamine","1-oleoyl-gpe (18:1)","1-oleoylglycerophosphoethanolamine",NA,"1-oleoylglycerophosphoethanolamine","1-oleoylglycerophosphoethanolamine",NA,"1-oleoylglycerophosphoethanolamine"
+"Metabolite 25","1-oleoylglycerophosphoinositol*",NA,NA,NA,NA,NA,NA,"1-oleoylglycerophosphoinositol*","1-oleoylglycerophosphoinositol*",NA,"1-oleoylglycerophosphoinositol*"
+"Metabolite 26","1-oleoylglycerophosphoserine",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1-oleoylglycerophosphoserine"
+"Metabolite 27","1-palmitoleoylglycerophosphocholine*",NA,NA,"1-palmitoleoylglycerophosphocholine*",NA,"1-palmitoleoylglycerophosphocholine*",NA,"1-palmitoleoylglycerophosphocholine*","1-palmitoleoylglycerophosphocholine*",NA,NA
+"Metabolite 28","1-palmitoleoylglycerophosphoethanolamine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 29","1-palmitoylglycerol (1-monopalmitin)",NA,"1-palmitoylglycerol (1-monopalmitin)","1-palmitoylglycerol (1-monopalmitin)","1-palmitoylglycerol (16:0)","1-palmitoylglycerol (1-monopalmitin)",NA,NA,"1-palmitoylglycerol (1-monopalmitin)",NA,"1-palmitoylglycerol (1-monopalmitin)"
+"Metabolite 30","1-palmitoylglycerophosphocholine",NA,"1-palmitoylglycerophosphocholine","1-palmitoylglycerophosphocholine","1-palmitoyl-gpc (16:0)","1-palmitoylglycerophosphocholine",NA,"1-palmitoylglycerophosphocholine","1-palmitoylglycerophosphocholine",NA,"1-palmitoylglycerophosphocholine"
+"Metabolite 31","1-palmitoylglycerophosphoethanolamine",NA,NA,"1-palmitoylglycerophosphoethanolamine","1-palmitoyl-gpe (16:0)","1-palmitoylglycerophosphoethanolamine",NA,"1-palmitoylglycerophosphoethanolamine","1-palmitoylglycerophosphoethanolamine",NA,"1-palmitoylglycerophosphoethanolamine"
+"Metabolite 32","1-palmitoylglycerophosphoinositol*",NA,NA,"1-palmitoylglycerophosphoinositol*",NA,"1-palmitoylglycerophosphoinositol*",NA,"1-palmitoylglycerophosphoinositol*","1-palmitoylglycerophosphoinositol*",NA,"1-palmitoylglycerophosphoinositol*"
+"Metabolite 33","1-palmitoylplasmenylethanolamine*",NA,NA,"1-palmitoylplasmenylethanolamine*","1-palmitoylplasmenylethanolamine*",NA,NA,"1-palmitoylplasmenylethanolamine*","1-palmitoylplasmenylethanolamine*",NA,NA
+"Metabolite 34","1-pentadecanoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,"1-pentadecanoylglycerophosphocholine*","1-pentadecanoylglycerophosphocholine*",NA,NA
+"Metabolite 35","1-stearoylglycerol (1-monostearin)",NA,"1-stearoylglycerol (1-monostearin)","1-stearoylglycerol (1-monostearin)","1-stearoylglycerol (18:0)","1-stearoylglycerol (1-monostearin)",NA,"1-stearoylglycerol (1-monostearin)","1-stearoylglycerol (1-monostearin)",NA,"1-stearoylglycerol (1-monostearin)"
+"Metabolite 36","1-stearoylglycerophosphocholine",NA,"1-stearoylglycerophosphocholine","1-stearoylglycerophosphocholine","1-stearoyl-gpc (18:0)","1-stearoylglycerophosphocholine",NA,"1-stearoylglycerophosphocholine","1-stearoylglycerophosphocholine",NA,"1-stearoylglycerophosphocholine"
+"Metabolite 37","1-stearoylglycerophosphoethanolamine",NA,"1-stearoylglycerophosphoethanolamine","1-stearoylglycerophosphoethanolamine","1-stearoyl-gpe (18:0)","1-stearoylglycerophosphoethanolamine",NA,"1-stearoylglycerophosphoethanolamine","1-stearoylglycerophosphoethanolamine",NA,"1-stearoylglycerophosphoethanolamine"
+"Metabolite 38","1-stearoylglycerophosphoinositol",NA,"1-stearoylglycerophosphoinositol","1-stearoylglycerophosphoinositol",NA,"1-stearoylglycerophosphoinositol",NA,"1-stearoylglycerophosphoinositol","1-stearoylglycerophosphoinositol",NA,"1-stearoylglycerophosphoinositol"
+"Metabolite 39","2-aminoadipate",NA,"2-aminoadipate","2-aminoadipate","2-aminoadipate","2-aminoadipate","aminoadipic acid","2-aminoadipate","2-aminoadipate","2-aminoadipate","2-aminoadipate"
+"Metabolite 40","2-aminobutyrate",NA,"2-aminobutyrate","2-aminobutyrate","2-aminobutyrate","2-aminobutyrate",NA,"2-aminobutyrate","2-aminobutyrate",NA,"2-aminobutyrate"
+"Metabolite 41","2-arachidonoylglycerophosphocholine*",NA,"2-arachidonoylglycerophosphocholine*","2-arachidonoylglycerophosphocholine*",NA,"2-arachidonoylglycerophosphocholine*",NA,"2-arachidonoylglycerophosphocholine*","2-arachidonoylglycerophosphocholine*",NA,"2-arachidonoylglycerophosphocholine*"
+"Metabolite 42","2-arachidonoylglycerophosphoethanolamine*",NA,"2-arachidonoylglycerophosphoethanolamine*","2-arachidonoylglycerophosphoethanolamine*",NA,"2-arachidonoylglycerophosphoethanolamine*",NA,"2-arachidonoylglycerophosphoethanolamine*","2-arachidonoylglycerophosphoethanolamine*",NA,"2-arachidonoylglycerophosphoethanolamine*"
+"Metabolite 43","2'-deoxyadenosine 3'-monophosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 44","2'-deoxycytidine 3'-monophosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 45","2'-deoxyguanosine",NA,"2'-deoxyguanosine","2'-deoxyguanosine","2'-deoxyguanosine","2'-deoxyguanosine",NA,"2'-deoxyguanosine","2'-deoxyguanosine",NA,NA
+"Metabolite 46","2'-deoxyinosine",NA,"2'-deoxyinosine","2'-deoxyinosine","2'-deoxyinosine","2'-deoxyinosine",NA,"2'-deoxyinosine","2'-deoxyinosine",NA,"2'-deoxyinosine"
+"Metabolite 47","2-docosahexaenoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 48","2-docosahexaenoylglycerophosphoethanolamine*",NA,"2-docosahexaenoylglycerophosphoethanolamine*","2-docosahexaenoylglycerophosphoethanolamine*","2-docosahexaenoylglycerophosphoethanolamine*","2-docosahexaenoylglycerophosphoethanolamine*",NA,NA,NA,NA,"2-docosahexaenoylglycerophosphoethanolamine*"
+"Metabolite 49","2-docosapentaenoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 50","2-docosapentaenoylglycerophosphoethanolamine*",NA,"2-docosapentaenoylglycerophosphoethanolamine*",NA,"2-docosapentaenoylglycerophosphoethanolamine*","2-docosapentaenoylglycerophosphoethanolamine*",NA,NA,"2-docosapentaenoylglycerophosphoethanolamine*",NA,"2-docosapentaenoylglycerophosphoethanolamine*"
+"Metabolite 51","2-eicosatrienoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 52","2-ethylhexanoate",NA,NA,"2-ethylhexanoate",NA,NA,NA,NA,NA,NA,"2-ethylhexanoate"
+"Metabolite 53","2-hydroxyacetaminophen sulfate*",NA,"2-hydroxyacetaminophen sulfate*","2-hydroxyacetaminophen sulfate*","2-hydroxyacetaminophen sulfate*","2-hydroxyacetaminophen sulfate*",NA,"2-hydroxyacetaminophen sulfate*",NA,NA,"2-hydroxyacetaminophen sulfate*"
+"Metabolite 54","2-hydroxybutyrate (ahb)","2-hydroxybutyric acid sodium salt","2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)",NA,"2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)","2-hydroxybutyrate (ahb)"
+"Metabolite 55","2-hydroxyglutarate",NA,"2-hydroxyglutarate","2-hydroxyglutarate","2-hydroxyglutarate","2-hydroxyglutarate",NA,NA,NA,NA,"2-hydroxyglutarate"
+"Metabolite 56","2-hydroxyhippurate (salicylurate)",NA,"2-hydroxyhippurate (salicylurate)","2-hydroxyhippurate (salicylurate)",NA,NA,NA,NA,NA,NA,"2-hydroxyhippurate (salicylurate)"
+"Metabolite 57","2-hydroxyisobutyrate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 58","2-hydroxypalmitate",NA,"2-hydroxypalmitate","2-hydroxypalmitate","2-hydroxypalmitate","2-hydroxypalmitate",NA,"2-hydroxypalmitate","2-hydroxypalmitate",NA,"2-hydroxypalmitate"
+"Metabolite 59","2-isopropylmalate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 60","2-linoleoylglycerol (2-monolinolein)",NA,NA,NA,NA,"2-linoleoylglycerol (2-monolinolein)",NA,"2-linoleoylglycerol (2-monolinolein)","2-linoleoylglycerol (2-monolinolein)",NA,NA
+"Metabolite 61","2-linoleoylglycerophosphocholine*",NA,"2-linoleoylglycerophosphocholine*","2-linoleoylglycerophosphocholine*",NA,"2-linoleoylglycerophosphocholine*",NA,"2-linoleoylglycerophosphocholine*","2-linoleoylglycerophosphocholine*",NA,"2-linoleoylglycerophosphocholine*"
+"Metabolite 62","2-linoleoylglycerophosphoethanolamine*",NA,"2-linoleoylglycerophosphoethanolamine*","2-linoleoylglycerophosphoethanolamine*",NA,"2-linoleoylglycerophosphoethanolamine*",NA,NA,"2-linoleoylglycerophosphoethanolamine*",NA,NA
+"Metabolite 63","2-methoxyacetaminophen sulfate*",NA,"2-methoxyacetaminophen sulfate*","2-methoxyacetaminophen sulfate*",NA,"2-methoxyacetaminophen sulfate*",NA,"2-methoxyacetaminophen sulfate*",NA,NA,"2-methoxyacetaminophen sulfate*"
+"Metabolite 64","2-methylbutyrylcarnitine (c5)",NA,"2-methylbutyroylcarnitine","2-methylbutyroylcarnitine","2-methylbutyroylcarnitine (c5)","2-methylbutyroylcarnitine",NA,"2-methylbutyroylcarnitine","2-methylbutyroylcarnitine",NA,"2-methylbutyroylcarnitine"
+"Metabolite 65","2-myristoylglycerophosphocholine*",NA,"2-myristoylglycerophosphocholine*","2-myristoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 66","2-oleoylglycerol (2-monoolein)",NA,"2-oleoylglycerol (2-monoolein)",NA,NA,"2-oleoylglycerol (2-monoolein)",NA,"2-oleoylglycerol (2-monoolein)","2-oleoylglycerol (2-monoolein)",NA,NA
+"Metabolite 67","2-oleoylglycerophosphocholine*",NA,"2-oleoylglycerophosphocholine*","2-oleoylglycerophosphocholine*",NA,"2-oleoylglycerophosphocholine*",NA,"2-oleoylglycerophosphocholine*","2-oleoylglycerophosphocholine*",NA,"2-oleoylglycerophosphocholine*"
+"Metabolite 68","2-oleoylglycerophosphoethanolamine*",NA,"2-oleoylglycerophosphoethanolamine*","2-oleoylglycerophosphoethanolamine*",NA,"2-oleoylglycerophosphoethanolamine*",NA,"2-oleoylglycerophosphoethanolamine*","2-oleoylglycerophosphoethanolamine*",NA,"2-oleoylglycerophosphoethanolamine*"
+"Metabolite 69","2-oleoylglycerophosphoserine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 70","2-palmitoleoylglycerophosphocholine*",NA,"2-palmitoleoylglycerophosphocholine*","2-palmitoleoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 71","2-palmitoylglycerol (2-monopalmitin)",NA,"2-palmitoylglycerol (2-monopalmitin)","2-palmitoylglycerol (2-monopalmitin)","2-palmitoylglycerol (16:0)","2-palmitoylglycerol (2-monopalmitin)",NA,"2-palmitoylglycerol (2-monopalmitin)","2-palmitoylglycerol (2-monopalmitin)",NA,"2-palmitoylglycerol (2-monopalmitin)"
+"Metabolite 72","2-palmitoylglycerophosphocholine*",NA,"2-palmitoylglycerophosphocholine*","2-palmitoylglycerophosphocholine*",NA,"2-palmitoylglycerophosphocholine*",NA,"2-palmitoylglycerophosphocholine*","2-palmitoylglycerophosphocholine*",NA,"2-palmitoylglycerophosphocholine*"
+"Metabolite 73","2-palmitoylglycerophosphoethanolamine*",NA,NA,"2-palmitoylglycerophosphoethanolamine*",NA,"2-palmitoylglycerophosphoethanolamine*",NA,"2-palmitoylglycerophosphoethanolamine*","2-palmitoylglycerophosphoethanolamine*",NA,"2-palmitoylglycerophosphoethanolamine*"
+"Metabolite 74","2-phosphoglycerate",NA,NA,NA,NA,"2-phosphoglycerate",NA,"2-phosphoglycerate",NA,NA,NA
+"Metabolite 75","2-stearoylglycerophosphocholine*",NA,NA,"2-stearoylglycerophosphocholine*","2-stearoyl-gpc* (18:0)*",NA,NA,"2-stearoylglycerophosphocholine*","2-stearoylglycerophosphocholine*",NA,NA
+"Metabolite 76","2-stearoylglycerophosphoethanolamine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 77","3-(4-hydroxyphenyl)lactate",NA,"3-(4-hydroxyphenyl)lactate","3-(4-hydroxyphenyl)lactate","3-(4-hydroxyphenyl)lactate (hpla)","3-(4-hydroxyphenyl)lactate",NA,"3-(4-hydroxyphenyl)lactate","3-(4-hydroxyphenyl)lactate",NA,"3-(4-hydroxyphenyl)lactate"
+"Metabolite 78","3-(cystein-s-yl)acetaminophen*",NA,NA,"3-(cystein-s-yl)acetaminophen*",NA,"3-(cystein-s-yl)acetaminophen*",NA,"3-(cystein-s-yl)acetaminophen*",NA,NA,"3-(cystein-s-yl)acetaminophen*"
+"Metabolite 79","3-(n-acetyl-l-cystein-s-yl) acetaminophen*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 80","3,4-dihydroxyphenethyleneglycol",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 81","3-aminoisobutyrate",NA,"3-aminoisobutyrate","3-aminoisobutyrate","3-aminoisobutyrate","3-aminoisobutyrate",NA,NA,"3-aminoisobutyrate",NA,"3-aminoisobutyrate"
+"Metabolite 82","3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)",NA,"3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)","3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)","3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)","3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)",NA,"3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)","3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)",NA,"3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf)"
+"Metabolite 83","3-dehydrocarnitine*",NA,"3-dehydrocarnitine*","3-dehydrocarnitine*","3-dehydrocarnitine*","3-dehydrocarnitine*",NA,"3-dehydrocarnitine*","3-dehydrocarnitine*",NA,"3-dehydrocarnitine*"
+"Metabolite 84","3'-dephosphocoenzyme a",NA,NA,"3'-dephosphocoenzyme a",NA,NA,NA,NA,"3'-dephosphocoenzyme a",NA,"3'-dephosphocoenzyme a"
+"Metabolite 85","3-hydroxybutyrate (bhba)",NA,"3-hydroxybutyrate (bhba)","3-hydroxybutyrate (bhba)","3-hydroxybutyrate (bhba)","3-hydroxybutyrate (bhba)",NA,"3-hydroxybutyrate (bhba)","3-hydroxybutyrate (bhba)",NA,"3-hydroxybutyrate (bhba)"
+"Metabolite 86","3-hydroxydecanoate",NA,"3-hydroxydecanoate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 87","3-hydroxyhippurate",NA,NA,"3-hydroxyhippurate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 88","3-hydroxyoctanoate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 89","3-indoxyl sulfate",NA,NA,"3-indoxyl sulfate",NA,"3-indoxyl sulfate",NA,NA,"3-indoxyl sulfate",NA,"3-indoxyl sulfate"
+"Metabolite 90","3-methyl-2-oxovalerate",NA,"3-methyl-2-oxovalerate","3-methyl-2-oxovalerate",NA,"3-methyl-2-oxovalerate",NA,"3-methyl-2-oxovalerate","3-methyl-2-oxovalerate",NA,NA
+"Metabolite 91","3-methylhistidine",NA,"3-methylhistidine","3-methylhistidine",NA,NA,NA,NA,"3-methylhistidine","3-methylhistidine (1-methylhistidine)","3-methylhistidine"
+"Metabolite 92","3-phosphoglycerate",NA,"3-phosphoglycerate",NA,"3-phosphoglycerate","3-phosphoglycerate","3-phosphoglycerate","3-phosphoglycerate","3-phosphoglycerate","3-phosphoglycerate","3-phosphoglycerate"
+"Metabolite 93","3-ureidopropionate",NA,NA,NA,NA,NA,NA,"3-ureidopropionate",NA,NA,NA
+"Metabolite 94","4-acetamidophenol",NA,NA,"4-acetamidophenol",NA,"4-acetamidophenol",NA,"4-acetamidophenol",NA,NA,"4-acetamidophenol"
+"Metabolite 95","4-acetaminophen sulfate",NA,"4-acetaminophen sulfate","4-acetaminophen sulfate","4-acetaminophen sulfate","4-acetaminophen sulfate",NA,"4-acetaminophen sulfate",NA,NA,"4-acetaminophen sulfate"
+"Metabolite 96","4-androsten-3beta,17beta-diol disulfate 1*",NA,"4-androsten-3beta,17beta-diol disulfate 1*","4-androsten-3beta,17beta-diol disulfate 1*","4-androsten-3beta,17beta-diol disulfate 1*","4-androsten-3beta,17beta-diol disulfate 1*",NA,"4-androsten-3beta,17beta-diol disulfate 1*","4-androsten-3beta,17beta-diol disulfate 1*",NA,"4-androsten-3beta,17beta-diol disulfate 1*"
+"Metabolite 97","4-guanidinobutanoate",NA,NA,NA,"4-guanidinobutanoate","4-guanidinobutanoate",NA,"4-guanidinobutanoate",NA,"4-guanidinobutanoate",NA
+"Metabolite 98","4-hydroxybutyrate (ghb)",NA,"4-hydroxybutyrate (ghb)","4-hydroxybutyrate (ghb)",NA,"4-hydroxybutyrate (ghb)",NA,"4-hydroxybutyrate (ghb)","4-hydroxybutyrate (ghb)",NA,"4-hydroxybutyrate (ghb)"
+"Metabolite 99","4-hydroxyglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 100","4-hydroxyhippurate",NA,NA,NA,NA,NA,NA,"4-hydroxyhippurate",NA,NA,NA
+"Metabolite 101","4-hydroxyphenylacetate",NA,NA,NA,NA,"4-hydroxyphenylacetate",NA,"4-hydroxyphenylacetate",NA,NA,NA
+"Metabolite 102","4-methyl-2-oxopentanoate",NA,"4-methyl-2-oxopentanoate","4-methyl-2-oxopentanoate","4-methyl-2-oxopentanoate","4-methyl-2-oxopentanoate",NA,"4-methyl-2-oxopentanoate","4-methyl-2-oxopentanoate","4-methyl-2-oxopentanoate",NA
+"Metabolite 103","5,6-dihydrouracil",NA,"5,6-dihydrouracil","5,6-dihydrouracil","5,6-dihydrouracil","5,6-dihydrouracil",NA,"5,6-dihydrouracil","5,6-dihydrouracil","5,6-dihydrouracil","5,6-dihydrouracil"
+"Metabolite 104","5-aminovalerate",NA,"5-aminovalerate",NA,NA,"5-aminovalerate",NA,"5-aminovalerate",NA,NA,NA
+"Metabolite 105","5-hete",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 106","5-methyltetrahydrofolate (5methf)",NA,NA,"5-methyltetrahydrofolate (5methf)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 107","5-methylthioadenosine (mta)",NA,"5-methylthioadenosine (mta)","5-methylthioadenosine (mta)","5-methylthioadenosine (mta)",NA,NA,NA,"5-methylthioadenosine (mta)","5-methylthioadenosine (mta)","5-methylthioadenosine (mta)"
+"Metabolite 108","5-methyluridine (ribothymidine)",NA,NA,"5-methyluridine (ribothymidine)",NA,"5-methyluridine (ribothymidine)",NA,NA,NA,NA,NA
+"Metabolite 109","5-oxoete",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 110","5-oxoproline",NA,"5-oxoproline","5-oxoproline","5-oxoproline","5-oxoproline",NA,"5-oxoproline","5-oxoproline",NA,"5-oxoproline"
+"Metabolite 111","6-keto prostaglandin f1alpha",NA,NA,NA,NA,NA,NA,"6-keto prostaglandin f1alpha","6-keto prostaglandin f1alpha",NA,NA
+"Metabolite 112","6-phosphogluconate",NA,"6-phosphogluconate","6-phosphogluconate","6-phosphogluconate","6-phosphogluconate","6-phospho-d-gluconate","6-phosphogluconate","6-phosphogluconate","6-phosphogluconate","6-phosphogluconate"
+"Metabolite 113","6'-sialyllactose",NA,NA,"6'-sialyllactose",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 114","7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)",NA,"7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)","7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)","7-hoca","7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)",NA,NA,"7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)",NA,"7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)"
+"Metabolite 115","7-alpha-hydroxycholesterol",NA,NA,NA,"7-alpha-hydroxycholesterol","7-alpha-hydroxycholesterol",NA,NA,NA,NA,NA
+"Metabolite 116","7-beta-hydroxycholesterol",NA,"7-beta-hydroxycholesterol",NA,"7-beta-hydroxycholesterol","7-beta-hydroxycholesterol",NA,NA,NA,NA,NA
+"Metabolite 117","acetylcarnitine",NA,"acetylcarnitine","acetylcarnitine","acetylcarnitine (c2)","acetylcarnitine","acetylcarnitine dl","acetylcarnitine","acetylcarnitine",NA,"acetylcarnitine"
+"Metabolite 118","ac-ser-asp-lys-pro-oh",NA,NA,"ac-ser-asp-lys-pro-oh",NA,NA,NA,NA,"ac-ser-asp-lys-pro-oh",NA,NA
+"Metabolite 119","adenine",NA,"adenine","adenine","adenine","adenine",NA,NA,"adenine","adenine","adenine"
+"Metabolite 120","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine","adenosine"
+"Metabolite 121","adenosine 2'-monophosphate (2'-amp)",NA,"adenosine 2'-monophosphate (2'-amp)","adenosine 2'-monophosphate (2'-amp)","2'-amp","adenosine 2'-monophosphate (2'-amp)",NA,"adenosine 2'-monophosphate (2'-amp)","adenosine 2'-monophosphate (2'-amp)",NA,NA
+"Metabolite 122","adenosine 3'-monophosphate (3'-amp)",NA,"adenosine 3'-monophosphate (3'-amp)","adenosine 3'-monophosphate (3'-amp)","3'-amp","adenosine 3'-monophosphate (3'-amp)",NA,"adenosine 3'-monophosphate (3'-amp)","adenosine 3'-monophosphate (3'-amp)",NA,NA
+"Metabolite 123","adenosine 5'-monophosphate (amp)",NA,"adenosine 5'-monophosphate (amp)","adenosine 5'-monophosphate (amp)","amp","adenosine 5'-monophosphate (amp)",NA,"adenosine 5'-monophosphate (amp)","adenosine 5'-monophosphate (amp)",NA,"adenosine 5'-monophosphate (amp)"
+"Metabolite 124","adenylosuccinate",NA,NA,"adenylosuccinate",NA,NA,NA,"adenylosuccinate","adenylosuccinate",NA,NA
+"Metabolite 125","adipate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 126","adrenate (22:4n6)",NA,"adrenate (22:4n6)","adrenate (22:4n6)","adrenate (22:4n6)","adrenate (22:4n6)",NA,"adrenate (22:4n6)","adrenate (22:4n6)",NA,"adrenate (22:4n6)"
+"Metabolite 127","agmatine",NA,NA,"agmatine",NA,NA,NA,NA,NA,NA,"agmatine"
+"Metabolite 128","alanine","alanine","alanine","alanine","alanine","alanine","alanine","alanine","alanine","alanine","alanine"
+"Metabolite 129","alanylalanine",NA,NA,NA,NA,"alanylalanine",NA,NA,NA,"alanylalanine",NA
+"Metabolite 130","alanylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 131","alanylglycine",NA,NA,NA,NA,NA,NA,"alanylglycine",NA,NA,NA
+"Metabolite 132","alanylisoleucine",NA,NA,NA,NA,NA,NA,"alanylisoleucine",NA,NA,NA
+"Metabolite 133","alanylleucine",NA,"alanylleucine","alanylleucine",NA,"alanylleucine",NA,"alanylleucine","alanylleucine",NA,"alanylleucine"
+"Metabolite 134","alanylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 135","alanylphenylalanine",NA,NA,"alanylphenylalanine",NA,NA,NA,"alanylphenylalanine","alanylphenylalanine",NA,NA
+"Metabolite 136","alanylthreonine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 137","alanyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 138","alanyltyrosine",NA,NA,NA,NA,NA,NA,"alanyltyrosine","alanyltyrosine",NA,"alanyltyrosine"
+"Metabolite 139","alanylvaline",NA,NA,NA,NA,NA,NA,"alanylvaline","alanylvaline",NA,NA
+"Metabolite 140","allo-threonine",NA,"allo-threonine",NA,"allo-threonine",NA,NA,"allo-threonine",NA,NA,NA
+"Metabolite 141","alpha-glutamylglutamate",NA,NA,NA,NA,NA,NA,"alpha-glutamylglutamate",NA,NA,NA
+"Metabolite 142","alpha-glutamyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 143","alpha-glutamyltyrosine",NA,NA,NA,NA,NA,NA,NA,"alpha-glutamyltyrosine",NA,NA
+"Metabolite 144","alpha-hydroxyisovalerate",NA,NA,"alpha-hydroxyisovalerate","alpha-hydroxyisovalerate","alpha-hydroxyisovalerate",NA,"alpha-hydroxyisovalerate","alpha-hydroxyisovalerate",NA,"alpha-hydroxyisovalerate"
+"Metabolite 145","alpha-tocopherol",NA,"alpha-tocopherol","alpha-tocopherol","alpha-tocopherol","alpha-tocopherol",NA,"alpha-tocopherol",NA,"a-tocopherol","alpha-tocopherol"
+"Metabolite 146","androsterone sulfate",NA,"androsterone sulfate","androsterone sulfate",NA,"androsterone sulfate",NA,NA,NA,NA,NA
+"Metabolite 147","anserine",NA,NA,"anserine","anserine",NA,NA,NA,NA,NA,"anserine"
+"Metabolite 148","arabitol",NA,NA,"arabitol","arabitol","arabitol",NA,NA,"arabitol",NA,"arabitol"
+"Metabolite 149","arabonate",NA,NA,NA,"arabonate","arabonate",NA,NA,NA,NA,NA
+"Metabolite 150","arachidate (20:0)",NA,NA,NA,NA,"arachidate (20:0)",NA,NA,NA,NA,NA
+"Metabolite 151","arachidonate (20:4n6)",NA,"arachidonate (20:4n6)","arachidonate (20:4n6)","arachidonate (20:4n6)","arachidonate (20:4n6)",NA,"arachidonate (20:4n6)","arachidonate (20:4n6)","arachidonate (20:4n6)","arachidonate (20:4n6)"
+"Metabolite 152","arginine","arginine","arginine","arginine","arginine","arginine","arginine","arginine","arginine",NA,"arginine"
+"Metabolite 153","argininosuccinate",NA,NA,NA,NA,"argininosuccinate",NA,"argininosuccinate",NA,"argininosuccinate",NA
+"Metabolite 154","arginylleucine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 155","arginylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 156","arginylphenylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 157","arginyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 158","arginylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 159","ascorbate (vitamin c)",NA,"ascorbate (vitamin c)","ascorbate (vitamin c)","ascorbate (vitamin c)","ascorbate (vitamin c)","ascorbic acid","ascorbate (vitamin c)","ascorbate (vitamin c)","ascorbate (vitamin c)","ascorbate (vitamin c)"
+"Metabolite 160","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine","asparagine"
+"Metabolite 161","aspartate","aspartic acid","aspartate","aspartate","aspartate","aspartate","aspartate","aspartate","aspartate","aspartate","aspartate"
+"Metabolite 162","aspartate-glutamate",NA,NA,NA,NA,"aspartate-glutamate",NA,"aspartate-glutamate",NA,NA,NA
+"Metabolite 163","aspartylleucine",NA,NA,"aspartylleucine","aspartylleucine",NA,NA,NA,"aspartylleucine",NA,NA
+"Metabolite 164","aspartylphenylalanine",NA,"aspartylphenylalanine","aspartylphenylalanine",NA,"aspartylphenylalanine",NA,"aspartylphenylalanine","aspartylphenylalanine",NA,"aspartylphenylalanine"
+"Metabolite 165","aspartyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 166","aspartylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 167","atenolol",NA,NA,NA,NA,NA,NA,"atenolol",NA,NA,NA
+"Metabolite 168","azelate (nonanedioate)",NA,NA,"azelate (nonanedioate)",NA,"azelate (nonanedioate)",NA,"azelate (nonanedioate)","azelate (nonanedioate)","azelate (nonanedioate)","azelate (nonanedioate)"
+"Metabolite 169","benzoate","benzoic acid",NA,"benzoate","benzoate",NA,NA,NA,NA,NA,NA
+"Metabolite 170","beta-alanine",NA,"beta-alanine","beta-alanine","beta-alanine","beta-alanine",NA,NA,"beta-alanine","b-alanine","beta-alanine"
+"Metabolite 171","beta-hydroxypyruvate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 172","betaine","betaine","betaine","betaine",NA,"betaine","glycine betaine",NA,"betaine",NA,"betaine"
+"Metabolite 173","beta-tocopherol",NA,"beta-tocopherol",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 174","bilirubin (e,e)*",NA,"bilirubin (e,e)*",NA,NA,"bilirubin (e,e)*",NA,NA,"bilirubin (e,e)*",NA,NA
+"Metabolite 175","bilirubin (z,z)",NA,NA,NA,NA,"bilirubin (z,z)",NA,NA,NA,NA,NA
+"Metabolite 176","butyrylcarnitine",NA,"butyrylcarnitine","butyrylcarnitine","butyrylcarnitine (c4)","butyrylcarnitine",NA,"butyrylcarnitine","butyrylcarnitine",NA,"butyrylcarnitine"
+"Metabolite 177","caprate (10:0)",NA,NA,"caprate (10:0)","caprate (10:0)","caprate (10:0)",NA,"caprate (10:0)","caprate (10:0)",NA,NA
+"Metabolite 178","caproate (6:0)",NA,"caproate (6:0)","caproate (6:0)","caproate (6:0)","caproate (6:0)",NA,"caproate (6:0)","caproate (6:0)",NA,NA
+"Metabolite 179","caprylate (8:0)",NA,NA,"caprylate (8:0)","caprylate (8:0)","caprylate (8:0)",NA,"caprylate (8:0)","caprylate (8:0)",NA,NA
+"Metabolite 180","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine","carnitine"
+"Metabolite 181","catechol sulfate",NA,"catechol sulfate","catechol sulfate",NA,"catechol sulfate",NA,NA,"catechol sulfate","catechol","catechol sulfate"
+"Metabolite 182","celecoxib",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 183","c-glycosyltryptophan*",NA,"c-glycosyltryptophan*","c-glycosyltryptophan*","c-glycosyltryptophan*","c-glycosyltryptophan*",NA,"c-glycosyltryptophan*","c-glycosyltryptophan*",NA,"c-glycosyltryptophan*"
+"Metabolite 184","chiro-inositol",NA,NA,"chiro-inositol","chiro-inositol","chiro-inositol",NA,NA,NA,NA,NA
+"Metabolite 185","cholate",NA,NA,"cholate",NA,"cholate",NA,"cholate",NA,NA,NA
+"Metabolite 186","cholesterol",NA,"cholesterol","cholesterol","cholesterol","cholesterol",NA,"cholesterol","cholesterol","cholesterol","cholesterol"
+"Metabolite 187","choline",NA,"choline","choline",NA,"choline","choline",NA,"choline",NA,"choline"
+"Metabolite 188","choline phosphate",NA,"choline phosphate","choline phosphate","phosphocholine","choline phosphate",NA,"choline phosphate","choline phosphate",NA,"choline phosphate"
+"Metabolite 189","cinnamoylglycine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 190","cis-aconitate",NA,NA,NA,NA,NA,"aconitate",NA,NA,"aconitate","cis-aconitate"
+"Metabolite 191","cis-vaccenate (18:1n7)",NA,"cis-vaccenate (18:1n7)","cis-vaccenate (18:1n7)","vaccenate (18:1n7)","cis-vaccenate (18:1n7)",NA,NA,"cis-vaccenate (18:1n7)",NA,"cis-vaccenate (18:1n7)"
+"Metabolite 192","citalopram",NA,NA,NA,"citalopram",NA,NA,NA,NA,NA,NA
+"Metabolite 193","citramalate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 194","citrate",NA,"citrate","citrate","citrate","citrate","citrate","citrate","citrate","citrate","citrate"
+"Metabolite 195","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline","citrulline"
+"Metabolite 196","codeine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 197","cortisol","cortisol","cortisol",NA,NA,"cortisol",NA,"cortisol","cortisol",NA,NA
+"Metabolite 198","cortisone",NA,NA,NA,NA,"cortisone",NA,NA,NA,NA,NA
+"Metabolite 199","creatine","creatine","creatine","creatine","creatine","creatine","creatine","creatine","creatine",NA,"creatine"
+"Metabolite 200","creatinine",NA,"creatinine","creatinine","creatinine","creatinine",NA,"creatinine","creatinine","creatinine","creatinine"
+"Metabolite 201","cysteine",NA,"cysteine","cysteine","cysteine","cysteine","cysteine","cysteine","cysteine","cysteine","cysteine"
+"Metabolite 202","cysteine-glutathione disulfide",NA,"cysteine-glutathione disulfide","cysteine-glutathione disulfide","cysteine-glutathione disulfide","cysteine-glutathione disulfide",NA,"cysteine-glutathione disulfide","cysteine-glutathione disulfide",NA,"cysteine-glutathione disulfide"
+"Metabolite 203","cysteinylglycine",NA,NA,"cysteinylglycine",NA,"cysteinylglycine",NA,NA,NA,NA,"cysteinylglycine"
+"Metabolite 204","cystine",NA,"cystine","cystine","cystine","cystine",NA,"cystine","cystine",NA,"cystine"
+"Metabolite 205","cytidine",NA,"cytidine","cytidine","cytidine","cytidine","cytidine","cytidine","cytidine","cytidine","cytidine"
+"Metabolite 206","cytidine 5'-diphosphocholine",NA,"cytidine 5'-diphosphocholine","cytidine 5'-diphosphocholine",NA,"cytidine 5'-diphosphocholine",NA,"cytidine 5'-diphosphocholine","cytidine 5'-diphosphocholine",NA,"cytidine 5'-diphosphocholine"
+"Metabolite 207","cytidine 5'-monophosphate (5'-cmp)","cytidine monophosphate (cmp)","cytidine 5'-monophosphate (5'-cmp)","cytidine 5'-monophosphate (5'-cmp)",NA,"cytidine 5'-monophosphate (5'-cmp)","cmp","cytidine 5'-monophosphate (5'-cmp)","cytidine 5'-monophosphate (5'-cmp)","cytidine monophosphate (cmp)","cytidine 5'-monophosphate (5'-cmp)"
+"Metabolite 208","cytidine-3'-monophosphate (3'-cmp)",NA,NA,"cytidine-3'-monophosphate (3'-cmp)",NA,"cytidine-3'-monophosphate (3'-cmp)",NA,"cytidine-3'-monophosphate (3'-cmp)","cytidine-3'-monophosphate (3'-cmp)",NA,NA
+"Metabolite 209","cytosine-2',3'-cyclic monophosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 210","deoxycarnitine",NA,"deoxycarnitine","deoxycarnitine","deoxycarnitine","deoxycarnitine",NA,"deoxycarnitine","deoxycarnitine",NA,"deoxycarnitine"
+"Metabolite 211","dihomo-linoleate (20:2n6)",NA,"dihomo-linoleate (20:2n6)","dihomo-linoleate (20:2n6)","dihomolinoleate (20:2n6)","dihomo-linoleate (20:2n6)",NA,"dihomo-linoleate (20:2n6)","dihomo-linoleate (20:2n6)",NA,"dihomo-linoleate (20:2n6)"
+"Metabolite 212","dihomo-linolenate (20:3n3 or n6)",NA,"dihomo-linolenate (20:3n3 or n6)","dihomo-linolenate (20:3n3 or n6)","dihomolinolenate (20:3n3 or 3n6)","dihomo-linolenate (20:3n3 or n6)",NA,"dihomo-linolenate (20:3n3 or n6)","dihomo-linolenate (20:3n3 or n6)",NA,"dihomo-linolenate (20:3n3 or n6)"
+"Metabolite 213","dihydrocholesterol",NA,NA,"dihydrocholesterol","dihydrocholesterol",NA,NA,NA,NA,NA,NA
+"Metabolite 214","dimethylarginine (sdma + adma)",NA,"dimethylarginine (sdma + adma)","assymetric dimethylarginine (adma)","dimethylarginine (adma + sdma)","dimethylarginine (sdma + adma)",NA,"dimethylarginine (sdma + adma)","dimethylarginine (sdma + adma)","assymetric dimethylarginine (adma)","dimethylarginine (sdma + adma)"
+"Metabolite 215","dimethylglycine","dimethylglycine",NA,NA,NA,"dimethylglycine","dimethylglycine",NA,"dimethylglycine",NA,NA
+"Metabolite 216","docosadienoate (22:2n6)",NA,"docosadienoate (22:2n6)","docosadienoate (22:2n6)","docosadienoate (22:2n6)","docosadienoate (22:2n6)",NA,"docosadienoate (22:2n6)","docosadienoate (22:2n6)",NA,"docosadienoate (22:2n6)"
+"Metabolite 217","docosahexaenoate (dha; 22:6n3)",NA,"docosahexaenoate (dha; 22:6n3)","docosahexaenoate (dha; 22:6n3)","docosahexaenoate (dha; 22:6n3)","docosahexaenoate (dha; 22:6n3)",NA,"docosahexaenoate (dha; 22:6n3)","docosahexaenoate (dha; 22:6n3)",NA,"docosahexaenoate (dha; 22:6n3)"
+"Metabolite 218","docosapentaenoate (n3 dpa; 22:5n3)",NA,"docosapentaenoate (n3 dpa; 22:5n3)","docosapentaenoate (n3 dpa; 22:5n3)",NA,"docosapentaenoate (n3 dpa; 22:5n3)",NA,"docosapentaenoate (n3 dpa; 22:5n3)","docosapentaenoate (n3 dpa; 22:5n3)",NA,"docosapentaenoate (n3 dpa; 22:5n3)"
+"Metabolite 219","docosapentaenoate (n6 dpa; 22:5n6)",NA,NA,"docosapentaenoate (n6 dpa; 22:5n6)","docosapentaenoate (n6 dpa; 22:5n6)","docosapentaenoate (n6 dpa; 22:5n6)",NA,NA,NA,NA,"docosapentaenoate (n6 dpa; 22:5n6)"
+"Metabolite 220","docosatrienoate (22:3n3)",NA,"docosatrienoate (22:3n3)","docosatrienoate (22:3n3)","docosatrienoate (22:3n3)","docosatrienoate (22:3n3)",NA,"docosatrienoate (22:3n3)","docosatrienoate (22:3n3)",NA,"docosatrienoate (22:3n3)"
+"Metabolite 221","dodecanedioate",NA,NA,NA,NA,"dodecanedioate",NA,NA,NA,NA,NA
+"Metabolite 222","eicosapentaenoate (epa; 20:5n3)",NA,"eicosapentaenoate (epa; 20:5n3)","eicosapentaenoate (epa; 20:5n3)",NA,"eicosapentaenoate (epa; 20:5n3)",NA,"eicosapentaenoate (epa; 20:5n3)","eicosapentaenoate (epa; 20:5n3)",NA,"eicosapentaenoate (epa; 20:5n3)"
+"Metabolite 223","eicosenoate (20:1n9 or 11)",NA,"eicosenoate (20:1n9 or 11)","eicosenoate (20:1n9 or 11)","eicosenoate (20:1n9 or 1n11)","eicosenoate (20:1n9 or 11)",NA,"eicosenoate (20:1n9 or 11)","eicosenoate (20:1n9 or 11)",NA,"eicosenoate (20:1n9 or 11)"
+"Metabolite 224","epinephrine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 225","ergothioneine",NA,NA,"ergothioneine","ergothioneine","ergothioneine",NA,"ergothioneine","ergothioneine",NA,"ergothioneine"
+"Metabolite 226","erucate (22:1n9)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 227","erythritol",NA,NA,"erythritol","erythritol","erythritol",NA,"erythritol","erythritol","erythritol","erythritol"
+"Metabolite 228","erythronate*",NA,"erythronate*","erythronate*","erythronate*","erythronate*",NA,"erythronate*","erythronate*",NA,"erythronate*"
+"Metabolite 229","ethanolamine",NA,"ethanolamine","ethanolamine","ethanolamine","ethanolamine",NA,"ethanolamine","ethanolamine",NA,"ethanolamine"
+"Metabolite 230","flavin adenine dinucleotide (fad)",NA,"flavin adenine dinucleotide (fad)","flavin adenine dinucleotide (fad)",NA,"flavin adenine dinucleotide (fad)","fad","flavin adenine dinucleotide (fad)","flavin adenine dinucleotide (fad)",NA,"flavin adenine dinucleotide (fad)"
+"Metabolite 231","fructose",NA,"fructose","fructose","fructose","fructose",NA,"fructose","fructose","fructose","fructose"
+"Metabolite 232","fructose 1-phosphate",NA,NA,NA,"fructose 1-phosphate",NA,NA,NA,NA,NA,NA
+"Metabolite 233","fructose-6-phosphate",NA,"fructose-6-phosphate","fructose-6-phosphate","fructose 6-phosphate","fructose-6-phosphate","fructose-6-phosphate","fructose-6-phosphate","fructose-6-phosphate","fructose-6-phosphate","fructose-6-phosphate"
+"Metabolite 234","fucose",NA,"fucose","fucose",NA,"fucose",NA,NA,"fucose",NA,"fucose"
+"Metabolite 235","fumarate",NA,"fumarate","fumarate","fumarate","fumarate","fumarate","fumarate","fumarate","fumarate (trans-butenedioate)","fumarate"
+"Metabolite 236","gabapentin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 237","galactose",NA,"galactose",NA,NA,"galactose",NA,"galactose",NA,NA,"galactose"
+"Metabolite 238","gamma-aminobutyrate (gaba)",NA,"gamma-aminobutyrate (gaba)","gamma-aminobutyrate (gaba)","gamma-aminobutyrate (gaba)","gamma-aminobutyrate (gaba)","4-aminobutyrate","gamma-aminobutyrate (gaba)","gamma-aminobutyrate (gaba)",NA,"gamma-aminobutyrate (gaba)"
+"Metabolite 239","gamma-glutamylcysteine",NA,NA,NA,NA,NA,NA,NA,NA,"g-glutamylcysteine",NA
+"Metabolite 240","gamma-glutamylglutamate",NA,"gamma-glutamylglutamate","gamma-glutamylglutamate","gamma-glutamylglutamate","gamma-glutamylglutamate",NA,"gamma-glutamylglutamate","gamma-glutamylglutamate",NA,"gamma-glutamylglutamate"
+"Metabolite 241","gamma-glutamylglutamine",NA,"gamma-glutamylglutamine","gamma-glutamylglutamine","gamma-glutamylglutamine","gamma-glutamylglutamine",NA,"gamma-glutamylglutamine",NA,"g-glutamylglutamine","gamma-glutamylglutamine"
+"Metabolite 242","gamma-glutamylisoleucine*",NA,"gamma-glutamylisoleucine*","gamma-glutamylisoleucine*",NA,"gamma-glutamylisoleucine*",NA,NA,NA,NA,NA
+"Metabolite 243","gamma-glutamylleucine",NA,"gamma-glutamylleucine","gamma-glutamylleucine",NA,"gamma-glutamylleucine",NA,"gamma-glutamylleucine","gamma-glutamylleucine",NA,"gamma-glutamylleucine"
+"Metabolite 244","gamma-glutamylphenylalanine",NA,NA,"gamma-glutamylphenylalanine",NA,"gamma-glutamylphenylalanine",NA,"gamma-glutamylphenylalanine","gamma-glutamylphenylalanine",NA,NA
+"Metabolite 245","gamma-glutamylvaline",NA,NA,"gamma-glutamylvaline",NA,"gamma-glutamylvaline",NA,NA,NA,NA,NA
+"Metabolite 246","gamma-tocopherol",NA,"gamma-tocopherol","gamma-tocopherol","gamma-tocopherol","gamma-tocopherol",NA,NA,NA,NA,"gamma-tocopherol"
+"Metabolite 247","glucarate (saccharate)",NA,NA,NA,NA,"glucarate (saccharate)",NA,NA,"glucarate (saccharate)",NA,NA
+"Metabolite 248","gluconate",NA,"gluconate","gluconate","gluconate","gluconate","d-gluconate","gluconate","gluconate",NA,"gluconate"
+"Metabolite 249","glucose",NA,"glucose","glucose","glucose","glucose",NA,"glucose","glucose","glucose","glucose"
+"Metabolite 250","glucose 1-phosphate",NA,NA,NA,NA,"glucose 1-phosphate","glucose-1-phosphate",NA,NA,NA,NA
+"Metabolite 251","glucose-6-phosphate (g6p)",NA,"glucose-6-phosphate (g6p)","glucose-6-phosphate (g6p)","glucose 6-phosphate","glucose-6-phosphate (g6p)","glucose-6-phosphate","glucose-6-phosphate (g6p)","glucose-6-phosphate (g6p)",NA,"glucose-6-phosphate (g6p)"
+"Metabolite 252","glucuronate",NA,"glucuronate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 253","glutamate",NA,"glutamate","glutamate","glutamate","glutamate","glutamate","glutamate","glutamate","glutamate","glutamate"
+"Metabolite 254","glutamate, gamma-methyl ester",NA,NA,"glutamate, gamma-methyl ester",NA,NA,NA,NA,NA,NA,"glutamate, gamma-methyl ester"
+"Metabolite 255","glutamine",NA,"glutamine","glutamine","glutamine","glutamine","glutamine","glutamine","glutamine","glutamine","glutamine"
+"Metabolite 256","glutarate (pentanedioate)",NA,NA,"glutarate (pentanedioate)","glutarate (pentanedioate)","glutarate (pentanedioate)",NA,NA,NA,"glutarate (pentanedioate)","glutarate (pentanedioate)"
+"Metabolite 257","glutarylcarnitine (c5)",NA,NA,NA,"glutaroylcarnitine (c5)",NA,NA,NA,NA,NA,NA
+"Metabolite 258","glutathione, oxidized (gssg)",NA,"glutathione, oxidized (gssg)","glutathione, oxidized (gssg)","glutathione, oxidized (gssg)","glutathione, oxidized (gssg)","glutathione disulfide","glutathione, oxidized (gssg)","glutathione, oxidized (gssg)",NA,"glutathione, oxidized (gssg)"
+"Metabolite 259","glutathione, reduced (gsh)",NA,"glutathione, reduced (gsh)","glutathione, reduced (gsh)","glutathione, reduced (gsh)","glutathione, reduced (gsh)","glutathione","glutathione, reduced (gsh)","glutathione, reduced (gsh)","glutathione reduced (gsh)","glutathione, reduced (gsh)"
+"Metabolite 260","glycerate",NA,"glycerate","glycerate","glycerate","glycerate","glycerate","glycerate","glycerate","glycerate","glycerate"
+"Metabolite 261","glycerol",NA,"glycerol","glycerol","glycerol","glycerol",NA,"glycerol","glycerol","glycerol","glycerol"
+"Metabolite 262","glycerol 2-phosphate",NA,"glycerol 2-phosphate","glycerol 2-phosphate","glycerol 2-phosphate","glycerol 2-phosphate",NA,"glycerol 2-phosphate","glycerol 2-phosphate",NA,"glycerol 2-phosphate"
+"Metabolite 263","glycerol 3-phosphate (g3p)",NA,"glycerol 3-phosphate (g3p)","glycerol 3-phosphate (g3p)","glycerol 3-phosphate (g3p)","glycerol 3-phosphate (g3p)","sn-glycerol-3-phosphate","glycerol 3-phosphate (g3p)","glycerol 3-phosphate (g3p)","glycerol-3-phosphate (g3p)","glycerol 3-phosphate (g3p)"
+"Metabolite 264","glycerophosphoethanolamine",NA,NA,"glycerophosphoethanolamine","glycerophosphoethanolamine","glycerophosphoethanolamine",NA,NA,NA,NA,"glycerophosphoethanolamine"
+"Metabolite 265","glycerophosphorylcholine (gpc)",NA,"glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)","glycerophosphocholine","glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)","glycerophosphorylcholine (gpc)"
+"Metabolite 266","glycine",NA,"glycine","glycine","glycine","glycine","glycine","glycine","glycine","glycine","glycine"
+"Metabolite 267","glycocholenate sulfate*",NA,NA,NA,NA,"glycocholenate sulfate*",NA,"glycocholenate sulfate*","glycocholenate sulfate*",NA,NA
+"Metabolite 268","glycolate (hydroxyacetate)",NA,NA,"glycolate (hydroxyacetate)","glycolate (hydroxyacetate)","glycolate (hydroxyacetate)",NA,"glycolate (hydroxyacetate)",NA,NA,NA
+"Metabolite 269","glycolithocholate sulfate*",NA,"glycolithocholate sulfate*","glycolithocholate sulfate*",NA,"glycolithocholate sulfate*",NA,NA,"glycolithocholate sulfate*",NA,NA
+"Metabolite 270","glycylglycine",NA,"glycylglycine","glycylglycine","glycylglycine",NA,NA,"glycylglycine","glycylglycine",NA,NA
+"Metabolite 271","glycylisoleucine",NA,NA,"glycylisoleucine",NA,NA,NA,"glycylisoleucine","glycylisoleucine",NA,"glycylisoleucine"
+"Metabolite 272","glycylleucine",NA,"glycylleucine","glycylleucine",NA,"glycylleucine",NA,"glycylleucine","glycylleucine",NA,"glycylleucine"
+"Metabolite 273","glycyllysine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 274","glycylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 275","glycylphenylalanine",NA,NA,"glycylphenylalanine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 276","glycylproline",NA,"glycylproline","glycylproline",NA,"glycylproline",NA,"glycylproline","glycylproline",NA,"glycylproline"
+"Metabolite 277","glycylthreonine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 278","glycyltryptophan",NA,NA,NA,NA,NA,NA,"glycyltryptophan",NA,NA,NA
+"Metabolite 279","glycyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,"glycyltyrosine"
+"Metabolite 280","glycylvaline",NA,"glycylvaline","glycylvaline",NA,NA,NA,"glycylvaline","glycylvaline",NA,NA
+"Metabolite 281","guanidinoacetate",NA,NA,NA,NA,NA,"guanidoacetic acid","guanidinoacetate","guanidinoacetate",NA,NA
+"Metabolite 282","guanine","guanine","guanine","guanine","guanine","guanine","guanine",NA,"guanine","guanine","guanine"
+"Metabolite 283","guanosine",NA,"guanosine","guanosine","guanosine","guanosine","guanosine","guanosine","guanosine","guanosine","guanosine"
+"Metabolite 284","guanosine 5'- monophosphate (5'-gmp)",NA,NA,"guanosine 5'- monophosphate (5'-gmp)",NA,NA,NA,NA,"guanosine 5'- monophosphate (5'-gmp)",NA,NA
+"Metabolite 285","gulono-1,4-lactone",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 286","heme",NA,"heme*","heme*","heme*","heme*",NA,"heme*","heme*",NA,"heme*"
+"Metabolite 287","hexanoylcarnitine",NA,"hexanoylcarnitine","hexanoylcarnitine","hexanoylcarnitine (c6)","hexanoylcarnitine",NA,"hexanoylcarnitine","hexanoylcarnitine","hexanoylcarnitine (c6 ac)","hexanoylcarnitine"
+"Metabolite 288","hippurate","hippuric acid","hippurate","hippurate","hippurate","hippurate","hippuric acid","hippurate","hippurate","hippurate (benzoylglycine)","hippurate"
+"Metabolite 289","histamine","histamine","histamine","histamine","histamine","histamine",NA,"histamine","histamine","histamine","histamine"
+"Metabolite 290","histidine","histidine","histidine","histidine","histidine","histidine","histidine","histidine","histidine","histidine","histidine"
+"Metabolite 291","histidylleucine",NA,NA,"histidylleucine",NA,NA,NA,NA,"histidylleucine",NA,NA
+"Metabolite 292","histidylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 293","histidylphenylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 294","histidyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 295","histidyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 296","homocysteine","homocysteine","homocysteine",NA,"homocysteine",NA,"homocysteine","homocysteine","homocysteine","homocysteine",NA
+"Metabolite 297","homoserine","homoserine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 298","homostachydrine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 299","hydantoin-5-propionic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 300","hydrochlorothiazide",NA,NA,"hydrochlorothiazide",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 301","hypotaurine",NA,NA,"hypotaurine","hypotaurine","hypotaurine",NA,NA,"hypotaurine","hypotaurine","hypotaurine"
+"Metabolite 302","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine","hypoxanthine"
+"Metabolite 303","imidazole propionate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 304","indoleacetate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 305","indolelactate",NA,NA,NA,NA,"indolelactate",NA,NA,NA,"indolelactate","indolelactate"
+"Metabolite 306","inosine",NA,"inosine","inosine","inosine","inosine","inosine","inosine","inosine","inosine","inosine"
+"Metabolite 307","inositol 1-phosphate (i1p)",NA,"inositol 1-phosphate (i1p)","inositol 1-phosphate (i1p)","inositol 1-phosphate (i1p)","inositol 1-phosphate (i1p)",NA,"inositol 1-phosphate (i1p)","inositol 1-phosphate (i1p)",NA,"inositol 1-phosphate (i1p)"
+"Metabolite 308","isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate",NA,NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate",NA,NA,NA,NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate",NA,NA
+"Metabolite 309","isobar: ribulose 5-phosphate, xylulose 5-phosphate",NA,"isobar: ribulose 5-phosphate, xylulose 5-phosphate","isobar: ribulose 5-phosphate, xylulose 5-phosphate","isobar: ribulose 5-phosphate, xylulose 5-phosphate","isobar: ribulose 5-phosphate, xylulose 5-phosphate",NA,"isobar: ribulose 5-phosphate, xylulose 5-phosphate",NA,NA,NA
+"Metabolite 310","isobutyrylcarnitine",NA,"isobutyrylcarnitine","isobutyrylcarnitine",NA,"isobutyrylcarnitine",NA,"isobutyrylcarnitine","isobutyrylcarnitine",NA,"isobutyrylcarnitine"
+"Metabolite 311","isoleucine",NA,"isoleucine","isoleucine","isoleucine","isoleucine",NA,"isoleucine","isoleucine","isoleucine","isoleucine"
+"Metabolite 312","isoleucylalanine",NA,NA,"isoleucylalanine",NA,NA,NA,NA,"isoleucylalanine",NA,NA
+"Metabolite 313","isoleucylarginine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 314","isoleucylglutamate",NA,NA,"isoleucylglutamate",NA,NA,NA,NA,"isoleucylglutamate",NA,NA
+"Metabolite 315","isoleucylglycine",NA,NA,NA,NA,NA,NA,NA,"isoleucylglycine",NA,NA
+"Metabolite 316","isoleucylhistidine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 317","isoleucylisoleucine",NA,NA,NA,NA,NA,NA,"isoleucylisoleucine","isoleucylisoleucine",NA,"isoleucylisoleucine"
+"Metabolite 318","isoleucylmethionine",NA,NA,NA,NA,NA,NA,NA,"isoleucylmethionine",NA,NA
+"Metabolite 319","isoleucylphenylalanine",NA,NA,NA,NA,NA,NA,NA,"isoleucylphenylalanine",NA,NA
+"Metabolite 320","isoleucylserine",NA,NA,"isoleucylserine",NA,NA,NA,NA,"isoleucylserine",NA,NA
+"Metabolite 321","isoleucyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 322","isoleucyltyrosine",NA,NA,NA,NA,NA,NA,NA,"isoleucyltyrosine",NA,NA
+"Metabolite 323","isoleucylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 324","isovalerylcarnitine",NA,"isovalerylcarnitine","isovalerylcarnitine","isovalerylcarnitine (c5)","isovalerylcarnitine",NA,"isovalerylcarnitine","isovalerylcarnitine",NA,"isovalerylcarnitine"
+"Metabolite 325","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine","kynurenine"
+"Metabolite 326","lactate",NA,"lactate","lactate","lactate","lactate","lactate","lactate","lactate","lactate","lactate"
+"Metabolite 327","laurate (12:0)","lauric acid","laurate (12:0)","laurate (12:0)","laurate (12:0)","laurate (12:0)",NA,"laurate (12:0)","laurate (12:0)","laurate (12:0)",NA
+"Metabolite 328","laurylcarnitine",NA,"laurylcarnitine",NA,NA,"laurylcarnitine",NA,NA,NA,NA,NA
+"Metabolite 329","leucine","leucine","leucine","leucine","leucine","leucine",NA,"leucine","leucine","leucine","leucine"
+"Metabolite 330","leucylalanine",NA,NA,"leucylalanine",NA,NA,NA,NA,"leucylalanine",NA,NA
+"Metabolite 331","leucylarginine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 332","leucylasparagine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 333","leucylglutamate",NA,NA,"leucylglutamate","leucylglutamate",NA,NA,NA,"leucylglutamate",NA,NA
+"Metabolite 334","leucylglycine",NA,NA,"leucylglycine",NA,NA,NA,NA,"leucylglycine",NA,NA
+"Metabolite 335","leucylhistidine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 336","leucylleucine",NA,NA,NA,NA,NA,NA,"leucylleucine","leucylleucine",NA,"leucylleucine"
+"Metabolite 337","leucylmethionine",NA,NA,NA,NA,NA,NA,NA,"leucylmethionine",NA,NA
+"Metabolite 338","leucylphenylalanine",NA,NA,NA,NA,NA,NA,NA,"leucylphenylalanine",NA,NA
+"Metabolite 339","leucylserine",NA,NA,"leucylserine",NA,NA,NA,NA,"leucylserine",NA,NA
+"Metabolite 340","leucyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 341","leucyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 342","lidocaine",NA,"lidocaine","lidocaine","lidocaine","lidocaine",NA,"lidocaine","lidocaine",NA,"lidocaine"
+"Metabolite 343","linoleate (18:2n6)",NA,"linoleate (18:2n6)","linoleate (18:2n6)","linoleate (18:2n6)","linoleate (18:2n6)",NA,"linoleate (18:2n6)","linoleate (18:2n6)","linoleate (18:2n6)","linoleate (18:2n6)"
+"Metabolite 344","linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"linolenate [alpha or gamma; (18:3n3 or 6)]","linolenate [alpha or gamma; (18:3n3 or 6)]","linolenate (18:3n3 or 3n6)","linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"linolenate [alpha or gamma; (18:3n3 or 6)]","linolenate [alpha or gamma; (18:3n3 or 6)]",NA,"linolenate [alpha or gamma; (18:3n3 or 6)]"
+"Metabolite 345","lipitor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 346","l-urobilin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 347","lysine","lysine","lysine","lysine","lysine","lysine","lysine","lysine","lysine","lysine","lysine"
+"Metabolite 348","lysylleucine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 349","lysyllysine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 350","lysylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 351","lysyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 352","malate",NA,"malate","malate","malate","malate","malate","malate","malate","malate","malate"
+"Metabolite 353","malonylcarnitine",NA,NA,"malonylcarnitine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 354","maltohexaose",NA,NA,NA,NA,"maltohexaose",NA,NA,NA,NA,NA
+"Metabolite 355","maltopentaose",NA,"maltopentaose","maltopentaose",NA,"maltopentaose",NA,NA,NA,NA,NA
+"Metabolite 356","maltose",NA,"maltose","maltose","maltose","maltose",NA,"maltose","maltose",NA,"maltose"
+"Metabolite 357","maltotetraose",NA,"maltotetraose","maltotetraose","maltotetraose","maltotetraose",NA,"maltotetraose","maltotetraose",NA,"maltotetraose"
+"Metabolite 358","maltotriose",NA,"maltotriose","maltotriose","maltotriose","maltotriose",NA,"maltotriose","maltotriose",NA,"maltotriose"
+"Metabolite 359","mannose",NA,"mannose","mannose","mannose","mannose",NA,"mannose","mannose","mannose","mannose"
+"Metabolite 360","mannose-6-phosphate",NA,"mannose-6-phosphate","mannose-6-phosphate","mannose 6-phosphate","mannose-6-phosphate",NA,"mannose-6-phosphate","mannose-6-phosphate","mannose-6-phosphate","mannose-6-phosphate"
+"Metabolite 361","margarate (17:0)",NA,"margarate (17:0)","margarate (17:0)","margarate (17:0)","margarate (17:0)",NA,"margarate (17:0)","margarate (17:0)","heptadecanoate (margarate; 17:0)","margarate (17:0)"
+"Metabolite 362","metformin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 363","methionine","methionine","methionine","methionine","methionine","methionine","methionine","methionine","methionine","methionine","methionine"
+"Metabolite 364","methionylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 365","methionylasparagine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 366","methionylaspartate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 367","methionylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 368","methionylglycine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 369","methionylleucine",NA,NA,NA,NA,NA,NA,NA,"methionylleucine",NA,NA
+"Metabolite 370","methionylphenylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 371","methyl-alpha-glucopyranoside",NA,NA,"methyl-alpha-glucopyranoside",NA,"methyl-alpha-glucopyranoside",NA,NA,NA,NA,"methyl-alpha-glucopyranoside"
+"Metabolite 372","methylglutaroylcarnitine",NA,NA,NA,"3-methylglutaroylcarnitine (c6)","methylglutaroylcarnitine",NA,"methylglutaroylcarnitine","methylglutaroylcarnitine",NA,NA
+"Metabolite 373","methylphosphate",NA,"methylphosphate","methylphosphate","methylphosphate","methylphosphate",NA,"methylphosphate",NA,NA,"methylphosphate"
+"Metabolite 374","metoprolol",NA,"metoprolol",NA,"metoprolol","metoprolol",NA,"metoprolol","metoprolol",NA,NA
+"Metabolite 375","metoprolol acid metabolite*",NA,"metoprolol acid metabolite*",NA,"metoprolol acid metabolite*","metoprolol acid metabolite*",NA,"metoprolol acid metabolite*","metoprolol acid metabolite*",NA,NA
+"Metabolite 376","myo-inositol",NA,"myo-inositol","myo-inositol","myo-inositol","myo-inositol",NA,"myo-inositol","myo-inositol","myo-inositol","myo-inositol"
+"Metabolite 377","myristate (14:0)",NA,"myristate (14:0)","myristate (14:0)","myristate (14:0)","myristate (14:0)",NA,"myristate (14:0)","myristate (14:0)","myristate (14:0)","myristate (14:0)"
+"Metabolite 378","myristoleate (14:1n5)",NA,"myristoleate (14:1n5)","myristoleate (14:1n5)","myristoleate (14:1n5)","myristoleate (14:1n5)",NA,"myristoleate (14:1n5)","myristoleate (14:1n5)",NA,NA
+"Metabolite 379","myristoylcarnitine",NA,NA,NA,NA,"myristoylcarnitine",NA,NA,NA,NA,NA
+"Metabolite 380","n1-methyl-2-pyridone-5-carboxamide",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 381","n1-methyladenosine",NA,"n1-methyladenosine","n1-methyladenosine","1-methyladenosine","n1-methyladenosine","1-methyladenosine","n1-methyladenosine","n1-methyladenosine",NA,"n1-methyladenosine"
+"Metabolite 382","n1-methylguanosine",NA,"n1-methylguanosine","n1-methylguanosine",NA,NA,NA,"n1-methylguanosine","n1-methylguanosine",NA,"n1-methylguanosine"
+"Metabolite 383","n2,n2-dimethylguanosine",NA,"n2,n2-dimethylguanosine",NA,NA,"n2,n2-dimethylguanosine",NA,"n2,n2-dimethylguanosine","n2,n2-dimethylguanosine",NA,NA
+"Metabolite 384","n2-acetyllysine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 385","n2-methylguanosine",NA,NA,NA,NA,"n2-methylguanosine",NA,"n2-methylguanosine",NA,NA,NA
+"Metabolite 386","n6-acetyllysine",NA,"n6-acetyllysine","n6-acetyllysine","n6-acetyllysine","n6-acetyllysine","acetyllysine","n6-acetyllysine","n6-acetyllysine",NA,"n6-acetyllysine"
+"Metabolite 387","n6-carbamoylthreonyladenosine",NA,NA,NA,NA,"n6-carbamoylthreonyladenosine",NA,NA,NA,NA,NA
+"Metabolite 388","n-6-trimethyllysine",NA,NA,NA,NA,NA,NA,NA,NA,"n-6-trimethyllysine",NA
+"Metabolite 389","n-acetylalanine",NA,"n-acetylalanine","n-acetylalanine","n-acetylalanine","n-acetylalanine","n-acetyl-l-alanine","n-acetylalanine","n-acetylalanine",NA,"n-acetylalanine"
+"Metabolite 390","n-acetylarginine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 391","n-acetylasparagine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 392","n-acetylaspartate (naa)",NA,"n-acetylaspartate (naa)","n-acetylaspartate (naa)","n-acetylaspartate (naa)","n-acetylaspartate (naa)",NA,"n-acetylaspartate (naa)","n-acetylaspartate (naa)","n-acetylaspartate (naa)","n-acetylaspartate (naa)"
+"Metabolite 393","n-acetyl-aspartyl-glutamate (naag)",NA,"n-acetyl-aspartyl-glutamate (naag)","n-acetyl-aspartyl-glutamate (naag)","n-acetyl-aspartyl-glutamate (naag)","n-acetyl-aspartyl-glutamate (naag)",NA,"n-acetyl-aspartyl-glutamate (naag)","n-acetyl-aspartyl-glutamate (naag)",NA,"n-acetyl-aspartyl-glutamate (naag)"
+"Metabolite 394","n-acetylglucosamine",NA,"n-acetylglucosamine",NA,NA,NA,NA,"n-acetylglucosamine","n-acetylglucosamine","n-acetylglucosamine","n-acetylglucosamine"
+"Metabolite 395","n-acetylglucosamine 6-phosphate",NA,"n-acetylglucosamine 6-phosphate","n-acetylglucosamine 6-phosphate","n-acetylglucosamine 6-phosphate","n-acetylglucosamine 6-phosphate",NA,NA,"n-acetylglucosamine 6-phosphate",NA,NA
+"Metabolite 396","n-acetylglutamine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 397","n-acetylglycine",NA,NA,"n-acetylglycine","n-acetylglycine","n-acetylglycine",NA,NA,"n-acetylglycine",NA,NA
+"Metabolite 398","n-acetylisoleucine",NA,"n-acetylisoleucine",NA,NA,NA,NA,"n-acetylisoleucine",NA,NA,NA
+"Metabolite 399","n-acetylleucine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 400","n-acetylmethionine",NA,"n-acetylmethionine","n-acetylmethionine","n-acetylmethionine","n-acetylmethionine",NA,"n-acetylmethionine","n-acetylmethionine",NA,"n-acetylmethionine"
+"Metabolite 401","n-acetylneuraminate",NA,"n-acetylneuraminate","n-acetylneuraminate","n-acetylneuraminate","n-acetylneuraminate",NA,"n-acetylneuraminate","n-acetylneuraminate","n-acetylneuraminate","n-acetylneuraminate"
+"Metabolite 402","n-acetylornithine",NA,"n-acetylornithine","n-acetylornithine",NA,NA,"n-acetyl-l-ornithine",NA,NA,NA,NA
+"Metabolite 403","n-acetylphenylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 404","n-acetylserine",NA,"n-acetylserine","n-acetylserine","n-acetylserine","n-acetylserine",NA,"n-acetylserine","n-acetylserine",NA,"n-acetylserine"
+"Metabolite 405","n-acetylthreonine",NA,"n-acetylthreonine","n-acetylthreonine",NA,"n-acetylthreonine",NA,"n-acetylthreonine","n-acetylthreonine",NA,"n-acetylthreonine"
+"Metabolite 406","n-acetyltryptophan",NA,"n-acetyltryptophan",NA,"n-acetyltryptophan","n-acetyltryptophan",NA,"n-acetyltryptophan",NA,NA,"n-acetyltryptophan"
+"Metabolite 407","n-acetyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 408","n-acetylvaline","n-acetyl valine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 409","naproxen",NA,"naproxen",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 410","nervonate (24:1n9)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 411","nicotinamide",NA,"nicotinamide","nicotinamide","nicotinamide","nicotinamide","nicotinamide","nicotinamide","nicotinamide","nicotinamide","nicotinamide"
+"Metabolite 412","nicotinamide adenine dinucleotide (nad+)",NA,"nicotinamide adenine dinucleotide (nad+)","nicotinamide adenine dinucleotide (nad+)","nad+","nicotinamide adenine dinucleotide (nad+)","nad+","nicotinamide adenine dinucleotide (nad+)","nicotinamide adenine dinucleotide (nad+)","nicotinamide adenine dinucleotide (nad+)","nicotinamide adenine dinucleotide (nad+)"
+"Metabolite 413","nicotinamide adenine dinucleotide reduced (nadh)",NA,NA,"nicotinamide adenine dinucleotide reduced (nadh)",NA,NA,"nadh",NA,NA,NA,"nicotinamide adenine dinucleotide reduced (nadh)"
+"Metabolite 414","nicotinamide ribonucleotide (nmn)",NA,NA,"nicotinamide ribonucleotide (nmn)",NA,NA,NA,"nicotinamide ribonucleotide (nmn)","nicotinamide ribonucleotide (nmn)","nicotinamide ribonucleotide (nmn)","nicotinamide ribonucleotide (nmn)"
+"Metabolite 415","nicotinamide riboside*",NA,NA,NA,NA,"nicotinamide riboside*",NA,NA,NA,NA,"nicotinamide riboside*"
+"Metabolite 416","nicotinate",NA,"nicotinate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 417","nicotinate adenine dinucleotide (naad+)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 418","n-methylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 419","octanoylcarnitine",NA,"octanoylcarnitine",NA,NA,"octanoylcarnitine",NA,"octanoylcarnitine","octanoylcarnitine",NA,NA
+"Metabolite 420","oleate (18:1n9)","oleic acid","oleate (18:1n9)","oleate (18:1n9)","oleate (18:1n9)","oleate (18:1n9)",NA,"oleate (18:1n9)","oleate (18:1n9)","oleate (18:1n9)","oleate (18:1n9)"
+"Metabolite 421","oleoylcarnitine",NA,"oleoylcarnitine","oleoylcarnitine","oleoylcarnitine (c18)","oleoylcarnitine",NA,"oleoylcarnitine","oleoylcarnitine",NA,"oleoylcarnitine"
+"Metabolite 422","ophthalmate",NA,"ophthalmate","ophthalmate","ophthalmate","ophthalmate",NA,"ophthalmate","ophthalmate",NA,"ophthalmate"
+"Metabolite 423","ornithine",NA,"ornithine","ornithine","ornithine","ornithine","ornithine","ornithine","ornithine","ornithine","ornithine"
+"Metabolite 424","p-acetamidophenylglucuronide",NA,"p-acetamidophenylglucuronide","p-acetamidophenylglucuronide","p-acetamidophenylglucuronide","p-acetamidophenylglucuronide",NA,"p-acetamidophenylglucuronide",NA,NA,"p-acetamidophenylglucuronide"
+"Metabolite 425","palmitate (16:0)","palmitic acid","palmitate (16:0)","palmitate (16:0)","palmitate (16:0)","palmitate (16:0)",NA,"palmitate (16:0)","palmitate (16:0)","palmitate (16:0)","palmitate (16:0)"
+"Metabolite 426","palmitoleate (16:1n7)",NA,"palmitoleate (16:1n7)","palmitoleate (16:1n7)","palmitoleate (16:1n7)","palmitoleate (16:1n7)",NA,"palmitoleate (16:1n7)","palmitoleate (16:1n7)","palmitoleate (16:1n7)","palmitoleate (16:1n7)"
+"Metabolite 427","palmitoyl sphingomyelin",NA,NA,"palmitoyl sphingomyelin","palmitoyl sphingomyelin",NA,NA,"palmitoyl sphingomyelin","palmitoyl sphingomyelin",NA,"palmitoyl sphingomyelin"
+"Metabolite 428","palmitoylcarnitine",NA,"palmitoylcarnitine","palmitoylcarnitine",NA,"palmitoylcarnitine",NA,"palmitoylcarnitine","palmitoylcarnitine",NA,NA
+"Metabolite 429","pantothenate","pantothenic acid","pantothenate","pantothenate","pantothenate (vitamin b5)","pantothenate","pantothenate","pantothenate","pantothenate","pantothenate","pantothenate"
+"Metabolite 430","paroxetine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 431","p-cresol sulfate",NA,"p-cresol sulfate","p-cresol sulfate","p-cresol sulfate","p-cresol sulfate",NA,"p-cresol sulfate","p-cresol sulfate",NA,"p-cresol sulfate"
+"Metabolite 432","pelargonate (9:0)",NA,NA,"pelargonate (9:0)","pelargonate (9:0)","pelargonate (9:0)",NA,"pelargonate (9:0)","pelargonate (9:0)",NA,NA
+"Metabolite 433","penicillin g",NA,NA,NA,NA,NA,NA,"penicillin g",NA,NA,"penicillin g"
+"Metabolite 434","pentadecanoate (15:0)",NA,NA,"pentadecanoate (15:0)","pentadecanoate (15:0)","pentadecanoate (15:0)",NA,"pentadecanoate (15:0)",NA,NA,NA
+"Metabolite 435","phenol red",NA,"phenol red",NA,NA,NA,NA,"phenol red",NA,NA,NA
+"Metabolite 436","phenol sulfate",NA,"phenol sulfate","phenol sulfate","phenol sulfate","phenol sulfate",NA,"phenol sulfate","phenol sulfate",NA,"phenol sulfate"
+"Metabolite 437","phenylacetylglutamine",NA,"phenylacetylglutamine","phenylacetylglutamine","phenylacetylglutamine","phenylacetylglutamine",NA,"phenylacetylglutamine","phenylacetylglutamine",NA,"phenylacetylglutamine"
+"Metabolite 438","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine","phenylalanine"
+"Metabolite 439","phenylalanylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 440","phenylalanylarginine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 441","phenylalanylaspartate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 442","phenylalanylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 443","phenylalanylglycine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 444","phenylalanylleucine",NA,NA,NA,NA,NA,NA,NA,"phenylalanylleucine*",NA,NA
+"Metabolite 445","phenylalanylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 446","phenylalanylphenylalanine",NA,NA,NA,NA,NA,NA,NA,"phenylalanylphenylalanine",NA,NA
+"Metabolite 447","phenylalanylproline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 448","phenylalanylserine",NA,NA,"phenylalanylserine",NA,NA,NA,NA,"phenylalanylserine",NA,NA
+"Metabolite 449","phenylalanyltryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 450","phenylalanyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 451","phenylalanylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 452","phosphate",NA,"phosphate","phosphate","phosphate","phosphate",NA,"phosphate","phosphate",NA,"phosphate"
+"Metabolite 453","phosphoenolpyruvate (pep)",NA,"phosphoenolpyruvate (pep)",NA,"phosphoenolpyruvate (pep)","phosphoenolpyruvate (pep)","phosphoenolpyruvate",NA,NA,"phosphoenolpyruvate (pep",NA
+"Metabolite 454","phosphoethanolamine",NA,"phosphoethanolamine","phosphoethanolamine","phosphoethanolamine (pe)","phosphoethanolamine",NA,"phosphoethanolamine","phosphoethanolamine","phosphoethanolamine","phosphoethanolamine"
+"Metabolite 455","phytosphingosine",NA,"phytosphingosine","phytosphingosine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 456","pipecolate","pipecolic acid","pipecolate","pipecolate","pipecolate","pipecolate",NA,"pipecolate","pipecolate","pipecolate","pipecolate"
+"Metabolite 457","piperine",NA,NA,"piperine",NA,NA,NA,NA,NA,NA,"piperine"
+"Metabolite 458","pivaloylcarnitine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 459","pregnanediol-3-glucuronide",NA,NA,"pregnanediol-3-glucuronide",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 460","pregnen-diol disulfate*",NA,"pregnen-diol disulfate*",NA,NA,"pregnen-diol disulfate*",NA,"pregnen-diol disulfate*","pregnen-diol disulfate*",NA,NA
+"Metabolite 461","pro-hydroxy-pro",NA,NA,"pro-hydroxy-pro","prolylhydroxyproline","pro-hydroxy-pro",NA,"pro-hydroxy-pro","pro-hydroxy-pro",NA,NA
+"Metabolite 462","proline","proline","proline","proline","proline","proline","proline","proline","proline","proline","proline"
+"Metabolite 463","prolylglycine",NA,NA,NA,NA,NA,NA,NA,"prolylglycine",NA,NA
+"Metabolite 464","prolylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 465","propionylcarnitine",NA,"propionylcarnitine","propionylcarnitine","propionylcarnitine (c3)","propionylcarnitine",NA,"propionylcarnitine","propionylcarnitine",NA,"propionylcarnitine"
+"Metabolite 466","prostaglandin a2",NA,NA,NA,NA,NA,NA,NA,"prostaglandin a2",NA,NA
+"Metabolite 467","prostaglandin e2",NA,NA,NA,NA,NA,NA,"prostaglandin e2","prostaglandin e2",NA,NA
+"Metabolite 468","pseudouridine",NA,"pseudouridine","pseudouridine","pseudouridine","pseudouridine",NA,"pseudouridine","pseudouridine",NA,"pseudouridine"
+"Metabolite 469","putrescine",NA,"putrescine","putrescine","putrescine","putrescine",NA,"putrescine","putrescine","putrescine","putrescine"
+"Metabolite 470","pyridoxal",NA,NA,NA,NA,NA,NA,"pyridoxal",NA,NA,NA
+"Metabolite 471","pyridoxate",NA,"pyridoxate","pyridoxate",NA,"pyridoxate",NA,"pyridoxate",NA,NA,"pyridoxate"
+"Metabolite 472","pyroglutamine*",NA,"pyroglutamine*","pyroglutamine*","pyroglutamine*","pyroglutamine*",NA,"pyroglutamine*","pyroglutamine*",NA,"pyroglutamine*"
+"Metabolite 473","pyrophosphate (ppi)",NA,"pyrophosphate (ppi)","pyrophosphate (ppi)","pyrophosphate (ppi)","pyrophosphate (ppi)",NA,NA,NA,"pyrophosphate (ppi)",NA
+"Metabolite 474","quebrachitol",NA,NA,"quebrachitol",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 475","quinate",NA,NA,NA,NA,"quinate",NA,NA,NA,NA,"quinate"
+"Metabolite 476","quinidine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 477","quinolinate",NA,"quinolinate",NA,NA,"quinolinate",NA,NA,NA,"quinolinate","quinolinate"
+"Metabolite 478","ranitidine",NA,NA,"ranitidine","ranitidine",NA,NA,"ranitidine",NA,NA,NA
+"Metabolite 479","ribitol",NA,"ribitol","ribitol","ribitol","ribitol",NA,NA,"ribitol",NA,"ribitol"
+"Metabolite 480","riboflavin (vitamin b2)",NA,"riboflavin (vitamin b2)",NA,NA,"riboflavin (vitamin b2)",NA,"riboflavin (vitamin b2)","riboflavin (vitamin b2)","riboflavin (vitamin b2)","riboflavin (vitamin b2)"
+"Metabolite 481","ribose",NA,"ribose","ribose","ribose","ribose",NA,"ribose","ribose","ribose","ribose"
+"Metabolite 482","ribulose",NA,"ribulose","ribulose","ribulose","ribulose",NA,NA,"ribulose",NA,"ribulose"
+"Metabolite 483","saccharopine",NA,NA,NA,NA,NA,NA,NA,NA,NA,"saccharopine"
+"Metabolite 484","s-adenosylhomocysteine (sah)",NA,"s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)","s-adenosyl-l-homocysteine","s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)","s-adenosylhomocysteine (sah)"
+"Metabolite 485","s-adenosylmethionine (sam)","s-adenosylmethionine","s-adenosylmethionine (sam)",NA,NA,NA,"s-adenosyl-l-methionine",NA,NA,"s-adenosylmethionine (sam)",NA
+"Metabolite 486","salicylate",NA,"salicylate",NA,"salicylate",NA,NA,NA,NA,NA,NA
+"Metabolite 487","sarcosine (n-methylglycine)","sarcosine","sarcosine (n-methylglycine)",NA,"sarcosine (n-methylglycine)","sarcosine (n-methylglycine)",NA,"sarcosine (n-methylglycine)",NA,"sarcosine (n-methylglycine)","sarcosine (n-methylglycine)"
+"Metabolite 488","scyllo-inositol",NA,"scyllo-inositol","scyllo-inositol","scyllo-inositol","scyllo-inositol",NA,"scyllo-inositol","scyllo-inositol",NA,"scyllo-inositol"
+"Metabolite 489","sedoheptulose-7-phosphate",NA,"sedoheptulose-7-phosphate","sedoheptulose-7-phosphate","sedoheptulose-7-phosphate",NA,NA,NA,NA,NA,NA
+"Metabolite 490","serine","serine","serine","serine","serine","serine","serine","serine","serine","serine","serine"
+"Metabolite 491","serylisoleucine*",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 492","serylleucine",NA,NA,"serylleucine","serylleucine",NA,NA,NA,"serylleucine",NA,NA
+"Metabolite 493","serylphenyalanine",NA,NA,"serylphenyalanine",NA,NA,NA,NA,"serylphenyalanine",NA,NA
+"Metabolite 494","serylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 495","s-methylcysteine",NA,NA,"s-methylcysteine","s-methylcysteine",NA,"methylcysteine",NA,"s-methylcysteine",NA,NA
+"Metabolite 496","sorbitol",NA,"sorbitol","sorbitol","sorbitol","sorbitol",NA,NA,"sorbitol","sorbitol","sorbitol"
+"Metabolite 497","sorbitol 6-phosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 498","spermidine","spermidine","spermidine","spermidine","spermidine","spermidine",NA,"spermidine","spermidine","spermidine","spermidine"
+"Metabolite 499","spermine","spermine","spermine",NA,NA,"spermine",NA,"spermine","spermine","spermine","spermine"
+"Metabolite 500","sphinganine",NA,"sphinganine","sphinganine","sphinganine","sphinganine",NA,"sphinganine","sphinganine",NA,NA
+"Metabolite 501","sphingosine",NA,"sphingosine","sphingosine","sphingosine","sphingosine",NA,"sphingosine","sphingosine",NA,"sphingosine"
+"Metabolite 502","squalene",NA,"squalene",NA,NA,"squalene",NA,"squalene","squalene",NA,NA
+"Metabolite 503","stachydrine",NA,"stachydrine","stachydrine","stachydrine","stachydrine",NA,"stachydrine","stachydrine",NA,NA
+"Metabolite 504","stearate (18:0)",NA,"stearate (18:0)","stearate (18:0)","stearate (18:0)","stearate (18:0)",NA,"stearate (18:0)","stearate (18:0)",NA,"stearate (18:0)"
+"Metabolite 505","stearidonate (18:4n3)",NA,"stearidonate (18:4n3)","stearidonate (18:4n3)",NA,NA,NA,"stearidonate (18:4n3)",NA,NA,NA
+"Metabolite 506","stearoylcarnitine",NA,"stearoylcarnitine","stearoylcarnitine","stearoylcarnitine (c18)","stearoylcarnitine",NA,"stearoylcarnitine","stearoylcarnitine",NA,"stearoylcarnitine"
+"Metabolite 507","streptomycin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 508","succinate",NA,"succinate","succinate","succinate","succinate","succinate","succinate","succinate","succinate","succinate"
+"Metabolite 509","succinylcarnitine",NA,"succinylcarnitine","succinylcarnitine",NA,"succinylcarnitine",NA,"succinylcarnitine","succinylcarnitine",NA,"succinylcarnitine"
+"Metabolite 510","tartarate",NA,NA,NA,NA,NA,NA,NA,NA,"tartarate",NA
+"Metabolite 511","taurine","taurine","taurine","taurine","taurine","taurine","taurine","taurine","taurine","taurine","taurine"
+"Metabolite 512","testosterone",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 513","theobromine",NA,NA,"theobromine",NA,NA,NA,NA,NA,NA,"theobromine"
+"Metabolite 514","threitol",NA,NA,NA,NA,"threitol",NA,NA,"threitol",NA,NA
+"Metabolite 515","threonate",NA,"threonate","threonate",NA,"threonate",NA,NA,NA,NA,NA
+"Metabolite 516","threonine","threonine","threonine","threonine","threonine","threonine","threonine","threonine","threonine","threonine","threonine"
+"Metabolite 517","threonylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 518","threonylleucine",NA,NA,"threonylleucine",NA,NA,NA,NA,"threonylleucine",NA,NA
+"Metabolite 519","threonylmethionine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 520","threonylphenylalanine",NA,NA,"threonylphenylalanine",NA,NA,NA,"threonylphenylalanine","threonylphenylalanine",NA,"threonylphenylalanine"
+"Metabolite 521","threonylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 522","thymidine",NA,NA,NA,NA,NA,NA,"thymidine",NA,NA,NA
+"Metabolite 523","thymine","thymine","thymine","thymine","thymine","thymine","thymine","thymine","thymine","thymine",NA
+"Metabolite 524","trans-4-hydroxyproline",NA,"trans-4-hydroxyproline",NA,"hydroxyproline","trans-4-hydroxyproline","hydroxyproline","trans-4-hydroxyproline","trans-4-hydroxyproline","hydroxyproline","trans-4-hydroxyproline"
+"Metabolite 525","trans-urocanate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 526","triethyleneglycol",NA,NA,"triethyleneglycol","triethyleneglycol",NA,NA,NA,NA,NA,"triethyleneglycol"
+"Metabolite 527","trigonelline (n'-methylnicotinate)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 528","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan","tryptophan"
+"Metabolite 529","tryptophan betaine",NA,"tryptophan betaine","tryptophan betaine","tryptophan betaine","tryptophan betaine",NA,"tryptophan betaine","tryptophan betaine",NA,"tryptophan betaine"
+"Metabolite 530","tryptophylasparagine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 531","tryptophylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 532","tryptophylleucine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 533","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine","tyrosine"
+"Metabolite 534","tyrosylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 535","tyrosylglutamine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 536","tyrosylglycine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 537","tyrosylhistidine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 538","tyrosylleucine",NA,NA,NA,NA,NA,NA,NA,"tyrosylleucine",NA,NA
+"Metabolite 539","tyrosyllysine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 540","tyrosylphenylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 541","tyrosyltyrosine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 542","tyrosylvaline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 543","undecanedioate",NA,NA,"undecanedioate",NA,"undecanedioate",NA,"undecanedioate","undecanedioate",NA,NA
+"Metabolite 544","uracil","uracil","uracil","uracil","uracil","uracil","uracil","uracil","uracil","uracil","uracil"
+"Metabolite 545","urate",NA,"urate","urate","urate","urate","uric acid","urate","urate","urate","urate"
+"Metabolite 546","urea",NA,"urea","urea","urea","urea","urea","urea","urea","urea","urea"
+"Metabolite 547","uridine",NA,"uridine","uridine","uridine","uridine","uridine","uridine","uridine","uridine","uridine"
+"Metabolite 548","uridine monophosphate (5' or 3')",NA,NA,"uridine monophosphate (5' or 3')",NA,NA,NA,NA,"uridine monophosphate (5' or 3')",NA,NA
+"Metabolite 549","valerylcarnitine",NA,"valerylcarnitine","valerylcarnitine","valerylcarnitine (c5)","valerylcarnitine",NA,"valerylcarnitine","valerylcarnitine",NA,"valerylcarnitine"
+"Metabolite 550","valine","valine","valine","valine","valine","valine","valine","valine","valine","valine","valine"
+"Metabolite 551","valylalanine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 552","valylarginine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 553","valylasparagine",NA,NA,"valylasparagine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 554","valylaspartate",NA,NA,NA,NA,NA,NA,NA,"valylaspartate",NA,NA
+"Metabolite 555","valylglutamate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 556","valylglutamine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 557","valylglycine",NA,NA,"valylglycine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 558","valylhistidine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 559","valylisoleucine",NA,NA,NA,NA,NA,NA,NA,"valylisoleucine",NA,NA
+"Metabolite 560","valylleucine",NA,NA,NA,NA,NA,NA,NA,"valylleucine",NA,NA
+"Metabolite 561","valyllysine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 562","valylmethionine",NA,NA,NA,NA,NA,NA,NA,"valylmethionine",NA,NA
+"Metabolite 563","valylphenylalanine",NA,NA,"valylphenylalanine",NA,NA,NA,NA,"valylphenylalanine",NA,NA
+"Metabolite 564","valylserine",NA,NA,"valylserine",NA,NA,NA,NA,"valylserine",NA,NA
+"Metabolite 565","valyltryptophan",NA,NA,NA,NA,NA,NA,NA,"valyltryptophan",NA,NA
+"Metabolite 566","valyltyrosine",NA,NA,NA,NA,NA,NA,NA,"valyltyrosine",NA,NA
+"Metabolite 567","valylvaline",NA,NA,"valylvaline",NA,NA,NA,NA,"valylvaline",NA,NA
+"Metabolite 568","vanillylmandelate (vma)",NA,NA,NA,NA,"vanillylmandelate (vma)",NA,NA,NA,NA,NA
+"Metabolite 569","venlafaxine",NA,NA,NA,NA,NA,NA,"venlafaxine",NA,NA,NA
+"Metabolite 570","vgahageygaealer*",NA,NA,"vgahageygaealer*",NA,NA,NA,"vgahageygaealer*","vgahageygaealer*",NA,NA
+"Metabolite 571","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine","xanthine"
+"Metabolite 572","xanthosine",NA,"xanthosine","xanthosine",NA,"xanthosine","xanthosine","xanthosine","xanthosine","xanthosine","xanthosine"
+"Metabolite 573","xylitol",NA,"xylitol","xylitol","xylitol","xylitol",NA,NA,"xylitol","xylitol","xylitol"
+"Metabolite 574","xylonate",NA,NA,NA,"xylonate","xylonate",NA,NA,"xylonate",NA,NA
+"Metabolite 575","xylose",NA,NA,NA,NA,NA,NA,NA,"xylose",NA,NA
+"Metabolite 576","xylulose",NA,"xylulose","xylulose","xylulose","xylulose",NA,NA,"xylulose",NA,"xylulose"
+"Metabolite 577",NA,"1,7-dimethylxanthine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 578",NA,"1-methyl-l-tryptophan",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 579",NA,"2-hydroxy caprylic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 580",NA,"3-deoxyguanosine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 581",NA,"3-hydroxy-2-methylvalerate",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 582",NA,"3-hydroxy-3-methyl-glutaric acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 583",NA,"3-hydroxykynurenine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 584",NA,"4-hydroxy phenyllacticacid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 585",NA,"5-hydroxyindoleaceticacid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 586",NA,"5-hydroxytryptophan",NA,NA,NA,NA,NA,NA,NA,"5-hydroxytryptophan",NA
+"Metabolite 587",NA,"allose",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 588",NA,"alpha-hydroxyisobutyric acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 589",NA,"aminobutyric acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 590",NA,"b-hydroxyisovaleric acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 591",NA,"caffeine",NA,NA,NA,"caffeine",NA,NA,"caffeine","caffeine","caffeine"
+"Metabolite 592",NA,"cinnamic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 593",NA,"citramalic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 594",NA,"coumarin",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 595",NA,"dl-3-phenyllactic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 596",NA,"dl-indole-3-lactic acid (3-indolelactic acid)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 597",NA,"glutamine or lysine or glutamic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 598",NA,"glyceraldehyde-3-phosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 599",NA,"isobutyryl carnitine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 600",NA,"ketoleucine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 601",NA,"kynurenic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 602",NA,"n12-acetylthermospermidine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 603",NA,"n1-acetylspermine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 604",NA,"nonanedioic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 605",NA,"norepinephrine (noradrenaline)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 606",NA,"o-succinyl-l-homoserine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 607",NA,"phthalic acid mono-2-ethylhexyl ester",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 608",NA,"pyroglutamic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 609",NA,"suberic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 610",NA,"theophylline",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 611",NA,"trans-4 hydroxytamoxifen",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 612",NA,"urocanic acid",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 613",NA,"vidarabine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 614",NA,NA,"1-methylnicotinamide",NA,NA,NA,"methylnicotinamide",NA,NA,NA,NA
+"Metabolite 615",NA,NA,"2'-o-methylguanosine",NA,NA,NA,NA,"2'-o-methylguanosine",NA,NA,NA
+"Metabolite 616",NA,NA,"2-hydroxystearate","2-hydroxystearate",NA,"2-hydroxystearate",NA,NA,NA,NA,"2-hydroxystearate"
+"Metabolite 617",NA,NA,"2-methylmalonyl carnitine","2-methylmalonyl carnitine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 618",NA,NA,"2-palmitoleoylglycerophosphoethanolamine*",NA,NA,"2-palmitoleoylglycerophosphoethanolamine*",NA,NA,"2-palmitoleoylglycerophosphoethanolamine*",NA,NA
+"Metabolite 619",NA,NA,"3-methyl-2-oxobutyrate",NA,NA,NA,NA,"3-methyl-2-oxobutyrate",NA,NA,NA
+"Metabolite 620",NA,NA,"3-phenylpropionate (hydrocinnamate)",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 621",NA,NA,"4-hydroxyphenylpyruvate","4-hydroxyphenylpyruvate",NA,"4-hydroxyphenylpyruvate",NA,"4-hydroxyphenylpyruvate","4-hydroxyphenylpyruvate",NA,NA
+"Metabolite 622",NA,NA,"4-octenedioate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 623",NA,NA,"5alpha-pregnan-3beta,20alpha-diol disulfate",NA,NA,"5alpha-pregnan-3beta,20alpha-diol disulfate",NA,NA,NA,NA,NA
+"Metabolite 624",NA,NA,"adenosine 5'diphosphoribose","adenosine 5'diphosphoribose",NA,NA,NA,NA,"adenosine 5'diphosphoribose",NA,"adenosine 5'diphosphoribose"
+"Metabolite 625",NA,NA,"adsgegdfxaegggvr*",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 626",NA,NA,"alanylhistidine",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 627",NA,NA,"alpha-ketoglutarate",NA,NA,"alpha-ketoglutarate","a-ketoglutarate","alpha-ketoglutarate",NA,"a-ketoglutarate","alpha-ketoglutarate"
+"Metabolite 628",NA,NA,"andro steroid monosulfate 1*",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 629",NA,NA,"andro steroid monosulfate 2*",NA,NA,"andro steroid monosulfate 2*",NA,NA,NA,NA,NA
+"Metabolite 630",NA,NA,"behenate (22:0)",NA,NA,"behenate (22:0)",NA,NA,NA,NA,NA
+"Metabolite 631",NA,NA,"conjugated linoleate (18:2n7; 9z,11e)",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 632",NA,NA,"cystathionine","cystathionine","cystathionine",NA,"cystathionine",NA,NA,"cystathionine",NA
+"Metabolite 633",NA,NA,"dehydroisoandrosterone sulfate (dhea-s)","dehydroisoandrosterone sulfate (dhea-s)",NA,NA,NA,NA,NA,NA,"dehydroisoandrosterone sulfate (dhea-s)"
+"Metabolite 634",NA,NA,"desmethylnaproxen sulfate*",NA,NA,NA,NA,NA,NA,NA,"desmethylnaproxen sulfate*"
+"Metabolite 635",NA,NA,"epiandrosterone sulfate","epiandrosterone sulfate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 636",NA,NA,"fluoxitine",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 637",NA,NA,"folate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 638",NA,NA,"gamma-glutamylalanine",NA,"gamma-glutamylalanine",NA,NA,NA,NA,NA,"gamma-glutamylalanine"
+"Metabolite 639",NA,NA,"gamma-glutamylmethionine*",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 640",NA,NA,"gamma-glutamyltyrosine","gamma-glutamyltyrosine",NA,"gamma-glutamyltyrosine",NA,"gamma-glutamyltyrosine","gamma-glutamyltyrosine",NA,NA
+"Metabolite 641",NA,NA,"glycochenodeoxycholate","glycochenodeoxycholate",NA,"glycochenodeoxycholate",NA,"glycochenodeoxycholate","glycochenodeoxycholate",NA,NA
+"Metabolite 642",NA,NA,"glycocholate","glycocholate",NA,"glycocholate",NA,"glycocholate","glycocholate","glycocholate (gca)",NA
+"Metabolite 643",NA,NA,"glycodeoxycholate",NA,NA,NA,NA,"glycodeoxycholate","glycodeoxycholate",NA,NA
+"Metabolite 644",NA,NA,"homocarnosine",NA,"homocarnosine",NA,NA,NA,NA,NA,"homocarnosine"
+"Metabolite 645",NA,NA,"hydroxyisovaleroyl carnitine","hydroxyisovaleroyl carnitine",NA,NA,NA,NA,NA,NA,"hydroxyisovaleroyl carnitine"
+"Metabolite 646",NA,NA,"ibuprofen",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 647",NA,NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate",NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate","isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate",NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate",NA,NA,"isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate"
+"Metabolite 648",NA,NA,"malonate (propanedioate)",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 649",NA,NA,"mannitol","mannitol","mannitol","mannitol",NA,"mannitol","mannitol",NA,"mannitol"
+"Metabolite 650",NA,NA,"methionine sulfoxide",NA,NA,NA,NA,"methionine sulfoxide","methionine sulfoxide",NA,NA
+"Metabolite 651",NA,NA,"methyl-4-hydroxybenzoate","methyl-4-hydroxybenzoate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 652",NA,NA,"n-acetylmannosamine",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 653",NA,NA,"n-ethylglycinexylidide*","n-ethylglycinexylidide*",NA,"n-ethylglycinexylidide*",NA,"n-ethylglycinexylidide*","n-ethylglycinexylidide*",NA,"n-ethylglycinexylidide*"
+"Metabolite 654",NA,NA,"n-formylmethionine","n-formylmethionine",NA,"n-formylmethionine",NA,NA,NA,NA,NA
+"Metabolite 655",NA,NA,"phenylacetylglycine",NA,NA,NA,NA,"phenylacetylglycine",NA,NA,"phenylacetylglycine"
+"Metabolite 656",NA,NA,"phenyllactate (pla)","phenyllactate (pla)",NA,"phenyllactate (pla)",NA,"phenyllactate (pla)",NA,NA,NA
+"Metabolite 657",NA,NA,"phenylpyruvate","phenylpyruvate",NA,"phenylpyruvate",NA,NA,NA,NA,NA
+"Metabolite 658",NA,NA,"pregn steroid monosulfate*","pregn steroid monosulfate*",NA,"pregn steroid monosulfate*",NA,NA,NA,NA,NA
+"Metabolite 659",NA,NA,"pyridoxine (vitamin b6)",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 660",NA,NA,"pyroglutamylvaline",NA,NA,NA,NA,"pyroglutamylvaline",NA,NA,"pyroglutamylvaline"
+"Metabolite 661",NA,NA,"pyruvate",NA,"pyruvate","pyruvate","pyruvate","pyruvate",NA,NA,"pyruvate"
+"Metabolite 662",NA,NA,"sebacate (decanedioate)","sebacate (decanedioate)",NA,NA,NA,"sebacate (decanedioate)","sebacate (decanedioate)",NA,"sebacate (decanedioate)"
+"Metabolite 663",NA,NA,"stearoyl sphingomyelin","stearoyl sphingomyelin","sphingomyelin",NA,NA,"stearoyl sphingomyelin","stearoyl sphingomyelin",NA,"stearoyl sphingomyelin"
+"Metabolite 664",NA,NA,"suberylglycine",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 665",NA,NA,"taurochenodeoxycholate",NA,NA,"taurochenodeoxycholate",NA,"taurochenodeoxycholate","taurochenodeoxycholate",NA,NA
+"Metabolite 666",NA,NA,"taurocholate",NA,NA,"taurocholate",NA,"taurocholate","taurocholate",NA,NA
+"Metabolite 667",NA,NA,"taurolithocholate 3-sulfate",NA,NA,"taurolithocholate 3-sulfate",NA,NA,NA,NA,NA
+"Metabolite 668",NA,NA,"thymol sulfate",NA,NA,"thymol sulfate",NA,NA,NA,NA,NA
+"Metabolite 669",NA,NA,"udp-glucuronate","udp-glucuronate",NA,NA,"udp-d-glucuronate",NA,"udp-glucuronate",NA,NA
+"Metabolite 670",NA,NA,"ursodeoxycholate",NA,NA,NA,NA,NA,NA,NA,NA
+"Metabolite 671",NA,NA,NA,"1-eicosatrienoylglycerophosphocholine*",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 672",NA,NA,NA,"1-octadecanol",NA,"1-octadecanol",NA,NA,NA,NA,NA
+"Metabolite 673",NA,NA,NA,"13-methylmyristic acid","13-methylmyristic acid",NA,NA,NA,NA,NA,NA
+"Metabolite 674",NA,NA,NA,"2-arachidonoylglycerophosphoinositol*",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 675",NA,NA,NA,"2-oleoylglycerophosphoinositol*",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 676",NA,NA,NA,"3-phosphoglycerate (isobar with 2-phosphoglycerate)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 677",NA,NA,NA,"4-acetamidobutanoate","4-acetamidobutanoate",NA,NA,"4-acetamidobutanoate",NA,"4-acetamidobutanoate",NA
+"Metabolite 678",NA,NA,NA,"4-ethylphenylsulfate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 679",NA,NA,NA,"4-nitrophenol",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 680",NA,NA,NA,"acetyl coa",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 681",NA,NA,NA,"adenosine 3',5'-cyclic monophosphate (camp)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 682",NA,NA,NA,"adenosine 5'-diphosphate (adp)",NA,NA,"adp",NA,NA,NA,"adenosine 5'-diphosphate (adp)"
+"Metabolite 683",NA,NA,NA,"aica ribonucleotide",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 684",NA,NA,NA,"beta-hydroxyisovalerate","beta-hydroxyisovalerate","beta-hydroxyisovalerate",NA,NA,NA,NA,"beta-hydroxyisovalerate"
+"Metabolite 685",NA,NA,NA,"carnosine",NA,NA,NA,NA,NA,NA,"carnosine"
+"Metabolite 686",NA,NA,NA,"cis-urocanate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 687",NA,NA,NA,"coenzyme a",NA,NA,NA,NA,NA,NA,"coenzyme a"
+"Metabolite 688",NA,NA,NA,"coproporphyrin i",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 689",NA,NA,NA,"cytidine-5'-diphosphoethanolamine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 690",NA,NA,NA,"delta-tocopherol",NA,"delta-tocopherol",NA,NA,NA,NA,NA
+"Metabolite 691",NA,NA,NA,"deoxycholate",NA,NA,NA,NA,NA,NA,"deoxycholate"
+"Metabolite 692",NA,NA,NA,"gamma-glutamylmethionine",NA,NA,NA,NA,NA,NA,"gamma-glutamylmethionine"
+"Metabolite 693",NA,NA,NA,"glutaroyl carnitine",NA,"glutaroyl carnitine",NA,NA,NA,NA,"glutaroyl carnitine"
+"Metabolite 694",NA,NA,NA,"heptaethylene glycol","heptaethylene glycol",NA,NA,NA,NA,NA,NA
+"Metabolite 695",NA,NA,NA,"heptanoate (7:0)","heptanoate (7:0)","heptanoate (7:0)",NA,"heptanoate (7:0)","heptanoate (7:0)",NA,NA
+"Metabolite 696",NA,NA,NA,"hexaethylene glycol","hexaethylene glycol",NA,NA,NA,NA,NA,NA
+"Metabolite 697",NA,NA,NA,"inosine 5'-monophosphate (imp)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 698",NA,NA,NA,"isobar: udp-acetylglucosamine, udp-acetylgalactosamine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 699",NA,NA,NA,"isoleucylglutamine",NA,NA,NA,NA,"isoleucylglutamine",NA,NA
+"Metabolite 700",NA,NA,NA,"lathosterol",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 701",NA,NA,NA,"mead acid (20:3n9)","mead acid (20:3n9)",NA,NA,NA,NA,NA,NA
+"Metabolite 702",NA,NA,NA,"methionylthreonine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 703",NA,NA,NA,"methionylvaline",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 704",NA,NA,NA,"nonadecanoate (19:0)",NA,"nonadecanoate (19:0)",NA,"nonadecanoate (19:0)","nonadecanoate (19:0)",NA,"nonadecanoate (19:0)"
+"Metabolite 705",NA,NA,NA,"paraxanthine",NA,NA,NA,NA,"paraxanthine","paraxanthine","paraxanthine"
+"Metabolite 706",NA,NA,NA,"pentaethylene glycol","pentaethylene glycol",NA,NA,NA,NA,NA,NA
+"Metabolite 707",NA,NA,NA,"phenolphthalein beta-d-glucuronide",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 708",NA,NA,NA,"pseudoephedrine",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 709",NA,NA,NA,"s-lactoylglutathione",NA,NA,NA,NA,"s-lactoylglutathione",NA,NA
+"Metabolite 710",NA,NA,NA,"s-methylglutathione",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 711",NA,NA,NA,"tetraethylene glycol","tetraethylene glycol",NA,NA,NA,"tetraethylene glycol",NA,NA
+"Metabolite 712",NA,NA,NA,"thiamin diphosphate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 713",NA,NA,NA,"thymidine 5'-monophosphate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 714",NA,NA,NA,"tiglyl carnitine","tiglyl carnitine (c5)",NA,NA,"tiglyl carnitine",NA,NA,"tiglyl carnitine"
+"Metabolite 715",NA,NA,NA,"udp-glucose (isobar with udp-galactose)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 716",NA,NA,NA,"uridine 5'-triphosphate (utp)",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 717",NA,NA,NA,"valerate",NA,NA,NA,NA,NA,NA,NA
+"Metabolite 718",NA,NA,NA,NA,"1-arachidonoyl-gpi* (20:4)*",NA,NA,NA,NA,NA,NA
+"Metabolite 719",NA,NA,NA,NA,"1-palmitoleoyl-gpc* (16:1)*",NA,NA,NA,NA,NA,NA
+"Metabolite 720",NA,NA,NA,NA,"1-palmitoyl-gpi* (16:0)*",NA,NA,NA,NA,NA,NA
+"Metabolite 721",NA,NA,NA,NA,"1-stearoyl-gpi (18:0)",NA,NA,NA,NA,NA,NA
+"Metabolite 722",NA,NA,NA,NA,"2-arachidonoyl-gpc* (20:4)*",NA,NA,NA,NA,NA,NA
+"Metabolite 723",NA,NA,NA,NA,"2-arachidonoyl-gpe* (20:4)*",NA,NA,NA,NA,NA,NA
+"Metabolite 724",NA,NA,NA,NA,"2-docosahexaenoyl-gpc* (22:6)*",NA,NA,NA,NA,NA,NA
+"Metabolite 725",NA,NA,NA,NA,"2-linoleoyl-gpc* (18:2)*",NA,NA,NA,NA,NA,NA
+"Metabolite 726",NA,NA,NA,NA,"2-myristoyl-gpc* (14:0)*",NA,NA,NA,NA,NA,NA
+"Metabolite 727",NA,NA,NA,NA,"2-myristoylglycerophosphoethanolamine*",NA,NA,NA,NA,NA,NA
+"Metabolite 728",NA,NA,NA,NA,"2-oleoyl-gpc* (18:1)*",NA,NA,NA,NA,NA,NA
+"Metabolite 729",NA,NA,NA,NA,"2-oleoyl-gpe* (18:1)*",NA,NA,NA,NA,NA,NA
+"Metabolite 730",NA,NA,NA,NA,"2-palmitoleoyl-gpc* (16:1)*",NA,NA,NA,NA,NA,NA
+"Metabolite 731",NA,NA,NA,NA,"2-palmitoleoyl-gpe* (16:1)*",NA,NA,NA,NA,NA,NA
+"Metabolite 732",NA,NA,NA,NA,"2-palmitoyl-gpc* (16:0)*",NA,NA,NA,NA,NA,NA
+"Metabolite 733",NA,NA,NA,NA,"2-palmitoyl-gpe* (16:0)*",NA,NA,NA,NA,NA,NA
+"Metabolite 734",NA,NA,NA,NA,"3-phosphoserine",NA,NA,NA,NA,NA,NA
+"Metabolite 735",NA,NA,NA,NA,"acetylphosphate","acetylphosphate",NA,NA,NA,NA,NA
+"Metabolite 736",NA,NA,NA,NA,"arabinose","arabinose",NA,NA,NA,NA,NA
+"Metabolite 737",NA,NA,NA,NA,"betaine aldehyde",NA,NA,NA,NA,NA,NA
+"Metabolite 738",NA,NA,NA,NA,"carbamazepine 10,11-epoxide*",NA,NA,NA,NA,NA,NA
+"Metabolite 739",NA,NA,NA,NA,"carbamazepine*",NA,NA,NA,NA,NA,NA
+"Metabolite 740",NA,NA,NA,NA,"cysteine sulfinic acid","cysteine sulfinic acid",NA,NA,NA,NA,NA
+"Metabolite 741",NA,NA,NA,NA,"cdp-choline",NA,"cdp-choline",NA,NA,NA,NA
+"Metabolite 742",NA,NA,NA,NA,"dehydroascorbate","dehydroascorbate",NA,NA,NA,NA,NA
+"Metabolite 743",NA,NA,NA,NA,"dihydroxyacetone phosphate (dhap)",NA,"dihydroxyacetone phosphate",NA,NA,NA,NA
+"Metabolite 744",NA,NA,NA,NA,"dimethylallyl pyrophosphate (dmapp)",NA,NA,NA,NA,NA,NA
+"Metabolite 745",NA,NA,NA,NA,"diphenhydramine",NA,NA,"diphenhydramine",NA,NA,NA
+"Metabolite 746",NA,NA,NA,NA,"docosapentaenoate (dpa; 22:5n3)",NA,NA,NA,NA,NA,NA
+"Metabolite 747",NA,NA,NA,NA,"galactosylsphingosine",NA,NA,NA,NA,NA,NA
+"Metabolite 748",NA,NA,NA,NA,"hydroxyisovaleroylcarnitine (c5)",NA,NA,NA,NA,NA,NA
+"Metabolite 749",NA,NA,NA,NA,"isobar: 2-propylpentanoic acid, 2-ethylhexanoic acid",NA,NA,"isobar: 2-propylpentanoic acid, 2-ethylhexanoic acid",NA,NA,NA
+"Metabolite 750",NA,NA,NA,NA,"isobutyrylcarnitine (c4)",NA,NA,NA,NA,NA,NA
+"Metabolite 751",NA,NA,NA,NA,"levulinate (4-oxovalerate)",NA,NA,NA,NA,NA,NA
+"Metabolite 752",NA,NA,NA,NA,"methyl palmitate (15 or 2)",NA,NA,"methyl palmitate (15 or 2)",NA,NA,NA
+"Metabolite 753",NA,NA,NA,NA,"n-acetylglutamate","n-acetylglutamate","n-acetyl-glutamate",NA,NA,NA,NA
+"Metabolite 754",NA,NA,NA,NA,"n-acetylhistidine",NA,NA,NA,NA,NA,NA
+"Metabolite 755",NA,NA,NA,NA,"palmitoyl ethanolamide",NA,NA,NA,NA,NA,NA
+"Metabolite 756",NA,NA,NA,NA,"palmitoylcarnitine (c16)",NA,NA,NA,NA,NA,NA
+"Metabolite 757",NA,NA,NA,NA,"ribose 5-phosphate",NA,NA,"ribose 5-phosphate","ribose 5-phosphate",NA,NA
+"Metabolite 758",NA,NA,NA,NA,"succinylcarnitine (c4)",NA,NA,NA,NA,NA,NA
+"Metabolite 759",NA,NA,NA,NA,"sucrose",NA,NA,NA,NA,NA,NA
+"Metabolite 760",NA,NA,NA,NA,"triethanolamine",NA,NA,NA,NA,NA,NA
+"Metabolite 761",NA,NA,NA,NA,"trizma acetate","trizma acetate",NA,NA,NA,NA,NA
+"Metabolite 762",NA,NA,NA,NA,"undecanoate (11:0)","undecanoate (11:0)",NA,"undecanoate (11:0)","undecanoate (11:0)",NA,NA
+"Metabolite 763",NA,NA,NA,NA,NA,"1,2-dipalmitoylglycerol",NA,"1,2-dipalmitoylglycerol",NA,NA,NA
+"Metabolite 764",NA,NA,NA,NA,NA,"4-androsten-3beta,17beta-diol disulfate 2*",NA,NA,NA,NA,NA
+"Metabolite 765",NA,NA,NA,NA,NA,"5-dodecenoate (12:1n7)",NA,"5-dodecenoate (12:1n7)",NA,NA,NA
+"Metabolite 766",NA,NA,NA,NA,NA,"alpha-hydroxyisocaproate",NA,NA,NA,NA,NA
+"Metabolite 767",NA,NA,NA,NA,NA,"biliverdin",NA,NA,"biliverdin","biliverdin",NA
+"Metabolite 768",NA,NA,NA,NA,NA,"galactitol (dulcitol)",NA,NA,NA,NA,NA
+"Metabolite 769",NA,NA,NA,NA,NA,"lignocerate (24:0)",NA,NA,NA,NA,NA
+"Metabolite 770",NA,NA,NA,NA,NA,"meprobamate*",NA,NA,NA,NA,NA
+"Metabolite 771",NA,NA,NA,NA,NA,"n-acetylputrescine",NA,NA,NA,NA,"n-acetylputrescine"
+"Metabolite 772",NA,NA,NA,NA,NA,"o-cresol sulfate",NA,NA,NA,NA,NA
+"Metabolite 773",NA,NA,NA,NA,NA,"ofloxacin",NA,NA,NA,"ofloxacin",NA
+"Metabolite 774",NA,NA,NA,NA,NA,"orotate",NA,NA,NA,NA,NA
+"Metabolite 775",NA,NA,NA,NA,NA,"oxamate",NA,NA,NA,NA,NA
+"Metabolite 776",NA,NA,NA,NA,NA,"phenylacetate",NA,NA,NA,NA,NA
+"Metabolite 777",NA,NA,NA,NA,NA,"progesterone",NA,NA,NA,NA,NA
+"Metabolite 778",NA,NA,NA,NA,NA,"saccharin",NA,NA,NA,NA,NA
+"Metabolite 779",NA,NA,NA,NA,NA,"taurocholenate sulfate*",NA,"taurocholenate sulfate*","taurocholenate sulfate*",NA,NA
+"Metabolite 780",NA,NA,NA,NA,NA,"thromboxane b2",NA,NA,"thromboxane b2",NA,NA
+"Metabolite 781",NA,NA,NA,NA,NA,"tricosanoate (23:0)",NA,NA,NA,NA,NA
+"Metabolite 782",NA,NA,NA,NA,NA,NA,"2-aminooctanoic acid",NA,NA,NA,NA
+"Metabolite 783",NA,NA,NA,NA,NA,NA,"2-dehydro-d-gluconate",NA,NA,NA,NA
+"Metabolite 784",NA,NA,NA,NA,NA,NA,"acetyl-coa",NA,NA,NA,NA
+"Metabolite 785",NA,NA,NA,NA,NA,NA,"adenosine 5'-phosphosulfate",NA,NA,NA,NA
+"Metabolite 786",NA,NA,NA,NA,NA,NA,"adp-d-glucose",NA,NA,NA,NA
+"Metabolite 787",NA,NA,NA,NA,NA,NA,"allantoin",NA,NA,NA,NA
+"Metabolite 788",NA,NA,NA,NA,NA,NA,"anthranilate",NA,NA,NA,NA
+"Metabolite 789",NA,NA,NA,NA,NA,NA,"atp",NA,NA,NA,"adenosine 5'-triphosphate (atp)"
+"Metabolite 790",NA,NA,NA,NA,NA,NA,"cdp",NA,NA,NA,NA
+"Metabolite 791",NA,NA,NA,NA,NA,NA,"cdp-ethanolamine",NA,NA,NA,NA
+"Metabolite 792",NA,NA,NA,NA,NA,NA,"cholesteryl sulfate",NA,NA,NA,NA
+"Metabolite 793",NA,NA,NA,NA,NA,NA,"creatine phosphate",NA,NA,NA,NA
+"Metabolite 794",NA,NA,NA,NA,NA,NA,"cyclic-amp",NA,NA,NA,NA
+"Metabolite 795",NA,NA,NA,NA,NA,NA,"cytidine_act",NA,NA,NA,NA
+"Metabolite 796",NA,NA,NA,NA,NA,NA,"d-glucono-delta-lactone-6-phosphate",NA,NA,NA,NA
+"Metabolite 797",NA,NA,NA,NA,NA,NA,"d-glucuronic acid-potential",NA,NA,NA,NA
+"Metabolite 798",NA,NA,NA,NA,NA,NA,"d-glyceraldehdye-3-phosphate",NA,NA,NA,NA
+"Metabolite 799",NA,NA,NA,NA,NA,NA,"d-mannose/l-sorbose-potential-1",NA,NA,NA,NA
+"Metabolite 800",NA,NA,NA,NA,NA,NA,"d-sedoheptulose-1/7-phosphate",NA,NA,NA,NA
+"Metabolite 801",NA,NA,NA,NA,NA,NA,"dgdp",NA,NA,NA,NA
+"Metabolite 802",NA,NA,NA,NA,NA,NA,"dgtp",NA,NA,NA,NA
+"Metabolite 803",NA,NA,NA,NA,NA,NA,"dtmp",NA,NA,NA,NA
+"Metabolite 804",NA,NA,NA,NA,NA,NA,"fructose-1,6-bisphosphate",NA,NA,NA,NA
+"Metabolite 805",NA,NA,NA,NA,NA,NA,"gdp",NA,NA,NA,NA
+"Metabolite 806",NA,NA,NA,NA,NA,NA,"gmp",NA,NA,NA,"guanosine 5'- monophosphate (gmp)"
+"Metabolite 807",NA,NA,NA,NA,NA,NA,"idp",NA,NA,NA,NA
+"Metabolite 808",NA,NA,NA,NA,NA,NA,"imp",NA,NA,NA,NA
+"Metabolite 809",NA,NA,NA,NA,NA,NA,"indole",NA,NA,NA,NA
+"Metabolite 810",NA,NA,NA,NA,NA,NA,"isocitrate",NA,NA,NA,"isocitrate"
+"Metabolite 811",NA,NA,NA,NA,NA,NA,"leucine/isoleucine",NA,NA,NA,NA
+"Metabolite 812",NA,NA,NA,NA,NA,NA,"n-acetyl-glucosamine-1-phosphate",NA,NA,NA,NA
+"Metabolite 813",NA,NA,NA,NA,NA,NA,"nadp+",NA,NA,NA,NA
+"Metabolite 814",NA,NA,NA,NA,NA,NA,"shikimate-3-phosphate",NA,NA,NA,NA
+"Metabolite 815",NA,NA,NA,NA,NA,NA,"trehalose/sucrose",NA,NA,NA,NA
+"Metabolite 816",NA,NA,NA,NA,NA,NA,"udp",NA,NA,NA,"uridine 5'-diphosphate (udp)"
+"Metabolite 817",NA,NA,NA,NA,NA,NA,"udp-d-glucose",NA,NA,NA,NA
+"Metabolite 818",NA,NA,NA,NA,NA,NA,"udp-n-acetyl-glucosamine",NA,NA,NA,"udp-n-acetylglucosamine"
+"Metabolite 819",NA,NA,NA,NA,NA,NA,"ump",NA,NA,NA,"uridine 5'-monophosphate (ump)"
+"Metabolite 820",NA,NA,NA,NA,NA,NA,"utp",NA,NA,NA,NA
+"Metabolite 821",NA,NA,NA,NA,NA,NA,NA,"1-heptadecanoylglycerol (1-monoheptadecanoin)",NA,NA,NA
+"Metabolite 822",NA,NA,NA,NA,NA,NA,NA,"1-myristoylglycerol (1-monomyristin)","1-myristoylglycerol (1-monomyristin)",NA,NA
+"Metabolite 823",NA,NA,NA,NA,NA,NA,NA,"1-pentadecanoylglycerol (1-monopentadecanoin)","1-pentadecanoylglycerol (1-monopentadecanoin)",NA,NA
+"Metabolite 824",NA,NA,NA,NA,NA,NA,NA,"17-methylstearate","17-methylstearate",NA,NA
+"Metabolite 825",NA,NA,NA,NA,NA,NA,NA,"2'-deoxycytidine",NA,NA,NA
+"Metabolite 826",NA,NA,NA,NA,NA,NA,NA,"2'-deoxycytidine 5'-monophosphate",NA,NA,NA
+"Metabolite 827",NA,NA,NA,NA,NA,NA,NA,"2-myristoylglycerol (2-monomyristin)","2-myristoylglycerol (2-monomyristin)",NA,NA
+"Metabolite 828",NA,NA,NA,NA,NA,NA,NA,"2-stearoylglycerol (2-monostearin)",NA,NA,NA
+"Metabolite 829",NA,NA,NA,NA,NA,NA,NA,"2-stearoylglycerophosphoinositol*",NA,NA,NA
+"Metabolite 830",NA,NA,NA,NA,NA,NA,NA,"5-hydroxyindoleacetate",NA,NA,"5-hydroxyindoleacetate"
+"Metabolite 831",NA,NA,NA,NA,NA,NA,NA,"9,10-hydroxyoctadec-12(z)-enoic acid","9,10-hydroxyoctadec-12(z)-enoic acid",NA,NA
+"Metabolite 832",NA,NA,NA,NA,NA,NA,NA,"adenosine-2',3'-cyclic monophosphate",NA,NA,NA
+"Metabolite 833",NA,NA,NA,NA,NA,NA,NA,"chenodeoxycholate",NA,NA,NA
+"Metabolite 834",NA,NA,NA,NA,NA,NA,NA,"decanoylcarnitine","decanoylcarnitine",NA,NA
+"Metabolite 835",NA,NA,NA,NA,NA,NA,NA,"dexpanthenol","dexpanthenol",NA,NA
+"Metabolite 836",NA,NA,NA,NA,NA,NA,NA,"gamma-glutamylthreonine*","gamma-glutamylthreonine*",NA,NA
+"Metabolite 837",NA,NA,NA,NA,NA,NA,NA,"glycoursodeoxycholate","glycoursodeoxycholate",NA,NA
+"Metabolite 838",NA,NA,NA,NA,NA,NA,NA,"hexadecanedioate","hexadecanedioate",NA,NA
+"Metabolite 839",NA,NA,NA,NA,NA,NA,NA,"homovanillate sulfate",NA,NA,NA
+"Metabolite 840",NA,NA,NA,NA,NA,NA,NA,"isoleucylleucine","isoleucylleucine",NA,NA
+"Metabolite 841",NA,NA,NA,NA,NA,NA,NA,"ketamine","ketamine",NA,NA
+"Metabolite 842",NA,NA,NA,NA,NA,NA,NA,"kynurenate",NA,"kynurenate",NA
+"Metabolite 843",NA,NA,NA,NA,NA,NA,NA,"lactobionate",NA,NA,NA
+"Metabolite 844",NA,NA,NA,NA,NA,NA,NA,"leucylisoleucine",NA,NA,NA
+"Metabolite 845",NA,NA,NA,NA,NA,NA,NA,"n(1)-acetylspermine",NA,NA,NA
+"Metabolite 846",NA,NA,NA,NA,NA,NA,NA,"n-acetylcysteine",NA,NA,NA
+"Metabolite 847",NA,NA,NA,NA,NA,NA,NA,"palmitate, methyl ester","palmitate, methyl ester",NA,NA
+"Metabolite 848",NA,NA,NA,NA,NA,NA,NA,"prolylleucine",NA,NA,NA
+"Metabolite 849",NA,NA,NA,NA,NA,NA,NA,"raffinose",NA,NA,NA
+"Metabolite 850",NA,NA,NA,NA,NA,NA,NA,"stearamide","stearamide",NA,NA
+"Metabolite 851",NA,NA,NA,NA,NA,NA,NA,"taurodeoxycholate","taurodeoxycholate",NA,NA
+"Metabolite 852",NA,NA,NA,NA,NA,NA,NA,"tauroursodeoxycholate",NA,NA,NA
+"Metabolite 853",NA,NA,NA,NA,NA,NA,NA,"tetradecanedioate","tetradecanedioate",NA,NA
+"Metabolite 854",NA,NA,NA,NA,NA,NA,NA,"thymidine 3'-monophosphate",NA,NA,NA
+"Metabolite 855",NA,NA,NA,NA,NA,NA,NA,NA,"1-docosahexaenoylglycerol (1-monodocosahexaenoin)",NA,NA
+"Metabolite 856",NA,NA,NA,NA,NA,NA,NA,NA,"1-methylhistamine",NA,NA
+"Metabolite 857",NA,NA,NA,NA,NA,NA,NA,NA,"1-stearoylglycerophosphoglycerol",NA,NA
+"Metabolite 858",NA,NA,NA,NA,NA,NA,NA,NA,"2-ethylhexanoate (isobar with 2-propylpentanoate)",NA,NA
+"Metabolite 859",NA,NA,NA,NA,NA,NA,NA,NA,"8-hydroxyoctanoate",NA,NA
+"Metabolite 860",NA,NA,NA,NA,NA,NA,NA,NA,"alpha-glutamylvaline",NA,NA
+"Metabolite 861",NA,NA,NA,NA,NA,NA,NA,NA,"guanosine 3'-monophosphate (3'-gmp)",NA,NA
+"Metabolite 862",NA,NA,NA,NA,NA,NA,NA,NA,"isovalerylglycine",NA,NA
+"Metabolite 863",NA,NA,NA,NA,NA,NA,NA,NA,"methyl stearate",NA,NA
+"Metabolite 864",NA,NA,NA,NA,NA,NA,NA,NA,"prostaglandin d2",NA,NA
+"Metabolite 865",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1-methyladenosine (1ma)",NA
+"Metabolite 866",NA,NA,NA,NA,NA,NA,NA,NA,NA,"2'-deoxyuridine-5'-triphosphate (dutp)",NA
+"Metabolite 867",NA,NA,NA,NA,NA,NA,NA,NA,NA,"3,4-dihydroxyphenylethyleneglycol (dopeg)",NA
+"Metabolite 868",NA,NA,NA,NA,NA,NA,NA,NA,NA,"3-methyl-2-oxopentanoate",NA
+"Metabolite 869",NA,NA,NA,NA,NA,NA,NA,NA,NA,"5,6-dihydrothymine",NA
+"Metabolite 870",NA,NA,NA,NA,NA,NA,NA,NA,NA,"5-hydroxyindoleacetate (5-hia)",NA
+"Metabolite 871",NA,NA,NA,NA,NA,NA,NA,NA,NA,"5-sulfosalicylate",NA
+"Metabolite 872",NA,NA,NA,NA,NA,NA,NA,NA,NA,"acetylcarnitine (alc; c2 ac)",NA
+"Metabolite 873",NA,NA,NA,NA,NA,NA,NA,NA,NA,"b-aminoisobutyrate",NA
+"Metabolite 874",NA,NA,NA,NA,NA,NA,NA,NA,NA,"b-hydroxybutyrate (bhba)",NA
+"Metabolite 875",NA,NA,NA,NA,NA,NA,NA,NA,NA,"bicine",NA
+"Metabolite 876",NA,NA,NA,NA,NA,NA,NA,NA,NA,"biotin",NA
+"Metabolite 877",NA,NA,NA,NA,NA,NA,NA,NA,NA,"bradykinin",NA
+"Metabolite 878",NA,NA,NA,NA,NA,NA,NA,NA,NA,"bradykinin hydroxyproline",NA
+"Metabolite 879",NA,NA,NA,NA,NA,NA,NA,NA,NA,"cadaverine",NA
+"Metabolite 880",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ciliatine (2-aminoethylphosphonate)",NA
+"Metabolite 881",NA,NA,NA,NA,NA,NA,NA,NA,NA,"dehydroepiandrosterone sulfate (dhea-s)",NA
+"Metabolite 882",NA,NA,NA,NA,NA,NA,NA,NA,NA,"deoxyuridine",NA
+"Metabolite 883",NA,NA,NA,NA,NA,NA,NA,NA,NA,"dihydroxyacetonephosphate (dhap)",NA
+"Metabolite 884",NA,NA,NA,NA,NA,NA,NA,NA,NA,"dimethylbenzimidazole",NA
+"Metabolite 885",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ethylmalonate",NA
+"Metabolite 886",NA,NA,NA,NA,NA,NA,NA,NA,NA,"histidinol",NA
+"Metabolite 887",NA,NA,NA,NA,NA,NA,NA,NA,NA,"homoserine lactone",NA
+"Metabolite 888",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxyphenylpyruvate",NA
+"Metabolite 889",NA,NA,NA,NA,NA,NA,NA,NA,NA,"imidazolelactate",NA
+"Metabolite 890",NA,NA,NA,NA,NA,NA,NA,NA,NA,"indoxylsulfate",NA
+"Metabolite 891",NA,NA,NA,NA,NA,NA,NA,NA,NA,"inositol-1-phosphate (i1p)",NA
+"Metabolite 892",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 1 includes mannose, fructose, glucose, galactose",NA
+"Metabolite 893",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 17 includes arginine, n-alpha-acetyl-ornithine",NA
+"Metabolite 894",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 18 includes d-fructose 1-phosphate, beta-d-fructose 6-phosphate",NA
+"Metabolite 895",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 19 includes d-saccharic acid,1,5-anhydro-d-glucitol",NA
+"Metabolite 896",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 2 includes 2-aminoisobutyric acid,3-amino-isobutyrate",NA
+"Metabolite 897",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 21 includes gamma-aminobutyryl-l-histidine, l-anserine",NA
+"Metabolite 898",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 22 includes glutamic acid, o-acetyl-l-serine",NA
+"Metabolite 899",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 24 includes l-arabitol, adonitol",NA
+"Metabolite 900",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 28 includes l-threonine, l-allothreonine, l-homoserine",NA
+"Metabolite 901",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 29 includes r,s-hydroorotic acid, 5,6-dihydroorotic acid",NA
+"Metabolite 902",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 3 includes inositol 1-phosphate, mannose 6-phosphate",NA
+"Metabolite 903",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 30 includes maltotetraose, stachyose",NA
+"Metabolite 904",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 31 includes 1-kestose,maltotriose, melezitose",NA
+"Metabolite 905",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 32 includes n-acetyl-d-glucosamine, n-acetyl-d-mannosamin",NA
+"Metabolite 906",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 35 includes d-arabinose 5-phosphate, d-ribulose 5-phosphate",NA
+"Metabolite 907",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 4 includes gluconic acid, dl-arabinose, d-ribose, l-xylose",NA
+"Metabolite 908",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 40 includes maltotetraose, stachyose",NA
+"Metabolite 909",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar 6 includes valine, betaine",NA
+"Metabolite 910",NA,NA,NA,NA,NA,NA,NA,NA,NA,"isobar glycochenodeoxycholic acid/glycodeoxycholic acid",NA
+"Metabolite 911",NA,NA,NA,NA,NA,NA,NA,NA,NA,"methylglutarate",NA
+"Metabolite 912",NA,NA,NA,NA,NA,NA,NA,NA,NA,"n-acetylgalactosamine",NA
+"Metabolite 913",NA,NA,NA,NA,NA,NA,NA,NA,NA,"n-acetylglucosaminylamine",NA
+"Metabolite 914",NA,NA,NA,NA,NA,NA,NA,NA,NA,"n-carbamoylaspartate",NA
+"Metabolite 915",NA,NA,NA,NA,NA,NA,NA,NA,NA,"octadecanoic acid",NA
+"Metabolite 916",NA,NA,NA,NA,NA,NA,NA,NA,NA,"orotidine-5'-phosphate",NA
+"Metabolite 917",NA,NA,NA,NA,NA,NA,NA,NA,NA,"orthophosphate (pi)",NA
+"Metabolite 918",NA,NA,NA,NA,NA,NA,NA,NA,NA,"oxalate (ethanedioate)",NA
+"Metabolite 919",NA,NA,NA,NA,NA,NA,NA,NA,NA,"oxoproline",NA
+"Metabolite 920",NA,NA,NA,NA,NA,NA,NA,NA,NA,"phosphoserine",NA
+"Metabolite 921",NA,NA,NA,NA,NA,NA,NA,NA,NA,"p-hydroxyphenylacetate (hpa)",NA
+"Metabolite 922",NA,NA,NA,NA,NA,NA,NA,NA,NA,"p-hydroxyphenyllactate (hpla)",NA
+"Metabolite 923",NA,NA,NA,NA,NA,NA,NA,NA,NA,"picolinate",NA
+"Metabolite 924",NA,NA,NA,NA,NA,NA,NA,NA,NA,"pyridoxamine",NA
+"Metabolite 925",NA,NA,NA,NA,NA,NA,NA,NA,NA,"suberate (octanedioate)",NA
+"Metabolite 926",NA,NA,NA,NA,NA,NA,NA,NA,NA,"sucrose/maltose",NA
+"Metabolite 927",NA,NA,NA,NA,NA,NA,NA,NA,NA,"thyroxine",NA
+"Metabolite 928",NA,NA,NA,NA,NA,NA,NA,NA,NA,"topiramate",NA
+"Metabolite 929",NA,NA,NA,NA,NA,NA,NA,NA,NA,"trans-2, 3, 4-trimethoxycinnamate",NA
+"Metabolite 930",NA,NA,NA,NA,NA,NA,NA,NA,NA,"udp-n-acetylmuraminate (udp-murnac)",NA
+"Metabolite 931",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1-eicosadienoylglycerophosphocholine*"
+"Metabolite 932",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"1,7-dimethylurate"
+"Metabolite 933",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"4-vinylphenol sulfate"
+"Metabolite 934",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"acetylcholine"
+"Metabolite 935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"serotonin (5ht)"
