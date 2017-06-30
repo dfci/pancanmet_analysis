@@ -1,0 +1,126 @@
+---
+title: "Pharmacology Coverage Analysis"
+output:
+  html_notebook: default
+---
+
+# Purpose
+
+To see how many enzymes making use of metabolites in the study are targetable by drugs: 
+
+```{r knitrSetup, include=FALSE}
+library(knitr)
+opts_chunk$set(out.extra='style="display:block; margin: auto"', fig.align="center", tidy=FALSE)
+```
+
+# Setup
+
+```{r loadPackages}
+library(paxtoolsr)
+library(data.table)
+
+verbose <- TRUE
+```
+
+# Load Data
+
+```{r loadData}
+keggSif <- downloadPc2("PathwayCommons.8.kegg.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+keggNodes <- keggSif$nodes
+
+dbSif <- downloadPc2("PathwayCommons.8.drugbank.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+dbNodes <- dbSif$nodes
+```
+
+# Load Local Data
+
+```{r loadLocalData}
+# KEGG IDs for pathways
+load(file.path("..", "data", "KEGGpathays.RData"))
+
+# KEGG IDs found in dataset
+keggIds <- read.table(file.path("..", "import", "tempdir", "KEGG_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+chebiIds <- read.table(file.path("..", "import", "tempdir", "ChEBI_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+idx <- which(chebiIds$X %in% keggNodes$PARTICIPANT)
+length(idx)
+```
+
+# Pharmacology
+## Get genes in KEGG
+```{r}
+tmp <- chebiIds$X[idx]
+intCats <- getSifInteractionCategories()
+
+# Selected PC interactions
+selIntCats <- c("consumption-controlled-by", "controls-production-of", "controls-transport-of-chemical")
+#selIntCats <- c("consumption-controlled-by")
+
+#keggSmMolSif <- filterSif(keggSif$edges, ids=tmp, interactionTypes=intCats$BetweenProteinSmallMolecule)
+keggSmMolSif <- filterSif(keggSif$edges, ids=tmp, interactionTypes=selIntCats)
+```
+
+## Get interactions in KEGG that involve genes present in both KEGG and DrugBank
+```{r}
+# Get gene set for KEGG interactions between proteins and small molecules (as opposed to between two proteins)
+x1 <- convertSifToGmt(keggSmMolSif, "db", returnSmallMolecules=FALSE)
+
+# Get the interactions from DrugBank based on genes from KEGG 
+tmpNodes <- dbNodes$PARTICIPANT
+x2 <- tmpNodes[tmpNodes %in% x1$db]
+x3 <- sort(unique(x2))
+#x4 <- filterSif(dbSif, ids=x3, idsBothParticipants = FALSE)
+
+# Get consumption-controlled-by interactions in KEGG that involve genes present in both KEGG and DrugBank
+# NOTE: consumption-controlled-by interactions are those that are like
+keggDbSif <- filterSif(keggSmMolSif, ids=x3, interactionTypes = selIntCats, idsBothParticipants = FALSE)
+```
+
+## Make Matrix 
+```{r}
+uniqIds <- unique(c(keggDbSif[, "PARTICIPANT_A"], keggDbSif[, "PARTICIPANT_B"]))
+chebiIdx <- grepl("^CHEBI", uniqIds)
+
+tmpGenes <- uniqIds[which(!chebiIdx)]
+tmpChebi <- uniqIds[which(chebiIdx)]
+
+adjMat <- matrix(0, nrow=length(tmpChebi), ncol=length(tmpGenes), dimnames=list(tmpChebi, tmpGenes))
+dim(adjMat)
+
+pb <- txtProgressBar(min=1, max=nrow(keggDbSif), style=3)
+
+for(i in 1:nrow(keggDbSif)) {
+  setTxtProgressBar(pb, i)
+  #i <- 1
+  #cat("I: ", i, "\n")
+  
+  if(grepl("^CHEBI", keggDbSif[i, "PARTICIPANT_A"])) {
+    row <- keggDbSif[i, "PARTICIPANT_A"]
+    col <- keggDbSif[i, "PARTICIPANT_B"]
+  } else {
+    row <- keggDbSif[i, "PARTICIPANT_B"]
+    col <- keggDbSif[i, "PARTICIPANT_A"]
+  }
+  
+  adjMat[row, col] <- 1
+}
+```
+
+## Change row names 
+```{r}
+tmp <- rownames(adjMat)
+finalNameRownames <- mapValues(tmp, chebiIds$X, chebiIds$FinalName)
+
+rownames(adjMat) <- finalNameRownames
+```
+
+# Save Results 
+```{r}
+write.csv(adjMat, "../results/keggAdjacencyMatrix/keggAdjacencyMatrix.csv")
+```
+
+## Session Info
+```{r}
+sessionInfo()
+```
