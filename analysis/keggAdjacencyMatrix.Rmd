@@ -77,7 +77,7 @@ x3 <- sort(unique(x2))
 keggDbSif <- filterSif(keggSmMolSif, ids=x3, interactionTypes = selIntCats, idsBothParticipants = FALSE)
 ```
 
-## Make Matrix 
+# Make Metabolite-Gene Matrix 
 ```{r}
 uniqIds <- unique(c(keggDbSif[, "PARTICIPANT_A"], keggDbSif[, "PARTICIPANT_B"]))
 chebiIdx <- grepl("^CHEBI", uniqIds)
@@ -85,8 +85,8 @@ chebiIdx <- grepl("^CHEBI", uniqIds)
 tmpGenes <- uniqIds[which(!chebiIdx)]
 tmpChebi <- uniqIds[which(chebiIdx)]
 
-adjMat <- matrix(0, nrow=length(tmpChebi), ncol=length(tmpGenes), dimnames=list(tmpChebi, tmpGenes))
-dim(adjMat)
+metabGeneAdjMat <- matrix(0, nrow=length(tmpChebi), ncol=length(tmpGenes), dimnames=list(tmpChebi, tmpGenes))
+dim(metabGeneAdjMat)
 
 pb <- txtProgressBar(min=1, max=nrow(keggDbSif), style=3)
 
@@ -103,21 +103,53 @@ for(i in 1:nrow(keggDbSif)) {
     col <- keggDbSif[i, "PARTICIPANT_A"]
   }
   
-  adjMat[row, col] <- 1
+  metabGeneAdjMat[row, col] <- 1
 }
+
+write.csv(metabGeneAdjMat, "../results/keggAdjacencyMatrix/keggMetabGeneAdjacencyMatrix_chebi.csv")
 ```
 
 ## Change row names 
 ```{r}
-tmp <- rownames(adjMat)
+metabGeneAdjMatChebi <- metabGeneAdjMat
+
+tmp <- rownames(metabGeneAdjMat)
 finalNameRownames <- mapValues(tmp, chebiIds$X, chebiIds$FinalName)
 
-rownames(adjMat) <- finalNameRownames
+rownames(metabGeneAdjMat) <- finalNameRownames
 ```
 
-# Save Results 
+# Save Results: metabGeneAdjMat 
 ```{r}
-write.csv(adjMat, "../results/keggAdjacencyMatrix/keggAdjacencyMatrix.csv")
+write.csv(metabGeneAdjMat, "../results/keggAdjacencyMatrix/keggMetabGeneAdjacencyMatrix.csv")
+```
+
+# Metabolite-Metabolite Matrix
+```{r} 
+uniqMetab <- unique(rownames(metabGeneAdjMatChebi))
+uniqMetab <- sort(uniqMetab, decreasing=FALSE)
+
+metabMetabAdjMat <- matrix(0, nrow=length(uniqMetab), ncol=length(uniqMetab), dimnames=list(uniqMetab, uniqMetab))
+dim(metabMetabAdjMat)
+
+for(i in 1:ncol(metabGeneAdjMatChebi)) {
+  #i <- 1
+  
+  t1 <- metabGeneAdjMatChebi[which(metabGeneAdjMatChebi[,i] == 1), i]
+  t2 <- expand.grid(names(t1), names(t1), stringsAsFactors = FALSE)
+  t2 <- unique(t2)
+  
+  for(j in 1:nrow(t2)) {
+    #j <- 1 
+    
+    metabMetabAdjMat[t2[j,1], t2[j,2]] <- 1
+  }
+}
+```
+
+# Save Results: metabMetabAdjMat 
+```{r}
+write.csv(metabMetabAdjMat, "../results/keggAdjacencyMatrix/keggMetabMetabAdjacencyMatrix.csv")
 ```
 
 ## Session Info
