@@ -1,0 +1,245 @@
+C00184,0,"1,3-dihydroxyacetone"
+C07326,0,"1,5-anhydroglucitol (1,5-AG)"
+C05208,0,1-arachidonoylglycerophosphocholine*
+C04100,0,1-linoleoylglycerophosphocholine
+C05828,0,1-methylimidazoleacetate
+D01947,-1.5398975787821743,1-stearoylglycerol (1-monostearin)
+C00881,0,2'-deoxycytidine
+C00239,0,2'-deoxycytidine 5'-monophosphate
+C00330,0,2'-deoxyguanosine
+C05512,0,2'-deoxyinosine
+C04545,0,2'-O-methylguanosine
+C00956,0,2-aminoadipate
+C02261,0,2-aminobutyrate
+C05984,0,2-hydroxybutyrate (AHB)
+C00631,0,2-phosphoglycerate
+C03672,0,3-(4-hydroxyphenyl)lactate
+C02636,0,3-dehydrocarnitine*
+C01089,0,3-hydroxybutyrate (BHBA)
+C00141,0,3-methyl-2-oxobutyrate
+C00671,0,3-methyl-2-oxovalerate
+C00597,0,3-phosphoglycerate
+C02642,0,3-ureidopropionate
+C02946,0,4-acetamidobutanoate
+C06804,0,4-acetamidophenol
+C04295,0,"4-androsten-3beta,17beta-diol disulfate 1*"
+C01035,0,4-guanidinobutanoate
+C00989,0,4-hydroxybutyrate (GHB)
+C00642,0,4-hydroxyphenylacetate
+C01179,0,4-hydroxyphenylpyruvate
+C00233,0,4-methyl-2-oxopentanoate
+C00429,0,"5,6-dihydrouracil"
+C00431,0,5-aminovalerate
+C05635,0,5-hydroxyindoleacetate
+C01879,0,5-oxoproline
+C05961,0,6-keto prostaglandin F1alpha
+C00345,0,6-phosphogluconate
+C14828,-0.57440620482154114,"9,10-hydroxyoctadec-12(Z)-enoic acid"
+C02571,0.60159508003046058,acetylcarnitine
+C00212,0,adenosine
+C00946,0,adenosine 2'-monophosphate (2'-AMP)
+C01367,0,adenosine 3'-monophosphate (3'-AMP)
+C00020,0,adenosine 5'-monophosphate (AMP)
+C02353,0,"adenosine-2',3'-cyclic monophosphate"
+C03794,0,adenylosuccinate
+C16527,0,adrenate (22:4n6)
+C00041,0,alanine
+C05519,0,allo-threonine
+C01425,0,alpha-glutamylglutamate
+C00026,0,alpha-ketoglutarate
+C02477,0,alpha-tocopherol
+C00219,0,arachidonate (20:4n6)
+C00062,0,arginine
+C03406,0,argininosuccinate
+C00072,0,ascorbate (Vitamin C)
+C00152,0,asparagine
+C00049,0,aspartate
+D00235,0,atenolol
+C08261,0,azelate (nonanedioate)
+C02862,0.99306287743283594,butyrylcarnitine
+C01571,0,caprate (10:0)
+C01585,0,caproate (6:0)
+C06423,0,caprylate (8:0)
+C00487,0,carnitine
+C02528,0,chenodeoxycholate
+C00695,0,cholate
+C00187,0,cholesterol
+C00588,0,choline phosphate
+C00158,2.0956492822813964,citrate
+C00327,0,citrulline
+C00735,0,cortisol
+C00300,0,creatine
+C00791,0,creatinine
+C00097,0,cysteine
+C00491,0,cystine
+C00475,0,cytidine
+C00307,0,cytidine 5'-diphosphocholine
+C00055,0,cytidine 5'-monophosphate (5'-CMP)
+C05822,0,cytidine-3'-monophosphate (3'-CMP)
+C03299,0,decanoylcarnitine
+C01181,0,deoxycarnitine
+C03726,0,dexpanthenol
+C16525,0,dihomo-linoleate (20:2n6)
+C03242,0,dihomo-linolenate (20:3n3 or n6)
+C03626,0,dimethylarginine (SDMA + ADMA)
+D00300,0,diphenhydramine
+C16533,0,docosadienoate (22:2n6)
+C06429,0,docosahexaenoate (DHA; 22:6n3)
+C16513,0,docosapentaenoate (n3 DPA; 22:5n3)
+C16534,0,docosatrienoate (22:3n3)
+C06428,0,eicosapentaenoate (EPA; 20:5n3)
+C16526,-0.71285123069367251,eicosenoate (20:1n9 or 11)
+C05570,0,ergothioneine
+C00503,0,erythritol
+C00189,0,ethanolamine
+C00016,0,flavin adenine dinucleotide (FAD)
+C00095,0,fructose
+C05345,0,fructose-6-phosphate
+C00122,0,fumarate
+C01582,0,galactose
+C00334,0,gamma-aminobutyrate (GABA)
+C05283,0,gamma-glutamylglutamine
+C00257,0,gluconate
+C00293,0,glucose
+C00668,0,glucose-6-phosphate (G6P)
+C00025,0,glutamate
+C00064,0,glutamine
+C00127,0,"glutathione, oxidized (GSSG)"
+C00051,0,"glutathione, reduced (GSH)"
+C00258,0,glycerate
+C00116,-1.2666475727836364,glycerol
+C02979,0,glycerol 2-phosphate
+C00093,0,glycerol 3-phosphate (G3P)
+C00670,0,glycerophosphorylcholine (GPC)
+C00037,0,glycine
+C05466,0,glycochenodeoxycholate
+C01921,0,glycocholate
+C05464,0,glycodeoxycholate
+C00160,0,glycolate (hydroxyacetate)
+C02037,0,glycylglycine
+C02155,0,glycylleucine
+C00581,0,guanidinoacetate
+C00387,0,guanosine
+C00032,0,heme*
+C17714,0,heptanoate (7:0)
+C19615,0,hexadecanedioate
+C01586,0,hippurate
+C00388,0,histamine
+C00135,0,histidine
+C00155,0,homocysteine
+C00262,0,hypoxanthine
+C04006,0,inositol 1-phosphate (I1P)
+C00407,0,isoleucine
+C07525,0,ketamine
+C01717,0,kynurenate
+C00328,0,kynurenine
+C00186,0,lactate
+D02009,0,lactobionate
+C02679,0,laurate (12:0)
+C00123,0,leucine
+C11332,0,leucylleucine
+D00358,0,lidocaine
+C01595,0,linoleate (18:2n6)
+C06427,-0.93963292558725708,linolenate [alpha or gamma; (18:3n3 or 6)]
+C00047,-0.98092523102274265,lysine
+C00149,0,malate
+C00208,0,maltose
+C02052,0,maltotetraose
+C01835,0,maltotriose
+C00392,0,mannitol
+C00159,0,mannose
+C00275,0,mannose-6-phosphate
+C00073,0,methionine
+C02989,0,methionine sulfoxide
+C07202,0,metoprolol
+C00137,0,myo-inositol
+C06424,-0.81211421787704763,myristate (14:0)
+C08322,-1.3929255205493249,myristoleate (14:1n5)
+C02567,0,N(1)-acetylspermine
+C12270,0,N-acetyl-aspartyl-glutamate (NAAG)
+C02847,0,N-acetylalanine
+C01042,0,N-acetylaspartate (NAA)
+C06809,0,N-acetylcysteine
+C00140,0,N-acetylglucosamine
+C02712,0,N-acetylmethionine
+C00270,0,N-acetylneuraminate
+C01118,0,N-acetylthreonine
+C03137,0,N-acetyltryptophan
+C16561,0,N-ethylglycinexylidide*
+C02494,0,N1-methyladenosine
+C02727,0,N6-acetyllysine
+C00153,0,nicotinamide
+C00003,0,nicotinamide adenine dinucleotide (NAD+)
+C00455,-2.7110757184308398,nicotinamide ribonucleotide (NMN)
+C16535,-0.50725375969451658,nonadecanoate (19:0)
+C02838,1.3852472878599296,octanoylcarnitine
+C00712,0,oleate (18:1n9)
+C00077,-1.2876991692142554,ornithine
+C01468,0,p-cresol sulfate
+C00249,-0.6231682620512814,palmitate (16:0)
+C16995,0,"palmitate, methyl ester"
+C08362,0,palmitoleate (16:1n7)
+C02990,0,palmitoylcarnitine
+C00864,0,pantothenate
+C01601,-0.35714824625069141,pelargonate (9:0)
+C05551,0,penicillin G
+C16537,-1.2135614527480745,pentadecanoate (15:0)
+C12600,0,phenol red
+C02180,0,phenol sulfate
+C05597,0,phenylacetylglutamine
+C05598,0,phenylacetylglycine
+C00079,0,phenylalanine
+C05607,0,phenyllactate (PLA)
+C00009,0,phosphate
+C00346,0,phosphoethanolamine
+C00408,0,pipecolate
+C05484,0,pregnen-diol disulfate*
+C00148,0,proline
+C03017,-0.81852352108319781,propionylcarnitine
+C00584,0,prostaglandin E2
+C02067,0,pseudouridine
+C00134,0,putrescine
+C00250,0,pyridoxal
+C00847,0,pyridoxate
+C00022,2.3387017115859061,pyruvate
+C00492,0,raffinose
+D00422,0,ranitidine
+C00255,0,riboflavin (Vitamin B2)
+C00121,0,ribose
+C00117,0,ribose 5-phosphate
+C00021,0,S-adenosylhomocysteine (SAH)
+C00213,0,sarcosine (N-Methylglycine)
+C06153,0,scyllo-inositol
+C08277,0,sebacate (decanedioate)
+C00065,0,serine
+C00315,0,spermidine
+C00750,0,spermine
+C00836,0,sphinganine
+C00319,0,sphingosine
+C00751,0,squalene
+C10172,0,stachydrine
+C13846,0,stearamide
+C01530,-0.48685361633258867,stearate (18:0)
+C16300,-1.1091633139893344,stearidonate (18:4n3)
+C00550,-0.87672072380185007,stearoyl sphingomyelin
+C00042,0,succinate
+C00245,0.84264377217061182,taurine
+C05465,0,taurochenodeoxycholate
+C05122,0,taurocholate
+C05463,0,taurodeoxycholate
+C00188,0,threonine
+C00214,-1.5763358118230288,thymidine
+C00178,0,thymine
+C01157,0,trans-4-hydroxyproline
+C00078,0,tryptophan
+C09213,0,tryptophan betaine 
+C00082,0,tyrosine
+C17715,0,undecanoate (11:0)
+C00106,0,uracil
+C00366,0,urate
+C00086,0,urea
+C00299,-0.59018405519439621,uridine
+C00183,0,valine
+C07187,0,venlafaxine
+C00385,0,xanthine
+C01762,0,xanthosine

@@ -13,6 +13,8 @@ sourcetissue = c('BLCA' = 'Bladder','BRCA' = 'Breast','BRCATang' = 'Breast',
                'PAADHussain1' = 'Pancreas','PAADHussain2' = 'Pancreas',
                'PRAD' = 'Prostate','PRADLODA' = 'Prostate')
 
+sourcetissue_color = c('Bladder' = 'gold','Breast' = 'red','Kidney' = 'green','Ovary' = 'orange',
+                      'Pancreas' = 'blue','Prostate' = 'purple','Brain' = 'black')
 metclasses = c('glycerol 3-phosphate (g3p)' = 'Lipid',
                'kynurenine' = 'Amino Acid',
                'taurine' = 'Sulfonic Acid',

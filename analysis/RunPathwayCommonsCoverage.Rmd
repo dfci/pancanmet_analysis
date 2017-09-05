@@ -1,0 +1,53 @@
+---
+title: "Pathway Commons Coverage Analysis"
+output:
+  html_notebook: default
+---
+
+## Purpose
+
+To see how much of the Pathway Commons pathways are described in the current dataset: 
+
+```{r knitrSetup, include=FALSE}
+library(knitr)
+opts_chunk$set(out.extra='style="display:block; margin: auto"', fig.align="center", tidy=FALSE)
+verbose <- FALSE
+```
+
+# Load Data
+
+```{r loadData}
+library(paxtoolsr)
+
+x <- downloadPc2("PathwayCommons.8.reactome.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+y <- downloadPc2("PathwayCommons.8.All.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+z <- downloadPc2("PathwayCommons.8.kegg.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+w <- downloadPc2("PathwayCommons.8.humancyc.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+
+reactomeNodes <- x$nodes
+pcNodes <- y$nodes
+keggNodes <- z$nodes
+humancycNodes <- w$nodes
+```
+
+## Load Local Data
+
+```{r loadLocalData}
+# KEGG IDs for pathways
+load(file.path("..", "data", "KEGGpathays.RData"))
+
+# KEGG IDs found in dataset
+keggIds <- read.table(file.path("..", "import", "tempdir", "KEGG_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+chebiIds <- read.table(file.path("..", "import", "tempdir", "ChEBI_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+p1 <- which(chebiIds$X %in% pcNodes$PARTICIPANT)
+p2 <- which(chebiIds$X %in% reactomeNodes$PARTICIPANT)
+p3 <- which(chebiIds$X %in% keggNodes$PARTICIPANT)
+p4 <- which(chebiIds$X %in% humancycNodes$PARTICIPANT)
+
+length(p1)
+length(p2)
+length(p3)
+length(p4)
+```

@@ -3,7 +3,10 @@
 rm(list = ls())
 setwd('/Users/ereznik/pancanmet_analysis/analysis/')
 source('functions/readBigMet.R')
+source('plottingconventions.R')
 library(ggplot2)
+library(ggrepel)
+library(cowplot)
 
 # Parameters to set
 study2drop = c()
@@ -53,7 +56,8 @@ for (study in uqstudy){
 }
 
 # Remove insignificant results
-corrR[ which(corrP > pthresh, arr.ind = TRUE)] = 0
+corrR[ which(corrPadj > pthresh, arr.ind = TRUE)] = 0
+signR = sign(corrR)
 
 # Analyze results
 
@@ -76,3 +80,37 @@ for (metabolite in keepmets){
 # Sort results and write to file
 pairscores = pairscores[order(pairscores$NumTotalCor,decreasing = TRUE),]
 write.csv(pairscores,'../results/pairedsamples/pairscores.csv')
+pairscores$Index = dim(pairscores)[1]:1
+pairscores$Label = rownames(pairscores)
+pairscores[which(pairscores$NumTotalCor <= 4),'Label'] = ''
+# Plot the results, annotating the top few metabolites
+p1 = ggplot(pairscores,aes(Index,NumTotalCor,label = Label)) + 
+  ylab('Number of Significant Normal/Tumor Correlations') + 
+  theme_bw(base_size = 12) + geom_point() + geom_text_repel(force = 5) + 
+  ggsave('../results/pairedsamples/PairedTumorNormal.pdf',height = 6,width = 6)
+
+# Make a bunch of plots
+for (metabolite in rownames(pairscores)){
+  # skip the boring ones
+  if (pairscores[metabolite,'NumTotalCor'] < 3){next}
+  
+  # Make a temporary data frame of tumor/normal abundance and study
+  tempmet = data.frame( met[metabolite,tumorIDs], met[metabolite,normalIDs] )
+  tempmet$Study = sapply(rownames(tempmet),function(x){strsplit(x,'\\:')[[1]][1]})
+  tempmet = tempmet[which(complete.cases(tempmet)),]
+  colnames(tempmet) = c('Tumor','Normal','Study')
+  tempmet$StudyName = names2plot[tempmet$Study]
+  tempmet$Tissue = sourcetissue[tempmet$Study]
+  
+  # Plot
+  pmet = ggplot(tempmet,aes(log2(Normal),log2(Tumor),color = Tissue)) + geom_point() + 
+    theme_bw(base_size = 16) + facet_wrap(~ StudyName) + 
+    ggsave(paste0('../results/pairedsamples/TumorNormalplots/',metabolite,'.pdf'),height =8,width = 8)
+  
+  if (metabolite == 'alanine'){
+    pmet2save = pmet
+  }
+  
+}
+
+

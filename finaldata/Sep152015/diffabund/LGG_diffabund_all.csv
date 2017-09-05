@@ -1,0 +1,309 @@
+Metabolite Name,Log2 Fold Change,Mann-Whitney P Value FDR Adjusted,T-test P value FDR Adjusted
+"1,2-propanediol",nan,0.0,nan
+dihydroxyacetone,nan,0.0,nan
+"1,5-anhydroglucitol (1,5-AG)",nan,0.0,nan
+10-heptadecenoate (17:1n7),nan,0.0,nan
+10-nonadecenoate (19:1n9),nan,0.0,nan
+13-HODE + 9-HODE,nan,0.0,nan
+13-methylmyristic acid,nan,0.0,nan
+1-arachidonoyl-GPC* (20:4)*,nan,0.0,nan
+1-arachidonoyl-GPE* (20:4)*,nan,0.0,nan
+1-arachidonoyl-GPI* (20:4)*,nan,0.0,nan
+1-myristoyl-GPC (14:0),nan,0.0,nan
+1-oleoylglycerol (18:1),nan,0.0,nan
+1-oleoyl-GPC (18:1),nan,0.0,nan
+1-oleoyl-GPE (18:1),nan,0.0,nan
+1-palmitoleoyl-GPC* (16:1)*,nan,0.0,nan
+1-palmitoylglycerol (16:0),nan,0.0,nan
+1-palmitoyl-GPC (16:0),nan,0.0,nan
+1-palmitoyl-GPE (16:0),nan,0.0,nan
+1-palmitoyl-GPI* (16:0)*,nan,0.0,nan
+1-palmitoylplasmenylethanolamine*,nan,0.0,nan
+1-stearoylglycerol (18:0),nan,0.0,nan
+1-stearoyl-GPC (18:0),nan,0.0,nan
+1-stearoyl-GPE (18:0),nan,0.0,nan
+1-stearoyl-GPI (18:0),nan,0.0,nan
+2-aminoadipate,nan,0.0,nan
+2-aminobutyrate,nan,0.0,nan
+2-arachidonoyl-GPC* (20:4)*,nan,0.0,nan
+2-arachidonoyl-GPE* (20:4)*,nan,0.0,nan
+2'-deoxyguanosine,nan,0.0,nan
+2'-deoxyinosine,nan,0.0,nan
+2-docosahexaenoyl-GPC* (22:6)*,nan,0.0,nan
+2-docosahexaenoylglycerophosphoethanolamine*,nan,0.0,nan
+2-docosapentaenoylglycerophosphoethanolamine*,nan,0.0,nan
+2-hydroxyacetaminophen sulfate*,nan,1.0,nan
+2-hydroxybutyrate (AHB),nan,0.0,nan
+2-hydroxyglutarate,nan,0.0,nan
+2-hydroxypalmitate,nan,0.0,nan
+2-linoleoyl-GPC* (18:2)*,nan,0.0,nan
+2-methylbutyroylcarnitine (C5),nan,0.0,nan
+2-myristoyl-GPC* (14:0)*,nan,0.0,nan
+2-myristoylglycerophosphoethanolamine*,nan,0.0,nan
+2-oleoyl-GPC* (18:1)*,nan,0.0,nan
+2-oleoyl-GPE* (18:1)*,nan,0.0,nan
+2-palmitoleoyl-GPC* (16:1)*,nan,0.0,nan
+2-palmitoleoyl-GPE* (16:1)*,nan,0.0,nan
+2-palmitoylglycerol (16:0),nan,0.0,nan
+2-palmitoyl-GPC* (16:0)*,nan,0.0,nan
+2-palmitoyl-GPE* (16:0)*,nan,0.0,nan
+2-stearoyl-GPC* (18:0)*,nan,0.0,nan
+3-(4-hydroxyphenyl)lactate (HPLA),nan,0.0,nan
+3-aminoisobutyrate,nan,0.0,nan
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF),nan,0.0,nan
+3-dehydrocarnitine*,nan,0.0,nan
+3-hydroxybutyrate (BHBA),nan,0.0,nan
+3-phosphoglycerate,nan,0.0,nan
+3-phosphoserine,nan,0.0,nan
+4-acetamidobutanoate,nan,0.0,nan
+4-acetaminophen sulfate,nan,0.0,nan
+"4-androsten-3beta,17beta-diol disulfate 1*",nan,0.0,nan
+4-guanidinobutanoate,nan,0.0,nan
+4-methyl-2-oxopentanoate,nan,0.0,nan
+"5,6-dihydrouracil",nan,0.0,nan
+5-methylthioadenosine (MTA),nan,0.0,nan
+5-oxoproline,nan,0.0,nan
+6-phosphogluconate,nan,0.0,nan
+7-HOCA,nan,0.0,nan
+7-alpha-hydroxycholesterol,nan,0.0,nan
+7-beta-hydroxycholesterol,nan,0.0,nan
+acetylcarnitine (C2),nan,0.0,nan
+acetylphosphate,nan,0.0,nan
+adenine,nan,0.0,nan
+adenosine,nan,0.0,nan
+2'-AMP,nan,0.0,nan
+3'-AMP,nan,0.0,nan
+AMP,nan,0.0,nan
+adrenate (22:4n6),nan,0.0,nan
+alanine,nan,0.0,nan
+allo-threonine,nan,0.0,nan
+alpha-hydroxyisovalerate,nan,0.0,nan
+alpha-tocopherol,nan,0.0,nan
+anserine,nan,0.0,nan
+arabinose,nan,0.0,nan
+arabitol,nan,0.0,nan
+arabonate,nan,0.0,nan
+arachidonate (20:4n6),nan,0.0,nan
+arginine,nan,0.0,nan
+ascorbate (Vitamin C),nan,0.0,nan
+asparagine,nan,0.0,nan
+aspartate,nan,0.0,nan
+aspartylleucine,nan,0.0,nan
+benzoate,nan,0.0,nan
+beta-alanine,nan,0.0,nan
+beta-hydroxyisovalerate,nan,0.0,nan
+betaine aldehyde,nan,0.0,nan
+butyrylcarnitine (C4),nan,0.0,nan
+caprate (10:0),nan,0.0,nan
+caproate (6:0),nan,0.0,nan
+caprylate (8:0),nan,0.0,nan
+"carbamazepine 10,11-epoxide*",nan,0.0,nan
+carbamazepine*,nan,0.0,nan
+carnitine,nan,0.0,nan
+C-glycosyltryptophan*,nan,0.0,nan
+chiro-inositol,nan,0.0,nan
+cholesterol,nan,0.0,nan
+phosphocholine,nan,0.0,nan
+vaccenate (18:1n7),nan,0.0,nan
+citalopram,nan,0.0,nan
+citrate,nan,0.0,nan
+citrulline,nan,0.0,nan
+creatine,nan,0.0,nan
+creatinine,nan,0.0,nan
+cystathionine,nan,0.0,nan
+cysteine,nan,0.0,nan
+cysteine sulfinic acid,nan,0.0,nan
+cysteine-glutathione disulfide,nan,0.0,nan
+cystine,nan,0.0,nan
+cytidine,nan,0.0,nan
+CDP-choline,nan,0.0,nan
+dehydroascorbate,nan,0.0,nan
+deoxycarnitine,nan,0.0,nan
+dihomolinoleate (20:2n6),nan,0.0,nan
+dihomolinolenate (20:3n3 or 3n6),nan,0.0,nan
+dihydrocholesterol,nan,0.0,nan
+dihydroxyacetone phosphate (DHAP),nan,0.0,nan
+dimethylallyl pyrophosphate (DMAPP),nan,0.0,nan
+dimethylarginine (ADMA + SDMA),nan,0.0,nan
+diphenhydramine,nan,1.0,nan
+docosadienoate (22:2n6),nan,0.0,nan
+docosahexaenoate (DHA; 22:6n3),nan,0.0,nan
+docosapentaenoate (DPA; 22:5n3),nan,0.0,nan
+docosapentaenoate (n6 DPA; 22:5n6),nan,0.0,nan
+docosatrienoate (22:3n3),nan,0.0,nan
+eicosenoate (20:1n9 or 1n11),nan,0.0,nan
+ergothioneine,nan,0.0,nan
+erythritol,nan,0.0,nan
+erythronate*,nan,0.0,nan
+ethanolamine,nan,0.0,nan
+fructose,nan,0.0,nan
+fructose 1-phosphate,nan,0.0,nan
+fructose 6-phosphate,nan,0.0,nan
+fumarate,nan,0.0,nan
+galactosylsphingosine,nan,0.0,nan
+gamma-aminobutyrate (GABA),nan,0.0,nan
+gamma-glutamylalanine,nan,0.0,nan
+gamma-glutamylglutamate,nan,0.0,nan
+gamma-glutamylglutamine,nan,0.0,nan
+gamma-tocopherol,nan,0.0,nan
+gluconate,nan,0.0,nan
+glucose,nan,0.0,nan
+glucose 6-phosphate,nan,0.0,nan
+glutamate,nan,0.0,nan
+glutamine,nan,0.0,nan
+glutarate (pentanedioate),nan,0.0,nan
+glutaroylcarnitine (C5),nan,0.0,nan
+"glutathione, oxidized (GSSG)",nan,0.0,nan
+"glutathione, reduced (GSH)",nan,0.0,nan
+glycerate,nan,0.0,nan
+glycerol,nan,0.0,nan
+glycerol 2-phosphate,nan,0.0,nan
+glycerol 3-phosphate (G3P),nan,0.0,nan
+glycerophosphoethanolamine,nan,0.0,nan
+glycerophosphorylcholine (GPC),nan,0.0,nan
+glycine,nan,0.0,nan
+glycolate (hydroxyacetate),nan,0.0,nan
+glycylglycine,nan,0.0,nan
+guanine,nan,0.0,nan
+guanosine,nan,0.0,nan
+heme*,nan,0.0,nan
+heptaethylene glycol,nan,0.0,nan
+heptanoate (7:0),nan,0.0,nan
+hexaethylene glycol,nan,0.0,nan
+hexanoylcarnitine (C6),nan,0.0,nan
+hippurate,nan,0.0,nan
+histamine,nan,0.0,nan
+histidine,nan,0.0,nan
+homocarnosine,nan,0.0,nan
+homocysteine,nan,0.0,nan
+hydroxyisovaleroylcarnitine (C5),nan,0.0,nan
+hypotaurine,nan,0.0,nan
+hypoxanthine,nan,0.0,nan
+inosine,nan,0.0,nan
+inositol 1-phosphate (I1P),nan,0.0,nan
+"Isobar: 2-propylpentanoic acid, 2-ethylhexanoic acid",nan,0.0,nan
+"Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate",nan,0.0,nan
+"Isobar: ribulose 5-phosphate, xylulose 5-phosphate",nan,0.0,nan
+isobutyrylcarnitine (C4),nan,0.0,nan
+isoleucine,nan,0.0,nan
+isovalerylcarnitine (C5),nan,0.0,nan
+kynurenine,nan,0.0,nan
+lactate,nan,0.0,nan
+laurate (12:0),nan,0.0,nan
+leucine,nan,0.0,nan
+leucylglutamate,nan,0.0,nan
+levulinate (4-oxovalerate),nan,0.0,nan
+lidocaine,nan,0.0,nan
+linoleate (18:2n6),nan,0.0,nan
+linolenate (18:3n3 or 3n6),nan,0.0,nan
+lysine,nan,0.0,nan
+malate,nan,0.0,nan
+maltose,nan,0.0,nan
+maltotetraose,nan,0.0,nan
+maltotriose,nan,0.0,nan
+mannitol,nan,0.0,nan
+mannose,nan,0.0,nan
+mannose 6-phosphate,nan,0.0,nan
+margarate (17:0),nan,0.0,nan
+mead acid (20:3n9),nan,0.0,nan
+methionine,nan,0.0,nan
+methyl palmitate (15 or 2),nan,0.0,nan
+3-methylglutaroylcarnitine (C6),nan,0.0,nan
+methylphosphate,nan,0.0,nan
+metoprolol,nan,0.0,nan
+metoprolol acid metabolite*,nan,0.0,nan
+myo-inositol,nan,0.0,nan
+myristate (14:0),nan,0.0,nan
+myristoleate (14:1n5),nan,0.0,nan
+1-methyladenosine,nan,0.0,nan
+N6-acetyllysine,nan,0.0,nan
+N-acetylalanine,nan,0.0,nan
+N-acetylaspartate (NAA),nan,0.0,nan
+N-acetyl-aspartyl-glutamate (NAAG),nan,0.0,nan
+N-acetylglucosamine 6-phosphate,nan,0.0,nan
+N-acetylglutamate,nan,0.0,nan
+N-acetylglycine,nan,0.0,nan
+N-acetylhistidine,nan,0.0,nan
+N-acetylmethionine,nan,0.0,nan
+N-acetylneuraminate,nan,0.0,nan
+N-acetylserine,nan,0.0,nan
+N-acetyltryptophan,nan,0.0,nan
+nicotinamide,nan,0.0,nan
+NAD+,nan,0.0,nan
+oleate (18:1n9),nan,0.0,nan
+oleoylcarnitine (C18),nan,0.0,nan
+ophthalmate,nan,0.0,nan
+ornithine,nan,0.0,nan
+p-acetamidophenylglucuronide,nan,0.0,nan
+palmitate (16:0),nan,0.0,nan
+palmitoleate (16:1n7),nan,0.0,nan
+palmitoyl ethanolamide,nan,0.0,nan
+palmitoyl sphingomyelin,nan,0.0,nan
+palmitoylcarnitine (C16),nan,0.0,nan
+pantothenate (Vitamin B5),nan,0.0,nan
+p-cresol sulfate,nan,0.0,nan
+pelargonate (9:0),nan,0.0,nan
+pentadecanoate (15:0),nan,0.0,nan
+pentaethylene glycol,nan,0.0,nan
+phenol sulfate,nan,0.0,nan
+phenylacetylglutamine,nan,0.0,nan
+phenylalanine,nan,0.0,nan
+phosphate,nan,0.0,nan
+phosphoenolpyruvate (PEP),nan,0.0,nan
+phosphoethanolamine (PE),nan,0.0,nan
+pipecolate,nan,0.0,nan
+prolylhydroxyproline,nan,0.0,nan
+proline,nan,0.0,nan
+propionylcarnitine (C3),nan,0.0,nan
+pseudouridine,nan,0.0,nan
+putrescine,nan,0.0,nan
+pyroglutamine*,nan,0.0,nan
+pyrophosphate (PPi),nan,0.0,nan
+pyruvate,nan,0.0,nan
+ranitidine,nan,0.0,nan
+ribitol,nan,0.0,nan
+ribose,nan,0.0,nan
+ribose 5-phosphate,nan,0.0,nan
+ribulose,nan,0.0,nan
+S-adenosylhomocysteine (SAH),nan,0.0,nan
+salicylate,nan,0.0,nan
+sarcosine (N-Methylglycine),nan,0.0,nan
+scyllo-inositol,nan,0.0,nan
+sedoheptulose-7-phosphate,nan,0.0,nan
+serine,nan,0.0,nan
+serylleucine,nan,1.0,nan
+S-methylcysteine,nan,0.0,nan
+sorbitol,nan,0.0,nan
+spermidine,nan,0.0,nan
+sphinganine,nan,0.0,nan
+sphingosine,nan,0.0,nan
+stachydrine,nan,0.0,nan
+stearate (18:0),nan,0.0,nan
+sphingomyelin,nan,0.0,nan
+stearoylcarnitine (C18),nan,0.0,nan
+succinate,nan,0.0,nan
+succinylcarnitine (C4),nan,0.0,nan
+sucrose,nan,0.0,nan
+taurine,nan,0.0,nan
+tetraethylene glycol,nan,0.0,nan
+threonine,nan,0.0,nan
+thymine,nan,0.0,nan
+tiglyl carnitine (C5),nan,0.0,nan
+hydroxyproline,nan,0.0,nan
+triethanolamine,nan,0.0,nan
+triethyleneglycol,nan,0.0,nan
+trizma acetate,nan,0.0,nan
+tryptophan,nan,0.0,nan
+tryptophan betaine ,nan,0.0,nan
+tyrosine,nan,0.0,nan
+undecanoate (11:0),nan,0.0,nan
+uracil,nan,0.0,nan
+urate,nan,0.0,nan
+urea,nan,0.0,nan
+uridine,nan,0.0,nan
+valerylcarnitine (C5),nan,0.0,nan
+valine,nan,0.0,nan
+xanthine,nan,0.0,nan
+xylitol,nan,0.0,nan
+xylonate,nan,0.0,nan
+xylulose,nan,0.0,nan

@@ -5,6 +5,7 @@ setwd('/Users/ereznik/pancanmet_analysis/analysis/')
 library(ggplot2)
 library(ggrepel)
 source('functions/readBigMet.R')
+source('plottingconventions.R')
 
 # Choose the metabolite to focus on, by default should be lactate
 hotmet = 'lactate'
@@ -34,7 +35,7 @@ ggplot(pdata,aes(IX,Metabolite,color = Tissue)) + geom_point(size =3)  +
   annotate("rect", xmin = 0, xmax = xinterceptidx, ymin = -Inf, ymax = 0, fill= "blue",alpha = 0.1) +
   annotate("rect", xmin = xinterceptidx, xmax = Inf, ymin = 0, ymax = Inf, fill= "red",alpha = 0.1) +
   xlab('Percentile') + ylab(paste(expression(Log2),'Tumor Lactate:Normal Lactate')) + theme_bw() + 
-  scale_size_continuous(guide=FALSE) + scale_color_discrete(name = 'Study') + 
+  scale_size_continuous(guide=FALSE) + scale_color_manual(name = 'Study',values = sourcetissue_color) + 
   theme( legend.position=c(0.75, .2),text = element_text(size = 20) ) +
   geom_hline(yintercept = 0) + geom_vline(xintercept = xinterceptidx) 
   ggsave(filename = '../results/warburg/warburg_lactateplot.pdf',width = 10,height = 10,useDingbats = FALSE)

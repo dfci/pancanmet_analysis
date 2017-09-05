@@ -1,0 +1,560 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 JUN 2016 16:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pancanmet_Jun272016.tex
+(./pancanmet_Jun272016.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks20
+\SOUL@lasttoken=\toks21
+\SOUL@cmds=\toks22
+\SOUL@buffer=\toks23
+\SOUL@token=\toks24
+\SOUL@spaceskip=\skip46
+\SOUL@ttwidth=\dimen114
+\SOUL@uldp=\dimen115
+\SOUL@ulht=\dimen116
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip47
+\LTright=\skip48
+\LTpre=\skip49
+\LTpost=\skip50
+\LTchunksize=\count100
+\LTcapwidth=\dimen117
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks25
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count107
+\calc@Cskip=\skip53
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@toc@title=\toks26
+\c@AM@survey=\count108
+\AM@templatesizebox=\box33
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+\c@ContinuedFloat=\count109
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
+))
+(build/pancanmet_Jun272016.aux)
+\openout1 = `pancanmet_Jun272016.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen126
+\scratchbox=\box34
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen127
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks28
+)
+\AtBeginShipoutBox=\box35
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (1.42342pt too wide) in paragraph at lines 84--85
+[]\OT1/cmr/m/n/10 One ap-proach to study-ing the un-der-ly-ing bi-ol-ogy of can
+-cer has been to pro-file the genomes, epigenomes,
+ []
+
+<finalfigures/Figure1.pdf, id=1, 845.1575pt x 597.23125pt>
+File: finalfigures/Figure1.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure1.pdf>
+Package pdftex.def Info: finalfigures/Figure1.pdf used on input line 94.
+(pdftex.def)             Requested size: 422.57771pt x 298.61488pt.
+
+
+LaTeX Warning: Citation `Hirayama2009' on page 1 undefined on input line 100.
+
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+[2 <./finalfigures/Figure1.pdf>]
+<finalfigures/Figure2_Data.pdf, id=40, 625.33723pt x 336.92676pt>
+File: finalfigures/Figure2_Data.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure2_Data.pdf>
+Package pdftex.def Info: finalfigures/Figure2_Data.pdf used on input line 108.
+(pdftex.def)             Requested size: 469.00177pt x 252.69443pt.
+
+Overfull \hbox (13.75769pt too wide) in paragraph at lines 108--109
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `Martincorena2015' on page 3 undefined on input line 11
+4.
+
+[3 <./finalfigures/Figure2_Data.pdf>]
+<finalfigures/Figure3.pdf, id=79, 794.97pt x 614.295pt>
+File: finalfigures/Figure3.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure3.pdf>
+Package pdftex.def Info: finalfigures/Figure3.pdf used on input line 120.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+
+Overfull \hbox (34.28444pt too wide) in paragraph at lines 126--127
+\OT1/cmr/m/n/10 We were par-tic-u-larly in-ter-ested in iden-ti-fy-ing metabo-l
+ites which showed con-sis-tent pat-terns of in-creased/decreased
+ []
+
+[4 <./finalfigures/Figure3.pdf>]
+
+LaTeX Warning: Citation `Hu2013' on page 5 undefined on input line 134.
+
+<finalfigures/Figure4.pdf, id=127, 794.97pt x 614.295pt>
+File: finalfigures/Figure4.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure4.pdf>
+Package pdftex.def Info: finalfigures/Figure4.pdf used on input line 138.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+
+
+LaTeX Warning: Citation `VanderHeiden2009' on page 5 undefined on input line 14
+4.
+
+
+LaTeX Warning: Citation `CITE' on page 5 undefined on input line 144.
+
+[5] <finalfigures/Figure6.pdf, id=131, 614.295pt x 349.305pt>
+File: finalfigures/Figure6.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure6.pdf>
+Package pdftex.def Info: finalfigures/Figure6.pdf used on input line 150.
+(pdftex.def)             Requested size: 460.72011pt x 261.9781pt.
+
+Overfull \hbox (5.47603pt too wide) in paragraph at lines 150--151
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `CITE' on page 6 undefined on input line 159.
+
+[6 <./finalfigures/Figure4.pdf>] [7 <./finalfigures/Figure6.pdf>]
+<finalfigures/Figure5.pdf, id=229, 794.97pt x 614.295pt>
+File: finalfigures/Figure5.pdf Graphic file (type pdf)
+
+<use finalfigures/Figure5.pdf>
+Package pdftex.def Info: finalfigures/Figure5.pdf used on input line 167.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+ [8 <./finalfigures/Figure5.pdf>]
+
+LaTeX Warning: Citation `Reznik2013' on page 9 undefined on input line 188.
+
+
+LaTeX Warning: Citation `ShlomiPaper' on page 9 undefined on input line 188.
+
+
+LaTeX Warning: Citation `Reznik2015' on page 9 undefined on input line 190.
+
+
+LaTeX Warning: Citation `etc' on page 9 undefined on input line 190.
+
+
+LaTeX Warning: Citation `EFMs' on page 9 undefined on input line 190.
+
+[9]
+
+LaTeX Warning: Citation `Whitlock2005' on page 10 undefined on input line 222.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[10]
+
+LaTeX Warning: Citation `Whitlock2005' on page 11 undefined on input line 227.
+
+No file pancanmet_Jun272016.bbl.
+[11]
+
+LaTeX Warning: Citation `Putluri2011' on page 12 undefined on input line 240.
+
+
+LaTeX Warning: Citation `Terunuma2014' on page 12 undefined on input line 241.
+
+
+LaTeX Warning: Citation `Tang2014' on page 12 undefined on input line 242.
+
+
+LaTeX Warning: Citation `Hirayama2009' on page 12 undefined on input line 243.
+
+
+LaTeX Warning: Citation `Hakimi2015' on page 12 undefined on input line 244.
+
+
+LaTeX Warning: Citation `Chinnaiyan2012' on page 12 undefined on input line 245
+.
+
+
+LaTeX Warning: Citation `Fong2011' on page 12 undefined on input line 246.
+
+
+LaTeX Warning: Citation `Kamphorst2015' on page 12 undefined on input line 247.
+
+
+
+LaTeX Warning: Citation `Zhang2013' on page 12 undefined on input line 248.
+
+
+LaTeX Warning: Citation `Zhang2013' on page 12 undefined on input line 249.
+
+
+LaTeX Warning: Citation `Sreekumar2009' on page 12 undefined on input line 250.
+
+
+
+LaTeX Warning: Citation `Priolo2014' on page 12 undefined on input line 251.
+
+
+LaTeX Warning: Citation `Hirayama2009' on page 12 undefined on input line 252.
+
+<finalfigures/imput_barplot.pdf, id=276, 722.7pt x 722.7pt>
+File: finalfigures/imput_barplot.pdf Graphic file (type pdf)
+
+<use finalfigures/imput_barplot.pdf>
+Package pdftex.def Info: finalfigures/imput_barplot.pdf used on input line 260.
+
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+<finalfigures/sametissue.pdf, id=277, 722.7pt x 722.7pt>
+File: finalfigures/sametissue.pdf Graphic file (type pdf)
+
+<use finalfigures/sametissue.pdf>
+Package pdftex.def Info: finalfigures/sametissue.pdf used on input line 267.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+<finalfigures/Histogram_NumDiffAbundant.pdf, id=278, 722.7pt x 722.7pt>
+File: finalfigures/Histogram_NumDiffAbundant.pdf Graphic file (type pdf)
+
+<use finalfigures/Histogram_NumDiffAbundant.pdf>
+Package pdftex.def Info: finalfigures/Histogram_NumDiffAbundant.pdf used on inp
+ut line 274.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+<finalfigures/pathway_heatmap.pdf, id=279, 722.7pt x 722.7pt>
+File: finalfigures/pathway_heatmap.pdf Graphic file (type pdf)
+
+<use finalfigures/pathway_heatmap.pdf>
+Package pdftex.def Info: finalfigures/pathway_heatmap.pdf used on input line 28
+2.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+<finalfigures/warburg_source.pdf, id=280, 722.7pt x 722.7pt>
+File: finalfigures/warburg_source.pdf Graphic file (type pdf)
+
+<use finalfigures/warburg_source.pdf>
+Package pdftex.def Info: finalfigures/warburg_source.pdf used on input line 289
+.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+<finalfigures/warburg_scatter.pdf, id=281, 722.7pt x 722.7pt>
+File: finalfigures/warburg_scatter.pdf Graphic file (type pdf)
+
+<use finalfigures/warburg_scatter.pdf>
+Package pdftex.def Info: finalfigures/warburg_scatter.pdf used on input line 29
+6.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+ [12] [13 <./finalfigures/imput_barplot.pdf>] [14 <./finalfigures/sametissue.pd
+f>] [15 <./finalfigures/Histogram_NumDiffAbundant.pdf>] [16 <./finalfigures/pat
+hway_heatmap.pdf>] [17 <./finalfigures/warburg_source.pdf>] [18 <./finalfigures
+/warburg_scatter.pdf>]
+(build/pancanmet_Jun272016.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4650 strings out of 493488
+ 69857 string characters out of 3141326
+ 140314 words of memory out of 3000000
+ 7872 multiletter control sequences out of 15000+200000
+ 8476 words of font info for 32 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 42i,8n,38p,1430b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on build/pancanmet_Jun272016.pdf (18 pages, 2174192 bytes).
+PDF statistics:
+ 377 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

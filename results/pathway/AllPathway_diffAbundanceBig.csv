@@ -1,0 +1,613 @@
+"Pathway","Study","DifferentialAbundance","PathwaySize","KEGGID","NA"
+"Alanine, aspartate and glutamate metabolism","PAADHussain1",0,15,"Pancreatic
+Zhang1","hsa00250"
+"Alanine, aspartate and glutamate metabolism","PAADHussain2",-0.5,12,"Pancreatic
+Zhang2","hsa00250"
+"Alanine, aspartate and glutamate metabolism","OV",0.428571428571429,14,"Ovarian","hsa00250"
+"Alanine, aspartate and glutamate metabolism","PAAD",-0.181818181818182,11,"Pancreatic
+Kamphorst","hsa00250"
+"Alanine, aspartate and glutamate metabolism","BRCATang",0.833333333333333,12,"Breast
+Tang","hsa00250"
+"Alanine, aspartate and glutamate metabolism","PRAD",0.363636363636364,11,"Prostate
+Sreekumar","hsa00250"
+"Alanine, aspartate and glutamate metabolism","BLCA",0.333333333333333,3,"Bladder","hsa00250"
+"Alanine, aspartate and glutamate metabolism","PRADLODA",-0.153846153846154,13,"Prostate
+Priolo","hsa00250"
+"Alanine, aspartate and glutamate metabolism","BRCA",0.769230769230769,13,"Breast
+Terunuma","hsa00250"
+"Alanine, aspartate and glutamate metabolism","KIRC",-0.307692307692308,13,"Clear Cell
+Kidney","hsa00250"
+"Amino sugar and nucleotide sugar metabolism","BLCA",NA,0,"Bladder","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","KIRC",0.5,14,"Clear Cell
+Kidney","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","PAADHussain1",0,9,"Pancreatic
+Zhang1","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","PRAD",0,7,"Prostate
+Sreekumar","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","PAADHussain2",-0.0833333333333333,12,"Pancreatic
+Zhang2","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","PAAD",0,8,"Pancreatic
+Kamphorst","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","OV",0,12,"Ovarian","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","BRCATang",0.7,10,"Breast
+Tang","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","BRCA",0.923076923076923,13,"Breast
+Terunuma","hsa00520"
+"Amino sugar and nucleotide sugar metabolism","PRADLODA",0.181818181818182,11,"Prostate
+Priolo","hsa00520"
+"Aminoacyl-tRNA biosynthesis","BRCA",0.9,20,"Breast
+Terunuma","hsa00970"
+"Aminoacyl-tRNA biosynthesis","PRAD",0.842105263157895,19,"Prostate
+Sreekumar","hsa00970"
+"Aminoacyl-tRNA biosynthesis","PAAD",0,18,"Pancreatic
+Kamphorst","hsa00970"
+"Aminoacyl-tRNA biosynthesis","PAADHussain2",-0.2,20,"Pancreatic
+Zhang2","hsa00970"
+"Aminoacyl-tRNA biosynthesis","PAADHussain1",-0.15,20,"Pancreatic
+Zhang1","hsa00970"
+"Aminoacyl-tRNA biosynthesis","KIRC",-0.75,20,"Clear Cell
+Kidney","hsa00970"
+"Aminoacyl-tRNA biosynthesis","BRCATang",0.95,20,"Breast
+Tang","hsa00970"
+"Aminoacyl-tRNA biosynthesis","OV",0.05,20,"Ovarian","hsa00970"
+"Aminoacyl-tRNA biosynthesis","PRADLODA",-0.05,20,"Prostate
+Priolo","hsa00970"
+"Aminoacyl-tRNA biosynthesis","BLCA",0.0666666666666667,15,"Bladder","hsa00970"
+"Arginine and proline metabolism","PAADHussain1",-0.0555555555555556,18,"Pancreatic
+Zhang1","hsa00330"
+"Arginine and proline metabolism","KIRC",0,18,"Clear Cell
+Kidney","hsa00330"
+"Arginine and proline metabolism","BRCA",0.705882352941177,17,"Breast
+Terunuma","hsa00330"
+"Arginine and proline metabolism","OV",0.117647058823529,17,"Ovarian","hsa00330"
+"Arginine and proline metabolism","PRAD",0.384615384615385,13,"Prostate
+Sreekumar","hsa00330"
+"Arginine and proline metabolism","BLCA",0.571428571428571,7,"Bladder","hsa00330"
+"Arginine and proline metabolism","PAAD",-0.0833333333333333,12,"Pancreatic
+Kamphorst","hsa00330"
+"Arginine and proline metabolism","BRCATang",0.75,12,"Breast
+Tang","hsa00330"
+"Arginine and proline metabolism","PAADHussain2",-0.0769230769230769,13,"Pancreatic
+Zhang2","hsa00330"
+"Arginine and proline metabolism","PRADLODA",-0.176470588235294,17,"Prostate
+Priolo","hsa00330"
+"Arginine biosynthesis","PAADHussain1",-0.3,10,"Pancreatic
+Zhang1","hsa00220"
+"Arginine biosynthesis","PRADLODA",-0.222222222222222,9,"Prostate
+Priolo","hsa00220"
+"Arginine biosynthesis","BLCA",1,3,"Bladder","hsa00220"
+"Arginine biosynthesis","KIRC",-0.1,10,"Clear Cell
+Kidney","hsa00220"
+"Arginine biosynthesis","PAADHussain2",-0.125,8,"Pancreatic
+Zhang2","hsa00220"
+"Arginine biosynthesis","BRCA",0.8,10,"Breast
+Terunuma","hsa00220"
+"Arginine biosynthesis","PAAD",-0.0909090909090909,11,"Pancreatic
+Kamphorst","hsa00220"
+"Arginine biosynthesis","OV",0.272727272727273,11,"Ovarian","hsa00220"
+"Arginine biosynthesis","PRAD",0.444444444444444,9,"Prostate
+Sreekumar","hsa00220"
+"Arginine biosynthesis","BRCATang",0.555555555555556,9,"Breast
+Tang","hsa00220"
+"beta-Alanine metabolism","KIRC",-0.0833333333333333,12,"Clear Cell
+Kidney","hsa00410"
+"beta-Alanine metabolism","OV",0.3,10,"Ovarian","hsa00410"
+"beta-Alanine metabolism","PAADHussain2",-0.222222222222222,9,"Pancreatic
+Zhang2","hsa00410"
+"beta-Alanine metabolism","PAADHussain1",-0.111111111111111,9,"Pancreatic
+Zhang1","hsa00410"
+"beta-Alanine metabolism","BRCA",0.818181818181818,11,"Breast
+Terunuma","hsa00410"
+"beta-Alanine metabolism","BLCA",0.5,6,"Bladder","hsa00410"
+"beta-Alanine metabolism","PRADLODA",0,12,"Prostate
+Priolo","hsa00410"
+"beta-Alanine metabolism","PRAD",0.444444444444444,9,"Prostate
+Sreekumar","hsa00410"
+"beta-Alanine metabolism","BRCATang",0.9,10,"Breast
+Tang","hsa00410"
+"beta-Alanine metabolism","PAAD",0,6,"Pancreatic
+Kamphorst","hsa00410"
+"Biosynthesis of unsaturated fatty acids","BRCA",1,14,"Breast
+Terunuma","hsa01040"
+"Biosynthesis of unsaturated fatty acids","OV",0.125,16,"Ovarian","hsa01040"
+"Biosynthesis of unsaturated fatty acids","PRAD",1,4,"Prostate
+Sreekumar","hsa01040"
+"Biosynthesis of unsaturated fatty acids","BLCA",0.5,2,"Bladder","hsa01040"
+"Biosynthesis of unsaturated fatty acids","KIRC",0.470588235294118,17,"Clear Cell
+Kidney","hsa01040"
+"Biosynthesis of unsaturated fatty acids","BRCATang",0.642857142857143,14,"Breast
+Tang","hsa01040"
+"Biosynthesis of unsaturated fatty acids","PAAD",NA,0,"Pancreatic
+Kamphorst","hsa01040"
+"Biosynthesis of unsaturated fatty acids","PAADHussain2",-1,13,"Pancreatic
+Zhang2","hsa01040"
+"Biosynthesis of unsaturated fatty acids","PAADHussain1",-0.384615384615385,13,"Pancreatic
+Zhang1","hsa01040"
+"Biosynthesis of unsaturated fatty acids","PRADLODA",0.5,14,"Prostate
+Priolo","hsa01040"
+"Butanoate metabolism","KIRC",0.285714285714286,7,"Clear Cell
+Kidney","hsa00650"
+"Butanoate metabolism","PRAD",0.5,4,"Prostate
+Sreekumar","hsa00650"
+"Butanoate metabolism","BRCA",0.777777777777778,9,"Breast
+Terunuma","hsa00650"
+"Butanoate metabolism","BLCA",NA,0,"Bladder","hsa00650"
+"Butanoate metabolism","PAADHussain1",0,8,"Pancreatic
+Zhang1","hsa00650"
+"Butanoate metabolism","PRADLODA",0,9,"Prostate
+Priolo","hsa00650"
+"Butanoate metabolism","PAADHussain2",0,6,"Pancreatic
+Zhang2","hsa00650"
+"Butanoate metabolism","PAAD",0,7,"Pancreatic
+Kamphorst","hsa00650"
+"Butanoate metabolism","OV",0.444444444444444,9,"Ovarian","hsa00650"
+"Butanoate metabolism","BRCATang",1,7,"Breast
+Tang","hsa00650"
+"Citrate cycle (TCA cycle)","PRAD",0,7,"Prostate
+Sreekumar","hsa00020"
+"Citrate cycle (TCA cycle)","KIRC",0,6,"Clear Cell
+Kidney","hsa00020"
+"Citrate cycle (TCA cycle)","PAAD",0,10,"Pancreatic
+Kamphorst","hsa00020"
+"Citrate cycle (TCA cycle)","PAADHussain1",0.166666666666667,6,"Pancreatic
+Zhang1","hsa00020"
+"Citrate cycle (TCA cycle)","PRADLODA",-0.375,8,"Prostate
+Priolo","hsa00020"
+"Citrate cycle (TCA cycle)","BRCATang",0.75,4,"Breast
+Tang","hsa00020"
+"Citrate cycle (TCA cycle)","BRCA",0.714285714285714,7,"Breast
+Terunuma","hsa00020"
+"Citrate cycle (TCA cycle)","OV",0.285714285714286,7,"Ovarian","hsa00020"
+"Citrate cycle (TCA cycle)","BLCA",NA,0,"Bladder","hsa00020"
+"Citrate cycle (TCA cycle)","PAADHussain2",-0.25,4,"Pancreatic
+Zhang2","hsa00020"
+"Cyanoamino acid metabolism","KIRC",-0.888888888888889,9,"Clear Cell
+Kidney","hsa00460"
+"Cyanoamino acid metabolism","BRCA",1,9,"Breast
+Terunuma","hsa00460"
+"Cyanoamino acid metabolism","PAADHussain1",-0.111111111111111,9,"Pancreatic
+Zhang1","hsa00460"
+"Cyanoamino acid metabolism","PRAD",0.777777777777778,9,"Prostate
+Sreekumar","hsa00460"
+"Cyanoamino acid metabolism","BLCA",0.5,6,"Bladder","hsa00460"
+"Cyanoamino acid metabolism","OV",0,9,"Ovarian","hsa00460"
+"Cyanoamino acid metabolism","PAAD",-0.125,8,"Pancreatic
+Kamphorst","hsa00460"
+"Cyanoamino acid metabolism","BRCATang",1,9,"Breast
+Tang","hsa00460"
+"Cyanoamino acid metabolism","PAADHussain2",-0.111111111111111,9,"Pancreatic
+Zhang2","hsa00460"
+"Cyanoamino acid metabolism","PRADLODA",0,9,"Prostate
+Priolo","hsa00460"
+"Cysteine and methionine metabolism","KIRC",0.0833333333333333,12,"Clear Cell
+Kidney","hsa00270"
+"Cysteine and methionine metabolism","BRCA",0.8,15,"Breast
+Terunuma","hsa00270"
+"Cysteine and methionine metabolism","PAADHussain1",0,11,"Pancreatic
+Zhang1","hsa00270"
+"Cysteine and methionine metabolism","OV",0,11,"Ovarian","hsa00270"
+"Cysteine and methionine metabolism","PAAD",-0.0909090909090909,11,"Pancreatic
+Kamphorst","hsa00270"
+"Cysteine and methionine metabolism","PRAD",0.545454545454545,11,"Prostate
+Sreekumar","hsa00270"
+"Cysteine and methionine metabolism","BLCA",0.142857142857143,7,"Bladder","hsa00270"
+"Cysteine and methionine metabolism","BRCATang",0.818181818181818,11,"Breast
+Tang","hsa00270"
+"Cysteine and methionine metabolism","PAADHussain2",-0.181818181818182,11,"Pancreatic
+Zhang2","hsa00270"
+"Cysteine and methionine metabolism","PRADLODA",0,10,"Prostate
+Priolo","hsa00270"
+"Fatty acid biosynthesis","KIRC",0.125,8,"Clear Cell
+Kidney","hsa00061"
+"Fatty acid biosynthesis","PRADLODA",0,5,"Prostate
+Priolo","hsa00061"
+"Fatty acid biosynthesis","PAAD",0,1,"Pancreatic
+Kamphorst","hsa00061"
+"Fatty acid biosynthesis","PAADHussain1",-0.75,8,"Pancreatic
+Zhang1","hsa00061"
+"Fatty acid biosynthesis","OV",0.125,8,"Ovarian","hsa00061"
+"Fatty acid biosynthesis","BLCA",0.333333333333333,3,"Bladder","hsa00061"
+"Fatty acid biosynthesis","BRCATang",-0.5,8,"Breast
+Tang","hsa00061"
+"Fatty acid biosynthesis","PAADHussain2",-0.875,8,"Pancreatic
+Zhang2","hsa00061"
+"Fatty acid biosynthesis","BRCA",1,6,"Breast
+Terunuma","hsa00061"
+"Fatty acid biosynthesis","PRAD",1,5,"Prostate
+Sreekumar","hsa00061"
+"Fructose and mannose metabolism","PAADHussain1",0,7,"Pancreatic
+Zhang1","hsa00051"
+"Fructose and mannose metabolism","PAAD",0.333333333333333,3,"Pancreatic
+Kamphorst","hsa00051"
+"Fructose and mannose metabolism","OV",0.222222222222222,9,"Ovarian","hsa00051"
+"Fructose and mannose metabolism","BRCA",1,9,"Breast
+Terunuma","hsa00051"
+"Fructose and mannose metabolism","KIRC",0.9,10,"Clear Cell
+Kidney","hsa00051"
+"Fructose and mannose metabolism","BRCATang",0.444444444444444,9,"Breast
+Tang","hsa00051"
+"Fructose and mannose metabolism","PRAD",0.142857142857143,7,"Prostate
+Sreekumar","hsa00051"
+"Fructose and mannose metabolism","PAADHussain2",-0.111111111111111,9,"Pancreatic
+Zhang2","hsa00051"
+"Fructose and mannose metabolism","BLCA",NA,0,"Bladder","hsa00051"
+"Fructose and mannose metabolism","PRADLODA",0.111111111111111,9,"Prostate
+Priolo","hsa00051"
+"Galactose metabolism","OV",0,9,"Ovarian","hsa00052"
+"Galactose metabolism","BRCA",0.875,8,"Breast
+Terunuma","hsa00052"
+"Galactose metabolism","PAADHussain1",-0.125,8,"Pancreatic
+Zhang1","hsa00052"
+"Galactose metabolism","PAAD",0.25,4,"Pancreatic
+Kamphorst","hsa00052"
+"Galactose metabolism","BRCATang",0.428571428571429,7,"Breast
+Tang","hsa00052"
+"Galactose metabolism","PRAD",0,6,"Prostate
+Sreekumar","hsa00052"
+"Galactose metabolism","PAADHussain2",-0.428571428571429,7,"Pancreatic
+Zhang2","hsa00052"
+"Galactose metabolism","KIRC",0.555555555555556,9,"Clear Cell
+Kidney","hsa00052"
+"Galactose metabolism","PRADLODA",-0.125,8,"Prostate
+Priolo","hsa00052"
+"Galactose metabolism","BLCA",NA,0,"Bladder","hsa00052"
+"Glutathione metabolism","PAADHussain2",0.0909090909090909,11,"Pancreatic
+Zhang2","hsa00480"
+"Glutathione metabolism","BRCA",0.818181818181818,11,"Breast
+Terunuma","hsa00480"
+"Glutathione metabolism","PRADLODA",0,12,"Prostate
+Priolo","hsa00480"
+"Glutathione metabolism","PRAD",0,10,"Prostate
+Sreekumar","hsa00480"
+"Glutathione metabolism","PAAD",0,9,"Pancreatic
+Kamphorst","hsa00480"
+"Glutathione metabolism","PAADHussain1",-0.0909090909090909,11,"Pancreatic
+Zhang1","hsa00480"
+"Glutathione metabolism","OV",0,13,"Ovarian","hsa00480"
+"Glutathione metabolism","BLCA",1,2,"Bladder","hsa00480"
+"Glutathione metabolism","KIRC",0.461538461538462,13,"Clear Cell
+Kidney","hsa00480"
+"Glutathione metabolism","BRCATang",0.818181818181818,11,"Breast
+Tang","hsa00480"
+"Glycerolipid metabolism","KIRC",-0.666666666666667,6,"Clear Cell
+Kidney","hsa00561"
+"Glycerolipid metabolism","PAADHussain1",-0.333333333333333,6,"Pancreatic
+Zhang1","hsa00561"
+"Glycerolipid metabolism","PRAD",0.75,4,"Prostate
+Sreekumar","hsa00561"
+"Glycerolipid metabolism","PAADHussain2",-0.5,6,"Pancreatic
+Zhang2","hsa00561"
+"Glycerolipid metabolism","BLCA",NA,0,"Bladder","hsa00561"
+"Glycerolipid metabolism","OV",0,5,"Ovarian","hsa00561"
+"Glycerolipid metabolism","BRCA",0.833333333333333,6,"Breast
+Terunuma","hsa00561"
+"Glycerolipid metabolism","PAAD",0,5,"Pancreatic
+Kamphorst","hsa00561"
+"Glycerolipid metabolism","PRADLODA",0.2,5,"Prostate
+Priolo","hsa00561"
+"Glycerolipid metabolism","BRCATang",0.5,4,"Breast
+Tang","hsa00561"
+"Glycerophospholipid metabolism","PAADHussain1",-0.142857142857143,7,"Pancreatic
+Zhang1","hsa00564"
+"Glycerophospholipid metabolism","BLCA",NA,0,"Bladder","hsa00564"
+"Glycerophospholipid metabolism","PAAD",-0.2,5,"Pancreatic
+Kamphorst","hsa00564"
+"Glycerophospholipid metabolism","OV",0.222222222222222,9,"Ovarian","hsa00564"
+"Glycerophospholipid metabolism","PAADHussain2",-0.5,8,"Pancreatic
+Zhang2","hsa00564"
+"Glycerophospholipid metabolism","BRCA",0.875,8,"Breast
+Terunuma","hsa00564"
+"Glycerophospholipid metabolism","PRADLODA",0.3,10,"Prostate
+Priolo","hsa00564"
+"Glycerophospholipid metabolism","PRAD",0.666666666666667,3,"Prostate
+Sreekumar","hsa00564"
+"Glycerophospholipid metabolism","KIRC",-0.333333333333333,9,"Clear Cell
+Kidney","hsa00564"
+"Glycerophospholipid metabolism","BRCATang",1,9,"Breast
+Tang","hsa00564"
+"Glycine, serine and threonine metabolism","PAADHussain1",0,14,"Pancreatic
+Zhang1","hsa00260"
+"Glycine, serine and threonine metabolism","PRADLODA",-0.0769230769230769,13,"Prostate
+Priolo","hsa00260"
+"Glycine, serine and threonine metabolism","PRAD",0.7,10,"Prostate
+Sreekumar","hsa00260"
+"Glycine, serine and threonine metabolism","PAAD",-0.133333333333333,15,"Pancreatic
+Kamphorst","hsa00260"
+"Glycine, serine and threonine metabolism","BRCATang",0.909090909090909,11,"Breast
+Tang","hsa00260"
+"Glycine, serine and threonine metabolism","OV",0.0666666666666667,15,"Ovarian","hsa00260"
+"Glycine, serine and threonine metabolism","BLCA",0.222222222222222,9,"Bladder","hsa00260"
+"Glycine, serine and threonine metabolism","KIRC",-0.444444444444444,18,"Clear Cell
+Kidney","hsa00260"
+"Glycine, serine and threonine metabolism","PAADHussain2",-0.230769230769231,13,"Pancreatic
+Zhang2","hsa00260"
+"Glycine, serine and threonine metabolism","BRCA",0.933333333333333,15,"Breast
+Terunuma","hsa00260"
+"Glycolysis / Gluconeogenesis","KIRC",0.25,8,"Clear Cell
+Kidney","hsa00010"
+"Glycolysis / Gluconeogenesis","BRCATang",0.5,4,"Breast
+Tang","hsa00010"
+"Glycolysis / Gluconeogenesis","BRCA",0.857142857142857,7,"Breast
+Terunuma","hsa00010"
+"Glycolysis / Gluconeogenesis","OV",0.111111111111111,9,"Ovarian","hsa00010"
+"Glycolysis / Gluconeogenesis","PAADHussain1",0.142857142857143,7,"Pancreatic
+Zhang1","hsa00010"
+"Glycolysis / Gluconeogenesis","PRADLODA",0,6,"Prostate
+Priolo","hsa00010"
+"Glycolysis / Gluconeogenesis","PRAD",0.2,5,"Prostate
+Sreekumar","hsa00010"
+"Glycolysis / Gluconeogenesis","BLCA",NA,0,"Bladder","hsa00010"
+"Glycolysis / Gluconeogenesis","PAAD",0.111111111111111,9,"Pancreatic
+Kamphorst","hsa00010"
+"Glycolysis / Gluconeogenesis","PAADHussain2",0.4,5,"Pancreatic
+Zhang2","hsa00010"
+"Glyoxylate and dicarboxylate metabolism","PRAD",0.166666666666667,12,"Prostate
+Sreekumar","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","KIRC",-0.153846153846154,13,"Clear Cell
+Kidney","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","PRADLODA",-0.307692307692308,13,"Prostate
+Priolo","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","BRCA",0.727272727272727,11,"Breast
+Terunuma","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","BLCA",1,1,"Bladder","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","PAADHussain1",0.166666666666667,12,"Pancreatic
+Zhang1","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","OV",0.166666666666667,12,"Ovarian","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","BRCATang",0.555555555555556,9,"Breast
+Tang","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","PAADHussain2",-0.111111111111111,9,"Pancreatic
+Zhang2","hsa00630"
+"Glyoxylate and dicarboxylate metabolism","PAAD",-0.142857142857143,14,"Pancreatic
+Kamphorst","hsa00630"
+"Histidine metabolism","PAADHussain1",-0.142857142857143,7,"Pancreatic
+Zhang1","hsa00340"
+"Histidine metabolism","PAADHussain2",-0.285714285714286,7,"Pancreatic
+Zhang2","hsa00340"
+"Histidine metabolism","OV",0,7,"Ovarian","hsa00340"
+"Histidine metabolism","PRADLODA",-0.111111111111111,9,"Prostate
+Priolo","hsa00340"
+"Histidine metabolism","PRAD",0.5,6,"Prostate
+Sreekumar","hsa00340"
+"Histidine metabolism","BRCA",0.571428571428571,7,"Breast
+Terunuma","hsa00340"
+"Histidine metabolism","BLCA",0.333333333333333,3,"Bladder","hsa00340"
+"Histidine metabolism","KIRC",-0.333333333333333,9,"Clear Cell
+Kidney","hsa00340"
+"Histidine metabolism","PAAD",0,4,"Pancreatic
+Kamphorst","hsa00340"
+"Histidine metabolism","BRCATang",0.625,8,"Breast
+Tang","hsa00340"
+"Lysine degradation","OV",0.222222222222222,9,"Ovarian","hsa00310"
+"Lysine degradation","PAADHussain1",-0.25,8,"Pancreatic
+Zhang1","hsa00310"
+"Lysine degradation","BLCA",0.666666666666667,3,"Bladder","hsa00310"
+"Lysine degradation","KIRC",0.0909090909090909,11,"Clear Cell
+Kidney","hsa00310"
+"Lysine degradation","PRAD",0.428571428571429,7,"Prostate
+Sreekumar","hsa00310"
+"Lysine degradation","PAADHussain2",-0.142857142857143,7,"Pancreatic
+Zhang2","hsa00310"
+"Lysine degradation","BRCATang",0.75,8,"Breast
+Tang","hsa00310"
+"Lysine degradation","BRCA",0.875,8,"Breast
+Terunuma","hsa00310"
+"Lysine degradation","PAAD",0,6,"Pancreatic
+Kamphorst","hsa00310"
+"Lysine degradation","PRADLODA",0.111111111111111,9,"Prostate
+Priolo","hsa00310"
+"Nicotinate and nicotinamide metabolism","KIRC",-0.583333333333333,12,"Clear Cell
+Kidney","hsa00760"
+"Nicotinate and nicotinamide metabolism","OV",0.25,8,"Ovarian","hsa00760"
+"Nicotinate and nicotinamide metabolism","PRADLODA",0,9,"Prostate
+Priolo","hsa00760"
+"Nicotinate and nicotinamide metabolism","PAAD",0.111111111111111,9,"Pancreatic
+Kamphorst","hsa00760"
+"Nicotinate and nicotinamide metabolism","PAADHussain2",-0.5,6,"Pancreatic
+Zhang2","hsa00760"
+"Nicotinate and nicotinamide metabolism","PAADHussain1",-0.285714285714286,7,"Pancreatic
+Zhang1","hsa00760"
+"Nicotinate and nicotinamide metabolism","BLCA",1,1,"Bladder","hsa00760"
+"Nicotinate and nicotinamide metabolism","BRCA",0.777777777777778,9,"Breast
+Terunuma","hsa00760"
+"Nicotinate and nicotinamide metabolism","PRAD",0.5,6,"Prostate
+Sreekumar","hsa00760"
+"Nicotinate and nicotinamide metabolism","BRCATang",0.833333333333333,6,"Breast
+Tang","hsa00760"
+"Pantothenate and CoA biosynthesis","BLCA",0.25,4,"Bladder","hsa00770"
+"Pantothenate and CoA biosynthesis","PAADHussain2",-0.125,8,"Pancreatic
+Zhang2","hsa00770"
+"Pantothenate and CoA biosynthesis","BRCA",0.888888888888889,9,"Breast
+Terunuma","hsa00770"
+"Pantothenate and CoA biosynthesis","PAAD",0.166666666666667,6,"Pancreatic
+Kamphorst","hsa00770"
+"Pantothenate and CoA biosynthesis","KIRC",-0.333333333333333,9,"Clear Cell
+Kidney","hsa00770"
+"Pantothenate and CoA biosynthesis","PRAD",0.714285714285714,7,"Prostate
+Sreekumar","hsa00770"
+"Pantothenate and CoA biosynthesis","BRCATang",0.888888888888889,9,"Breast
+Tang","hsa00770"
+"Pantothenate and CoA biosynthesis","OV",0.25,8,"Ovarian","hsa00770"
+"Pantothenate and CoA biosynthesis","PAADHussain1",0,9,"Pancreatic
+Zhang1","hsa00770"
+"Pantothenate and CoA biosynthesis","PRADLODA",0,10,"Prostate
+Priolo","hsa00770"
+"Pentose and glucuronate interconversions","PAADHussain1",0,3,"Pancreatic
+Zhang1","hsa00040"
+"Pentose and glucuronate interconversions","BLCA",NA,0,"Bladder","hsa00040"
+"Pentose and glucuronate interconversions","PAADHussain2",0,9,"Pancreatic
+Zhang2","hsa00040"
+"Pentose and glucuronate interconversions","PRAD",0.333333333333333,3,"Prostate
+Sreekumar","hsa00040"
+"Pentose and glucuronate interconversions","BRCATang",0.857142857142857,7,"Breast
+Tang","hsa00040"
+"Pentose and glucuronate interconversions","BRCA",0.777777777777778,9,"Breast
+Terunuma","hsa00040"
+"Pentose and glucuronate interconversions","OV",0,11,"Ovarian","hsa00040"
+"Pentose and glucuronate interconversions","KIRC",0,10,"Clear Cell
+Kidney","hsa00040"
+"Pentose and glucuronate interconversions","PAAD",0.166666666666667,6,"Pancreatic
+Kamphorst","hsa00040"
+"Pentose and glucuronate interconversions","PRADLODA",0.125,8,"Prostate
+Priolo","hsa00040"
+"Pentose phosphate pathway","KIRC",0.1,10,"Clear Cell
+Kidney","hsa00030"
+"Pentose phosphate pathway","BRCATang",0.625,8,"Breast
+Tang","hsa00030"
+"Pentose phosphate pathway","PAAD",0,9,"Pancreatic
+Kamphorst","hsa00030"
+"Pentose phosphate pathway","PAADHussain1",0.0909090909090909,11,"Pancreatic
+Zhang1","hsa00030"
+"Pentose phosphate pathway","BLCA",NA,0,"Bladder","hsa00030"
+"Pentose phosphate pathway","PRADLODA",-0.111111111111111,9,"Prostate
+Priolo","hsa00030"
+"Pentose phosphate pathway","OV",-0.1,10,"Ovarian","hsa00030"
+"Pentose phosphate pathway","PAADHussain2",0.111111111111111,9,"Pancreatic
+Zhang2","hsa00030"
+"Pentose phosphate pathway","BRCA",0.9,10,"Breast
+Terunuma","hsa00030"
+"Pentose phosphate pathway","PRAD",0.166666666666667,6,"Prostate
+Sreekumar","hsa00030"
+"Phenylalanine metabolism","KIRC",-0.7,10,"Clear Cell
+Kidney","hsa00360"
+"Phenylalanine metabolism","BRCA",0.666666666666667,12,"Breast
+Terunuma","hsa00360"
+"Phenylalanine metabolism","PAADHussain1",0,10,"Pancreatic
+Zhang1","hsa00360"
+"Phenylalanine metabolism","OV",0.3,10,"Ovarian","hsa00360"
+"Phenylalanine metabolism","PRAD",0.6,5,"Prostate
+Sreekumar","hsa00360"
+"Phenylalanine metabolism","BLCA",0.25,4,"Bladder","hsa00360"
+"Phenylalanine metabolism","PAAD",0,7,"Pancreatic
+Kamphorst","hsa00360"
+"Phenylalanine metabolism","PAADHussain2",-0.166666666666667,6,"Pancreatic
+Zhang2","hsa00360"
+"Phenylalanine metabolism","PRADLODA",0,8,"Prostate
+Priolo","hsa00360"
+"Phenylalanine metabolism","BRCATang",0.444444444444444,9,"Breast
+Tang","hsa00360"
+"Purine metabolism","PAADHussain1",0,17,"Pancreatic
+Zhang1","hsa00230"
+"Purine metabolism","KIRC",-0.352941176470588,17,"Clear Cell
+Kidney","hsa00230"
+"Purine metabolism","OV",0.1875,16,"Ovarian","hsa00230"
+"Purine metabolism","PAADHussain2",-0.105263157894737,19,"Pancreatic
+Zhang2","hsa00230"
+"Purine metabolism","PAAD",0.05,20,"Pancreatic
+Kamphorst","hsa00230"
+"Purine metabolism","PRAD",0.25,12,"Prostate
+Sreekumar","hsa00230"
+"Purine metabolism","BRCA",0.882352941176471,17,"Breast
+Terunuma","hsa00230"
+"Purine metabolism","BLCA",-0.25,4,"Bladder","hsa00230"
+"Purine metabolism","BRCATang",0.631578947368421,19,"Breast
+Tang","hsa00230"
+"Purine metabolism","PRADLODA",-0.333333333333333,18,"Prostate
+Priolo","hsa00230"
+"Pyrimidine metabolism","KIRC",-0.285714285714286,14,"Clear Cell
+Kidney","hsa00240"
+"Pyrimidine metabolism","PAADHussain2",-0.181818181818182,11,"Pancreatic
+Zhang2","hsa00240"
+"Pyrimidine metabolism","PAADHussain1",-0.214285714285714,14,"Pancreatic
+Zhang1","hsa00240"
+"Pyrimidine metabolism","PAAD",-0.153846153846154,13,"Pancreatic
+Kamphorst","hsa00240"
+"Pyrimidine metabolism","OV",0.272727272727273,11,"Ovarian","hsa00240"
+"Pyrimidine metabolism","BRCA",0.909090909090909,11,"Breast
+Terunuma","hsa00240"
+"Pyrimidine metabolism","BLCA",0,3,"Bladder","hsa00240"
+"Pyrimidine metabolism","BRCATang",0.545454545454545,11,"Breast
+Tang","hsa00240"
+"Pyrimidine metabolism","PRADLODA",-0.0909090909090909,11,"Prostate
+Priolo","hsa00240"
+"Pyrimidine metabolism","PRAD",0.555555555555556,9,"Prostate
+Sreekumar","hsa00240"
+"Pyruvate metabolism","BLCA",NA,0,"Bladder","hsa00620"
+"Pyruvate metabolism","PAADHussain2",0,5,"Pancreatic
+Zhang2","hsa00620"
+"Pyruvate metabolism","BRCA",0.833333333333333,6,"Breast
+Terunuma","hsa00620"
+"Pyruvate metabolism","PAADHussain1",0,5,"Pancreatic
+Zhang1","hsa00620"
+"Pyruvate metabolism","PRAD",0.6,5,"Prostate
+Sreekumar","hsa00620"
+"Pyruvate metabolism","PAAD",0,7,"Pancreatic
+Kamphorst","hsa00620"
+"Pyruvate metabolism","BRCATang",0.8,5,"Breast
+Tang","hsa00620"
+"Pyruvate metabolism","OV",0.428571428571429,7,"Ovarian","hsa00620"
+"Pyruvate metabolism","KIRC",-0.333333333333333,6,"Clear Cell
+Kidney","hsa00620"
+"Pyruvate metabolism","PRADLODA",0,5,"Prostate
+Priolo","hsa00620"
+"Starch and sucrose metabolism","PRADLODA",-0.2,5,"Prostate
+Priolo","hsa00500"
+"Starch and sucrose metabolism","PAADHussain2",0,7,"Pancreatic
+Zhang2","hsa00500"
+"Starch and sucrose metabolism","KIRC",0.555555555555556,9,"Clear Cell
+Kidney","hsa00500"
+"Starch and sucrose metabolism","PRAD",-0.333333333333333,3,"Prostate
+Sreekumar","hsa00500"
+"Starch and sucrose metabolism","BLCA",NA,0,"Bladder","hsa00500"
+"Starch and sucrose metabolism","PAADHussain1",0,5,"Pancreatic
+Zhang1","hsa00500"
+"Starch and sucrose metabolism","OV",0,7,"Ovarian","hsa00500"
+"Starch and sucrose metabolism","PAAD",0,6,"Pancreatic
+Kamphorst","hsa00500"
+"Starch and sucrose metabolism","BRCA",0.875,8,"Breast
+Terunuma","hsa00500"
+"Starch and sucrose metabolism","BRCATang",0.714285714285714,7,"Breast
+Tang","hsa00500"
+"Taurine and hypotaurine metabolism","PAADHussain1",0.285714285714286,7,"Pancreatic
+Zhang1","hsa00430"
+"Taurine and hypotaurine metabolism","BLCA",0,2,"Bladder","hsa00430"
+"Taurine and hypotaurine metabolism","OV",0,10,"Ovarian","hsa00430"
+"Taurine and hypotaurine metabolism","PAADHussain2",0.166666666666667,6,"Pancreatic
+Zhang2","hsa00430"
+"Taurine and hypotaurine metabolism","BRCA",0.571428571428571,7,"Breast
+Terunuma","hsa00430"
+"Taurine and hypotaurine metabolism","KIRC",0.2,5,"Clear Cell
+Kidney","hsa00430"
+"Taurine and hypotaurine metabolism","PAAD",0.142857142857143,7,"Pancreatic
+Kamphorst","hsa00430"
+"Taurine and hypotaurine metabolism","PRAD",0.333333333333333,6,"Prostate
+Sreekumar","hsa00430"
+"Taurine and hypotaurine metabolism","PRADLODA",-0.142857142857143,7,"Prostate
+Priolo","hsa00430"
+"Taurine and hypotaurine metabolism","BRCATang",1,5,"Breast
+Tang","hsa00430"
+"Tyrosine metabolism","PAADHussain1",0,7,"Pancreatic
+Zhang1","hsa00350"
+"Tyrosine metabolism","OV",0.375,8,"Ovarian","hsa00350"
+"Tyrosine metabolism","PRADLODA",0,5,"Prostate
+Priolo","hsa00350"
+"Tyrosine metabolism","PRAD",0.666666666666667,3,"Prostate
+Sreekumar","hsa00350"
+"Tyrosine metabolism","PAADHussain2",0,5,"Pancreatic
+Zhang2","hsa00350"
+"Tyrosine metabolism","BLCA",0,1,"Bladder","hsa00350"
+"Tyrosine metabolism","KIRC",-0.375,8,"Clear Cell
+Kidney","hsa00350"
+"Tyrosine metabolism","PAAD",0,4,"Pancreatic
+Kamphorst","hsa00350"
+"Tyrosine metabolism","BRCA",0.833333333333333,6,"Breast
+Terunuma","hsa00350"
+"Tyrosine metabolism","BRCATang",0.6,5,"Breast
+Tang","hsa00350"
+"Valine, leucine and isoleucine biosynthesis","PAADHussain1",0.125,8,"Pancreatic
+Zhang1","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","KIRC",-0.714285714285714,7,"Clear Cell
+Kidney","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","BLCA",-0.333333333333333,3,"Bladder","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","OV",0,7,"Ovarian","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","PRADLODA",0,5,"Prostate
+Priolo","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","PAADHussain2",0,6,"Pancreatic
+Zhang2","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","BRCA",0.875,8,"Breast
+Terunuma","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","PAAD",0.25,4,"Pancreatic
+Kamphorst","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","PRAD",1,5,"Prostate
+Sreekumar","hsa00290"
+"Valine, leucine and isoleucine biosynthesis","BRCATang",0.333333333333333,6,"Breast
+Tang","hsa00290"

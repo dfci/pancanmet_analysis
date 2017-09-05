@@ -68,13 +68,14 @@ for (metname in ccmmetabolites){
     ggplot(dplot,aes(variable,value)) + geom_bar(stat = 'identity',aes(fill = Tissue)) + new_theme_empty + 
       geom_bar(data = zerodata,stat = 'identity',aes(x = variable,y = .35,color = Tissue,fill = 'none'),size = 10) +
       geom_bar(data = zerodata,stat = 'identity',aes(x = variable,y = -.35, color = Tissue,fill = 'none'),size = 10) +
-      scale_fill_manual(values = tissuecols) + theme(legend.position = 'none') + 
-      scale_color_manual(values = tissuecols) + 
+      scale_fill_manual(values = sourcetissue_color) + theme(legend.position = 'none') + 
+      scale_color_manual(values = sourcetissue_color) + 
       geom_hline(yintercept = 0,size = 6) + ylim(-1,1) + 
       ggsave(paste0('../results/barplots_bymetabolite/',metname,'.pdf'))
   }else{
     ggplot(dplot,aes(variable,value,fill = Tissue)) + geom_bar(stat = 'identity') + new_theme_empty + 
-      scale_fill_manual(values = tissuecols) + theme(legend.position = 'none') + 
+      scale_fill_manual(values = sourcetissue_color) + theme(legend.position = 'none') + 
+      scale_color_manual(values = sourcetissue_color) +
       geom_hline(yintercept = 0,size = 6) + ylim(-1,1) + 
       ggsave(paste0('../results/barplots_bymetabolite/',metname,'.pdf'))
 }

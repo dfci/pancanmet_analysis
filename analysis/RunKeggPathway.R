@@ -2,8 +2,9 @@
 
 rm(list = ls())
 setwd('/Users/ereznik/pancanmet_analysis/analysis/')
+source('plottingconventions.R')
 library(ggplot2)
-library(reshape)
+library(reshape2)
 
 # User parameters
 minmet = 5 # The minimum number of metabolites in a pathway required for it to be plotted in the summary figure for the study
@@ -95,9 +96,10 @@ mergebig = bigdata_melt
 colnames(mergebig) = c('Pathway','Study','DA')
 mergebig$Size = bigsize_melt[rownames(mergebig),3]
 mergebig$Pathway = factor(mergebig$Pathway,levels = rev(names(pathrank)[order(pathrank)]) )
+mergebig$Study2Write = names2plot[as.character(mergebig$Study)]
 
 # Plot
-ggplot(mergebig, aes(Study,Pathway,color = DA, size = Size)) + geom_point(shape=19) +
+ggplot(mergebig, aes(Study2Write,Pathway,color = DA, size = Size)) + geom_point(shape=19) +
   theme_bw() + geom_point(data = subset(mergebig,DA == 0),aes(size = Size),color = 'grey50',shape = 1)+ 
   geom_point(data = subset(mergebig,Size == 0),shape =4,color = 'grey50',size = 5) +
   theme(panel.border = element_blank(), 
@@ -108,4 +110,13 @@ ggplot(mergebig, aes(Study,Pathway,color = DA, size = Size)) + geom_point(shape=
   scale_colour_gradient2(low = 'blue', high ='red',  midpoint = 0,name = 'Differential\nAbundance\nScore') +
   ylim(rev(levels(mergebig$Pathway))) + theme(legend.position="bottom",legend.key = element_blank()) + 
   ggsave('../results/pathway/AllPathway.pdf',height = 10,width = 10,useDingbats = FALSE)
+
+# Add KEGG pathway IDs to mergebig 
+load("../data/KEGGpathays.RData")
+keggIds <- sub("path:", "", names(hsapathways))
+keggNames <- sub(" - Homo sapiens \\(human\\)", "", hsapathways)
+hsapathwaysDf <- data.frame(keggIds=keggIds, keggNames=keggNames, stringsAsFactors=FALSE)
+diffAbundanceBig <- merge(mergebig, hsapathwaysDf, by.x="Pathway", by.y="keggNames")
+colnames(diffAbundanceBig) <- c("Pathway", "Study", "DifferentialAbundance", "PathwaySize", "KEGGID")
+write.csv(diffAbundanceBig,'../results/pathway/AllPathway_diffAbundanceBig.csv', row.names = FALSE)
 

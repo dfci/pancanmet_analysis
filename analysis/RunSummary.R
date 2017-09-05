@@ -122,3 +122,18 @@ text(y=labelCoordinates[2, ], x=allSampleCounts["Normal", ] + 1, pos=4, labels=p
 par(oldPar);
 
 tmp <- dev.off();
+
+##########
+# Calculate the number of samples used for each analysis
+# For figure 3, tumor/normal analysis, subtract lgg
+fig3samples = hugeCancers[which(hugeCancers != 'Glioma')]
+fig3normal = which(sampleTypes == 'Normal') #all normals used in fig3
+fig3tumor = length(fig3samples) - length(fig3normal)
+
+pairs = read.csv('../data/merged_metabolomics/tumor_normal_pairs.csv',header = TRUE)
+fig4c = dim(pairs)[1] #number of tumor/normal pairs
+
+fig5 = dim(clinical)[1]
+print(table(clinical$type))
+
+figSIMAD = 

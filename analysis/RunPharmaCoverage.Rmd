@@ -1,0 +1,325 @@
+---
+title: "Pharmacology Coverage Analysis"
+output:
+  html_notebook: default
+---
+
+## Purpose
+
+To see how many enzymes making use of metabolites in the study are targetable by drugs: 
+
+```{r knitrSetup, include=FALSE}
+library(knitr)
+opts_chunk$set(out.extra='style="display:block; margin: auto"', fig.align="center", tidy=FALSE)
+```
+
+# Setup
+
+```{r loadPackages}
+library(paxtoolsr)
+library(data.table)
+
+verbose <- TRUE
+```
+
+## Load Data
+
+```{r loadData}
+keggSif <- downloadPc2("PathwayCommons.8.kegg.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+keggNodes <- keggSif$nodes
+
+dbSif <- downloadPc2("PathwayCommons.8.drugbank.EXTENDED_BINARY_SIF.hgnc.txt.gz", version = "8")
+dbNodes <- dbSif$nodes
+```
+
+## Load Local Data
+
+```{r loadLocalData}
+# KEGG IDs for pathways
+load(file.path("..", "data", "KEGGpathays.RData"))
+
+# KEGG IDs found in dataset
+keggIds <- read.table(file.path("..", "import", "tempdir", "KEGG_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+chebiIds <- read.table(file.path("..", "import", "tempdir", "ChEBI_dictionary.csv"), sep=",", header=TRUE, stringsAsFactors = FALSE)
+
+idx <- which(chebiIds$X %in% keggNodes$PARTICIPANT)
+length(idx)
+```
+
+# Pharmacology
+## Get genes in KEGG
+```{r}
+tmp <- chebiIds$X[idx]
+intCats <- getSifInteractionCategories()
+
+# Selected PC interactions
+selIntCats <- c("consumption-controlled-by", "controls-production-of", "controls-transport-of-chemical")
+#selIntCats <- c("consumption-controlled-by")
+
+#keggSmMolSif <- filterSif(keggSif$edges, ids=tmp, interactionTypes=intCats$BetweenProteinSmallMolecule)
+keggSmMolSif <- filterSif(keggSif$edges, ids=tmp, interactionTypes=selIntCats)
+```
+
+## Get interactions in KEGG that involve genes present in both KEGG and DrugBank
+```{r}
+# Get gene set for KEGG interactions between proteins and small molecules (as opposed to between two proteins)
+x1 <- convertSifToGmt(keggSmMolSif, "db", returnSmallMolecules=FALSE)
+
+# Get the interactions from DrugBank based on genes from KEGG 
+tmpNodes <- dbNodes$PARTICIPANT
+x2 <- tmpNodes[tmpNodes %in% x1$db]
+x3 <- sort(unique(x2))
+#x4 <- filterSif(dbSif, ids=x3, idsBothParticipants = FALSE)
+
+# Get consumption-controlled-by interactions in KEGG that involve genes present in both KEGG and DrugBank
+# NOTE: consumption-controlled-by interactions are those that are like
+keggDbSif <- filterSif(keggSmMolSif, ids=x3, interactionTypes = selIntCats, idsBothParticipants = FALSE)
+```
+
+## Load Data on the Groups and Categories of DrugBank Data
+```{r}
+# Uses DrugBank: 5.0.3
+# Find SIF CHEBI IDs that are in the DrugBank categories table
+drugbankGroupsCategories <- readRDS(file.path("..", "data", "pharmacology_drugbank", "drugbankGroupsCategories.rds"))
+#dbIdx <- which(keggDbSif$PARTICIPANT_A %in% drugbankGroupsCategories$PARTICIPANT)
+#dbOut <- drugbankGroupsCategories[dbIdx,]
+```
+
+## Merge KEGG and DrugBank Datasets and Filter Out Particular Entries
+```{r}
+# (10) KEGG_CHEBI, KEGG_INTERACTION_TYPE, GENE, DRUGBANK_INTERACTION_TYPE, DRUGBANK_CHEBI, KEGG_NAME, DRUGBANK_NAME, DRUGBANK_CATEGORY, DRUGBANK_ID, KEGG_PATHWAY_NAMES
+# (8) KEGG_CHEBI, GENE, DRUGBANK_CHEBI, KEGG_NAME, DRUGBANK_NAME, DRUGBANK_CATEGORY, DRUGBANK_ID, KEGG_PATHWAY_NAMES
+
+nrow(keggSmMolSif)
+
+k1 <- keggSmMolSif
+drops <- c("INTERACTION_PUBMED_ID", "INTERACTION_DATA_SOURCE", "INTERACTION_TYPE", "MEDIATOR_IDS", "class")
+setDF(k1)
+k1 <- k1[, !(colnames(k1) %in% drops)]
+
+b1 <- merge(k1, dbSif$edges, by.x="PARTICIPANT_B", by.y="PARTICIPANT_B", all.x=TRUE)
+drops <- c("INTERACTION_PUBMED_ID", "INTERACTION_DATA_SOURCE", "INTERACTION_TYPE", "MEDIATOR_IDS", "PATHWAY_NAMES.y", "class")
+b1 <- b1[, !(colnames(b1) %in% drops)]
+colnames(b1) <- c("GENE", "KEGG_CHEBI", "KEGG_PATHWAY_NAMES", "DRUGBANK_CHEBI")
+nrow(b1)
+
+c1 <- merge(b1, drugbankGroupsCategories, by.x="DRUGBANK_CHEBI", by.y="PARTICIPANT", all.x=TRUE)
+c1$DRUGBANK_NAME <- c1$PARTICIPANT_NAME
+drops <- c("PARTICIPANT_NAME")
+c1 <- c1[, !(colnames(c1) %in% drops)]
+nrow(c1)
+
+d1 <- merge(c1, keggNodes, by.x="KEGG_CHEBI", by.y="PARTICIPANT", all.x=TRUE)
+drops <- c("PARTICIPANT_TYPE", "UNIFICATION_XREF", "RELATIONSHIP_XREF")
+d1 <- d1[, !(colnames(d1) %in% drops)]
+
+d1$KEGG_NAME <- d1$PARTICIPANT_NAME
+drops <- c("PARTICIPANT_NAME")
+d1 <- d1[, !(colnames(d1) %in% drops)]
+nrow(d1)
+
+cols <- c("KEGG_CHEBI", "GENE", "DRUGBANK_CHEBI", "KEGG_NAME", "DRUGBANK_NAME", "DRUGBANK_CATEGORY", "DRUGBANK_GROUPS", "DRUGBANK_ID", "KEGG_PATHWAY_NAMES")
+e1 <- d1[, cols]
+  
+# Exclude certain drug types of less interest
+excludeGroups <- c("experimental", "illicit", "nutraceutical", "withdrawn")
+f1 <- lapply(e1$DRUGBANK_GROUPS, function(x) {
+  a <- all(!(x %in% excludeGroups))
+  b <- length(x) > 0
+  c <- !(is.na(x))
+  r <- all(c(a, b, c))
+})
+f2 <- unlist(f1)
+f4 <- e1[f2,]
+nrow(f4)
+
+# Include only certain drug categories of interest
+j1 <- lapply(f4$DRUGBANK_CATEGORY, function(x) {
+  a <- any(grepl("enzyme inhibit", x, ignore.case=TRUE))
+  b <- any(grepl("antimetabolites", x, ignore.case=TRUE))
+  r <- any(c(a, b))
+})
+j2 <- unlist(j1)
+j4 <- f4[j2,]
+nrow(j4)
+
+# Exclude interactions that focus on drug metabolism because these do inhibit enzyme function
+m1 <- lapply(j4$KEGG_PATHWAY_NAMES, function(x) {
+  a <- any(!grepl("drug metabolism", x, ignore.case=TRUE))
+  r <- any(c(a))
+})
+m2 <- unlist(m1)
+m4 <- j4[m2,]
+nrow(m4)
+
+# Remove the generic "Metabolic pathways"
+g2 <- lapply(m4$KEGG_PATHWAY_NAMES, function(x) {
+  x <- strsplit(x, ";")[[1]]
+  x[!(x %in% "Metabolic pathways")]  
+})
+m4$KEGG_PATHWAY_NAMES <- g2
+
+f6 <- convertDataFrameListsToVectors(m4)
+write.table(f6, file="kegg_drugbank_results.txt", sep="\t", quote=FALSE, row.names=FALSE)
+write.csv(f6, file="kegg_drugbank_results.csv", row.names=FALSE)
+```
+
+## Get Pubmed References for the Remaining Interactions
+```{r}
+library(RISmed)
+library(simpleRCache)
+
+setCacheRootPath("cache")
+EUtilsSummaryCached <- addMemoization(EUtilsSummary)
+EUtilsGetCached <- addMemoization(EUtilsGet)
+
+pmidCnts <- NULL 
+pmids <- list() 
+
+pb <- txtProgressBar(min=1, max=nrow(m4), style=3)
+
+for(i in 1:nrow(m4)) {
+  #i <- 1
+  query <- paste(c(m4$GENE[i], m4$DRUGBANK_NAME[[i]]), collapse=" ")
+  #query
+  
+  res <- EUtilsSummaryCached(query, type="esearch", db="pubmed", retmax=10)
+  pmidCnt <- QueryCount(res)
+  #pmidCnt
+  
+  fetch <- EUtilsGetCached(res, type="efetch", db="pubmed")
+  pmid <- ArticleId(fetch)
+  curPmids <- paste(pmid, collapse = ";")
+  
+  if(verbose) {
+    setTxtProgressBar(pb, i)
+  }
+  
+  pmidCnts <- c(pmidCnts, pmidCnt)
+  #pmids <- c(pmids, pmid)
+  pmids[[i]] <- pmid
+}
+
+#f8 <- cbind(m4, PMID_COUNT=pmidCnts, PMIDS=pmids)
+f8 <- m4
+f8$PMID_COUNT <- pmidCnts
+f8$PMIDS <- pmids
+
+f9 <- convertDataFrameListsToVectors(f8)
+#write.table(f9, file="tmp.txt", sep="\t", quote=FALSE, row.names=FALSE)
+
+#f7 <- unique(f9[f9$PMID_COUNT > 0, c("DRUGBANK_CHEBI", "DRUGBANK_NAME")])
+#write.table(f7, file="drugbank_blacklist.txt", sep="\t", quote=FALSE, row.names=FALSE)
+
+h1 <- read.table("drugbank_blacklist.txt", sep="\t", header=TRUE, stringsAsFactors = FALSE)
+h2 <- h1[which(h1$EXCLUDE), "DRUGBANK_CHEBI"]
+
+f10 <- f9[!(f9$DRUGBANK_CHEBI %in% h2), ]
+write.table(f10, file="tmp.txt", sep="\t", quote=FALSE, row.names=FALSE)
+```
+
+# Summary
+```{r}
+# Genes
+cat("GENES: Total\n")
+length(unique(keggSmMolSif$PARTICIPANT_B))
+
+cat("GENES: Targetable\n")
+length(unique(m4$GENE))
+
+# Drugs
+cat("DRUGS\n")
+length(unique(m4$DRUGBANK_CHEBI))
+
+# Pathways
+cat("PATHWAYS\n")
+length(sort(unique(unlist(m4$KEGG_PATHWAY_NAMES))))
+sort(unique(unlist(m4$KEGG_PATHWAY_NAMES)))
+```
+
+## IGNORE: Exclude certain drug types of less interest
+```{r, eval=FALSE}
+excludeCategories <- c("experimental", "illicit", "nutraceutical", "withdrawn")
+c1 <- lapply(drugbankGroupsCategories$DRUGBANK_CATEGORY, function(x) {
+  a <- all(!(x %in% excludeCategories))
+  b <- length(x) > 0
+  r <- a & b
+})
+c2 <- unlist(c1)
+c3 <- cbind(drugbankGroupsCategories, class=c2)
+dbOut <- c3[c2,]
+
+# Find the interactions in keggDbSif that match the remaining drugs 
+kdIdx <- which(keggDbSif$PARTICIPANT_A %in% dbOut$PARTICIPANT)
+kdOut <- keggDbSif[kdIdx, ]
+
+s1 <- merge(kdOut, dbOut, by.x="PARTICIPANT_A", by.y="PARTICIPANT")
+drops <- c("INTERACTION_PUBMED_ID", "INTERACTION_DATA_SOURCE", "MEDIATOR_IDS", "class")
+# Issues with data.table
+setDF(s1)
+s1 <- s1[, !(colnames(s1) %in% drops)]
+
+## 
+n1 <- convertSifToGmt(keggSmMolSif, "gmt", returnSmallMolecules = FALSE)
+genes <- n1$gmt
+
+a1 <- list()
+
+for(i in 1:length(genes)) {
+  #i <- 7
+  #i <- 62 # COMT
+  gene <- genes[i]
+  
+  kd1 <- filterSif(dbSif$edges, ids=gene, idsBothParticipants = FALSE)
+  kd2 <- filterSif(keggSif$edges, ids=gene, interactionTypes = intCats$BetweenProteinSmallMolecule, idsBothParticipants = FALSE)
+  
+  b2 <- addSifNames(kd1, dbSif$nodes)
+  b3 <- addSifNames(kd2, keggSif$nodes)
+  b4 <- rbind(b2, b3)
+  
+  sm1 <- convertSifToGmt(b4, "gmt", returnSmallMolecules = TRUE)
+  sm2 <- dbOut$PARTICIPANT %in% sm1$gmt
+  sm3 <- NA 
+  
+  if(any(sm2)) {
+    sm3 <- dbOut[sm2, ]
+    sm3 <- cbind(sm3, GENE=rep(gene, nrow(sm3)))
+    #sm3 <- unique(sm3)
+  }
+  
+  if(!is.na(sm3)) {
+    a1[[gene]] <- sm3
+  }
+}
+
+g1 <- "HPD"
+#View(a1$PDE1A)
+
+sm4 <- filterSif(keggSmMolSif, ids = "PDE1A", idsBothParticipants = FALSE)
+sm5 <- addSifNames(sm4, keggSif$nodes)
+```
+
+## IGNORE: Add SIF Names to Merge Information about the Nodes and Interactions
+```{r, eval=FALSE}
+addSifNames <- function(tmpSif, tmpNodes) {
+  b1 <- merge(tmpSif, tmpNodes, by.x="PARTICIPANT_A", by.y="PARTICIPANT", all.x=TRUE)
+  drop <- c("INTERACTION_DATA_SOURCE", "INTERACTION_PUBMED_ID", "PATHWAY_NAMES", "MEDIATOR_IDS", "PARTICIPANT_TYPE", "UNIFICATION_XREF", "RELATIONSHIP_XREF")
+  setDF(b1)
+  b1 <- b1[, !(colnames(b1) %in% drop)]
+  
+  b2 <- merge(b1, tmpNodes, by.x="PARTICIPANT_B", by.y="PARTICIPANT", all.x=TRUE)
+  drop <- c("PARTICIPANT_TYPE", "UNIFICATION_XREF", "RELATIONSHIP_XREF")
+  b2 <- b2[, !(colnames(b2) %in% drop)]
+  
+  cols <- c("PARTICIPANT_A", "INTERACTION_TYPE", "PARTICIPANT_B", "PARTICIPANT_NAME.x", "PARTICIPANT_NAME.y")
+  b2 <- b2[, cols]
+  
+  return(b2)  
+}
+```
+
+## Session Info
+```{r}
+sessionInfo()
+```

@@ -9,3 +9,6 @@ import/log
 analysis/cache
 scratch.txt
 drugbank_blacklist.txt
+README.html
+data/metabolomics/oldstudies_EXCLUDED
+data/studies/oldstudies_EXCLUDED

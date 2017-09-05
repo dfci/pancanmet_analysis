@@ -1,0 +1,5 @@
+These files are downloaded from Bitbucket commit bfb60b2 using the command
+
+https://bitbucket.org/cbio_mskcc/pancanmet_analysis/get/bfb60b2.tar.gz
+
+You can see that the files were created/modified/etc on June 27. We implemented a small change in the import pipeline on July 15, 2016, where we changed tumor types in the _met files in the import folder from sentence case (e.g. Tumor, Normal, Metastasis) to lower case (tumor, normal, metastasis). We just wanted to confirm that the resulting files that we produce in the data/merged_metabolomics/ folder are identical to what we had before. Running a diff on the new files and the files here confirm that they are the same.

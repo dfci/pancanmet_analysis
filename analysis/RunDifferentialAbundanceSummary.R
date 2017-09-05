@@ -237,15 +237,16 @@ barplot = bardata
 barplot[,1:(dim(bardata)[2]-3)] = barplot[,1:(dim(bardata)[2]-3)]/bardata[,1]
 barplot$SourceTissue = sourcetissue[ as.character(rownames(barplot)) ]
 p1 = ggplot(barplot,aes(NumTumors + NumNormals,SigDiff,color = SourceTissue,label = Study)) + geom_point() + 
-  scale_color_discrete(name = 'Cancer Type') + 
+  scale_color_manual(name = 'Cancer Type',values = sourcetissue_color) + theme_classic(base_size = 10) + 
  geom_text(vjust="inward",hjust="inward",show.legend = FALSE) + xlab('') + ylab('\n') + ggtitle('BH-Corrected P-Value < 0.05')
 
 p2 = ggplot(barplot,aes(NumTumors + NumNormals,SigUpFC + SigDownFC,color = SourceTissue,label = Study)) + geom_point() + 
-  geom_text(vjust="inward",hjust="inward",show.legend = FALSE) +
-  scale_color_discrete(name = 'Cancer Type') + 
+  geom_text(vjust="inward",hjust="inward",show.legend = FALSE) + theme_classic(base_size = 10) + 
+  scale_color_manual(name = 'Cancer Type',values = sourcetissue_color) +
   xlab('Number of Samples (Tumor + Normal)') + ylab('Proportion of Metabolites\nDifferentially Abundant') + 
-  ggtitle('BH-Corrected P-Value < 0.05 and > 2-Fold Change in Abundance')
+  ggtitle('BH-Corrected P-Value < 0.05\nand > 2-Fold Change in Abundance')
 
-p1p2 = plot_grid(p1,p2,ncol = 1,labels = 'AUTO')
-save_plot('../results/diffabundance/samples_vs_diffabundance.pdf',p1p2,base_height = 8,base_width = 8)
+p1legend = get_legend(p1)  
+p1p2 = plot_grid(p1+theme(legend.position = 'none') ,p2+theme(legend.position = 'none'),p1legend,ncol = 3,labels = 'AUTO',rel_widths = c(3,3,1))
+save_plot('../results/diffabundance/samples_vs_diffabundance.pdf',p1p2,base_height = 4,base_width = 8)
 

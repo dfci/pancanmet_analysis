@@ -1,4 +1,5 @@
-# Script to compare metabolomics data from different studies. WE USE UNCORRECTED P-VALUES TO DO THE TESTING!
+# Script to compare metabolomics data from different studies. 
+# WE USE UNCORRECTED P-VALUES TO DO THE TESTING (with a threshold of 0.1!!!)!!
 
 # Issues:
 # 1. Check the multiplot code and the way we are generating combinations.
@@ -84,10 +85,17 @@ for (ttype in mult){
   if (length(scombs)==2){scombs = matrix(t(scombs))}
   
   for (i in 1:dim(scombs)[2]){
+    study1 = scombs[1,i]
+    study2 = scombs[2,i]
     s2plot = scombs[,i]
+    
     plotdata = fc[,s2plot]
-    plotdata[which(padj[,s2plot] > pthresh,arr.ind = T)] = 0
     colnames(plotdata) = c('X','Y')
+    
+    # Determine which metabolites are significantly different
+    sigmets = rownames(padj)[which(p[,study1] < pthresh & p[,study2] < pthresh)]
+    plotdata$Significance = 'NS'
+    plotdata[sigmets,'Significance'] = 'Significant'
     
     # Calculate the p value of a fisher test
     tempfc = fcadj[,s2plot]
@@ -97,10 +105,19 @@ for (ttype in mult){
     pvalue = fisher.test(table(tempfc))$p.value
     pvalue = round(pvalue,3)
     
-    fignum = ggplot(plotdata,aes(X,Y)) + geom_point() + theme_classic() + 
+    # Calculate correlation too
+    tissuecor = cor.test(plotdata$X,plotdata$Y,method = 'spearman')
+    tissuecorval = round(tissuecor$estimate,3)
+    tissuecorp = round(tissuecor$p.value,3)
+    
+    # Make title string
+    titlestr = paste(ttype,', Fisher Test P-Value =',pvalue,'\n','Spearman rho',tissuecorval,
+                     'P-Value =',tissuecorp,sep = ' ')
+    
+    fignum = ggplot(plotdata,aes(X,Y,color = Significance)) + geom_point() + theme_classic() + 
       xlab(names2plot[s2plot[1]]) + ylab(names2plot[s2plot[2]])  + 
       geom_vline(xintercept = 0) + geom_hline(yintercept = 0) + 
-      ggtitle(paste(ttype,', Fisher Test P-Value = ',pvalue,sep = ''))
+      ggtitle(titlestr) + scale_color_manual(values = c('NS' = 'gray','Significant' = 'red'))
     pname = paste('fignum',pctr,sep='')
     pctr = pctr + 1
     pnames = c(pnames,pname)

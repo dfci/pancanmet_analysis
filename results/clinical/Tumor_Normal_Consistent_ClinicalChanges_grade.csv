@@ -1,0 +1,139 @@
+"","Row","Column","TumorAssociation","NormalAssociation","Metabolite","Study"
+"1-stearoylglycerophosphoethanolamine",1,2,1,1,"1-stearoylglycerophosphoethanolamine","Breast
+Terunuma"
+"isoleucine",10,2,1,1,"isoleucine","Breast
+Terunuma"
+"arginine",11,2,1,1,"arginine","Breast
+Terunuma"
+"2-arachidonoylglycerophosphocholine*",62,2,1,1,"2-arachidonoylglycerophosphocholine*","Breast
+Terunuma"
+"docosatrienoate (22:3n3)",80,2,1,1,"docosatrienoate (22:3n3)","Breast
+Terunuma"
+"ribose",87,2,1,1,"ribose","Breast
+Terunuma"
+"spermidine",2,4,1,1,"spermidine","Clear Cell
+Kidney"
+"5,6-dihydrouracil",5,4,1,1,"5,6-dihydrouracil","Clear Cell
+Kidney"
+"linolenate [alpha or gamma; (18:3n3 or 6)]",15,4,-1,-1,"linolenate [alpha or gamma; (18:3n3 or 6)]","Clear Cell
+Kidney"
+"putrescine",16,4,1,1,"putrescine","Clear Cell
+Kidney"
+"7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)",20,4,1,1,"7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca)","Clear Cell
+Kidney"
+"butyrylcarnitine",31,4,1,1,"butyrylcarnitine","Clear Cell
+Kidney"
+"hexanoylcarnitine",41,4,1,1,"hexanoylcarnitine","Clear Cell
+Kidney"
+"glutathione, reduced (gsh)",42,4,1,1,"glutathione, reduced (gsh)","Clear Cell
+Kidney"
+"4-hydroxybutyrate (ghb)",44,4,1,1,"4-hydroxybutyrate (ghb)","Clear Cell
+Kidney"
+"aspartylleucine",59,4,1,1,"aspartylleucine","Clear Cell
+Kidney"
+"n-acetylmethionine",65,4,1,1,"n-acetylmethionine","Clear Cell
+Kidney"
+"aspartylphenylalanine",68,4,1,1,"aspartylphenylalanine","Clear Cell
+Kidney"
+"fucose",72,4,1,1,"fucose","Clear Cell
+Kidney"
+"cytidine 5'-diphosphocholine",75,4,1,1,"cytidine 5'-diphosphocholine","Clear Cell
+Kidney"
+"alanylleucine",76,4,1,1,"alanylleucine","Clear Cell
+Kidney"
+"quinolinate",86,4,1,1,"quinolinate","Clear Cell
+Kidney"
+"lactate",88,4,1,1,"lactate","Clear Cell
+Kidney"
+"pipecolate",90,4,1,1,"pipecolate","Clear Cell
+Kidney"
+"3-(4-hydroxyphenyl)lactate",93,4,1,1,"3-(4-hydroxyphenyl)lactate","Clear Cell
+Kidney"
+"erythritol",104,4,1,1,"erythritol","Clear Cell
+Kidney"
+"5-oxoproline",107,4,-1,-1,"5-oxoproline","Clear Cell
+Kidney"
+"pelargonate (9:0)",117,4,-1,-1,"pelargonate (9:0)","Clear Cell
+Kidney"
+"inositol 1-phosphate (i1p)",124,4,-1,-1,"inositol 1-phosphate (i1p)","Clear Cell
+Kidney"
+"galactose",126,4,1,1,"galactose","Clear Cell
+Kidney"
+"choline",174,4,-1,-1,"choline","Clear Cell
+Kidney"
+"13-hode + 9-hode",210,4,-1,-1,"13-hode + 9-hode","Clear Cell
+Kidney"
+"3-ureidopropionate",235,4,1,1,"3-ureidopropionate","Clear Cell
+Kidney"
+"alanylglutamate",236,4,1,1,"alanylglutamate","Clear Cell
+Kidney"
+"alanylisoleucine",237,4,1,1,"alanylisoleucine","Clear Cell
+Kidney"
+"alanylmethionine",238,4,1,1,"alanylmethionine","Clear Cell
+Kidney"
+"alanylphenylalanine",239,4,1,1,"alanylphenylalanine","Clear Cell
+Kidney"
+"alpha-glutamyltyrosine",240,4,1,1,"alpha-glutamyltyrosine","Clear Cell
+Kidney"
+"glycylphenylalanine",241,4,1,1,"glycylphenylalanine","Clear Cell
+Kidney"
+"histidyltryptophan",242,4,1,1,"histidyltryptophan","Clear Cell
+Kidney"
+"homoserine",243,4,1,1,"homoserine","Clear Cell
+Kidney"
+"isoleucylmethionine",244,4,1,1,"isoleucylmethionine","Clear Cell
+Kidney"
+"leucylphenylalanine",245,4,1,1,"leucylphenylalanine","Clear Cell
+Kidney"
+"leucylserine",246,4,1,1,"leucylserine","Clear Cell
+Kidney"
+"methionylasparagine",248,4,1,1,"methionylasparagine","Clear Cell
+Kidney"
+"methionylglycine",249,4,1,1,"methionylglycine","Clear Cell
+Kidney"
+"methionylleucine",250,4,1,1,"methionylleucine","Clear Cell
+Kidney"
+"phenylalanylalanine",251,4,1,1,"phenylalanylalanine","Clear Cell
+Kidney"
+"phenylalanylaspartate",252,4,1,1,"phenylalanylaspartate","Clear Cell
+Kidney"
+"phenylalanylglutamate",253,4,1,1,"phenylalanylglutamate","Clear Cell
+Kidney"
+"phenylalanylglycine",254,4,1,1,"phenylalanylglycine","Clear Cell
+Kidney"
+"phenylalanylphenylalanine",255,4,1,1,"phenylalanylphenylalanine","Clear Cell
+Kidney"
+"phenylalanylserine",256,4,1,1,"phenylalanylserine","Clear Cell
+Kidney"
+"phenylalanylvaline",257,4,1,1,"phenylalanylvaline","Clear Cell
+Kidney"
+"threonylmethionine",259,4,1,1,"threonylmethionine","Clear Cell
+Kidney"
+"tryptophylasparagine",260,4,1,1,"tryptophylasparagine","Clear Cell
+Kidney"
+"tryptophylglutamate",261,4,1,1,"tryptophylglutamate","Clear Cell
+Kidney"
+"tyrosylalanine",262,4,1,1,"tyrosylalanine","Clear Cell
+Kidney"
+"tyrosylglutamine",263,4,1,1,"tyrosylglutamine","Clear Cell
+Kidney"
+"tyrosylglycine",264,4,1,1,"tyrosylglycine","Clear Cell
+Kidney"
+"tyrosylleucine",265,4,1,1,"tyrosylleucine","Clear Cell
+Kidney"
+"tyrosylvaline",266,4,1,1,"tyrosylvaline","Clear Cell
+Kidney"
+"valylasparagine",267,4,1,1,"valylasparagine","Clear Cell
+Kidney"
+"valylisoleucine",268,4,1,1,"valylisoleucine","Clear Cell
+Kidney"
+"valylphenylalanine",269,4,1,1,"valylphenylalanine","Clear Cell
+Kidney"
+"valyltryptophan",270,4,1,1,"valyltryptophan","Clear Cell
+Kidney"
+"xylose",272,4,1,1,"xylose","Clear Cell
+Kidney"
+"3-aminoisobutyrate",7,11,1,1,"3-aminoisobutyrate","Prostate
+Priolo"
+"tryptophan betaine",39,11,-1,-1,"tryptophan betaine","Prostate
+Priolo"

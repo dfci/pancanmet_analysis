@@ -62,7 +62,8 @@ for (met in rownames(res)){
   
   # Decide on number of columns
   if (length(unique(pdata$study)) <= 3){
-    numcols = 1;width = 5;
+    #numcols = 1;width = 5;
+    numcols = 2;width = 10; # make everything 2x2
   }else{numcols = 2;width = 10}
   
   # Plot
